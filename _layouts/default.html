@@ -35,10 +35,10 @@
 <body>
  	<header class="header-main">
 		<div class="container">
-			<a href="{{ HOME_PATH }}"><img src="images/logo-iesf-normandie.jpg" alt="{{ site.title }}" /></a>
+			<a id="top" href="{{ HOME_PATH }}"><img src="images/logo-iesf-normandie.jpg" alt="{{ site.title }}" /></a>
 		</div>
 	</header>
- <nav class="navbar navbar-inverse navbar-fixed-top" role="navigation">
+ <nav class="navbar navbar-inverse" role="navigation">
    <div class="container">
   	<div class="collapse navbar-collapse navbar-ex1-collapse">
 	     <ul class="nav navbar-nav">
@@ -68,6 +68,23 @@
 	<!-- JS
 	================================================== -->
 	<script src="//ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+	<script type="text/javascript" charset="utf-8">
+		$(function() {
+		  $('a[href*=#]:not([href=#])').click(function() {
+		    if (location.pathname.replace(/^\//,'') == this.pathname.replace(/^\//,'') && location.hostname == this.hostname) {
+		      var target = $(this.hash);
+		      target = target.length ? target : $('[name=' + this.hash.slice(1) +']');
+		      if (target.length) {
+		        $('html,body').animate({
+		          scrollTop: target.offset().top
+		        }, 100);
+		        return false;
+		      }
+		    }
+		  });
+		});
+	</script>
+	
 
 <!-- End Document
 ================================================== -->
