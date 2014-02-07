@@ -18,7 +18,7 @@
 
 	<!-- CSS
   ================================================== -->
-	<link rel="stylesheet" href="stylesheets/application.css">
+	<link rel="stylesheet" href="{{ HOME_PATH }}/stylesheets/application.css">
 
 	<!--[if lt IE 9]>
 		<script src="//html5shim.googlecode.com/svn/trunk/html5.js"></script>
@@ -26,23 +26,26 @@
 
 	<!-- Favicons
 	================================================== -->
-	<link rel="shortcut icon" href="images/favicon.ico">
-	<link rel="apple-touch-icon" href="images/apple-touch-icon.png">
-	<link rel="apple-touch-icon" sizes="72x72" href="images/apple-touch-icon-72x72.png">
-	<link rel="apple-touch-icon" sizes="114x114" href="images/apple-touch-icon-114x114.png">
+	<link rel="shortcut icon" href="{{ HOME_PATH }}/images/favicon.ico">
+	<link rel="apple-touch-icon" href="{{ HOME_PATH }}/images/apple-touch-icon.png">
+	<link rel="apple-touch-icon" sizes="72x72" href="{{ HOME_PATH }}/images/apple-touch-icon-72x72.png">
+	<link rel="apple-touch-icon" sizes="114x114" href="{{ HOME_PATH }}/images/apple-touch-icon-114x114.png">
 
 </head>
 <body>
  	<header class="header-main">
 		<div class="container">
-			<a id="top" href="/"><img src="images/logo-iesf-normandie.jpg" alt="{{ site.title }}" /></a>
+			<a id="top" href="/">
+				<img src="/images/logo-iesf-normandie.jpg" alt="{{ site.title }}" />
+				<span class="sitetitle">{{ site.title }}</span>
+			</a>
+			
 		</div>
 	</header>
  <nav class="navbar navbar-inverse" role="navigation">
    <div class="container">
   	<div class="collapse navbar-collapse navbar-ex1-collapse">
 	     <ul class="nav navbar-nav">
-				<li><a href="/">Accueil</a></li>
          {% assign pages_list = site.pages %}
          {% assign group = 'navigation' %}
          {% include pages_list %}
