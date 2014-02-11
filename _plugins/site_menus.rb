@@ -32,7 +32,7 @@ module Jekyll
 
       # Give this menu an id attribute if we're on the first level.
       if (isFirstLvl)
-        output += "<ul id=\"#{@menu_name}-menu\" class=\"menu level-#{level} nav navbar-nav\">\n"
+        output += "<ul id=\"#{@menu_name}-menu\" class=\"menu level-#{level}\">\n"
       else
         output += "<div class=\"sub-menu level-#{level}\"><ul class=\"menu sub-menu level-#{level}\">\n"
       end
