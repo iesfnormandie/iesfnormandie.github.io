@@ -46,10 +46,52 @@
    <div class="container">
   	<div class="collapse navbar-collapse navbar-ex1-collapse">
 	     <ul class="nav navbar-nav">
-         {% assign pages_list = site.pages %}
+        <!--{% assign pages_list = site.pages %}
          {% assign group = 'navigation' %}
-         {% include pages_list %}
-				 {% menu main %}
+         {% include pages_list %}-->
+
+        {% if page.title == "Accueil" %}
+            <li class="active"><a href="#">Accueil</a></li>
+        {% else %}
+            <li><a href="/">Accueil</a></li>
+        {% endif %}
+				
+				{% if page.title == "Flash Info" or page.title == "Dates à retenir" %}
+            <li class="active"><a class="dropdown-toggle" data-toggle="dropdown" href="/flashinfo/">Informations générales <b class="caret"></b></a>
+        {% else %}
+            <li>
+							<a class="dropdown-toggle" data-toggle="dropdown" href="/flashinfo/">Informations générales <b class="caret"></b></a>
+        {% endif %}
+					<ul class="dropdown-menu">
+            <li><a href="/flash-info/">Tous les flashs infos</a></li>
+						<li><a href="/dates-retenir/">Dates à retenir</a></li>
+          </ul>
+				</li>
+				
+				{% if page.title == "Les objectifs" or page.title == "Le bureau" or page.title == "Les statuts"  %}
+            <li class="active" dropdown-toggle" data-toggle="dropdown""><a class="dropdown-toggle" data-toggle="dropdown" href="/objectifs/">Présentation de IESF-HN <b class="caret"></b></a>
+        {% else %}
+            <li>
+							<a class="dropdown-toggle" data-toggle="dropdown" href="/objectifs/">Présentation de IESF-HN <b class="caret"></b></a>
+        {% endif %}
+					<ul class="dropdown-menu">
+            <li><a href="/objectifs/">Les objectifs</a></li>
+						<li><a href="/bureau/">Le bureau</a></li>
+						<li><a href="/statuts/">Les statuts</a></li>
+          </ul>
+				</li>
+				{% if page.title == "Contactez-nous" or page.title == "Le métier d'ingénieur" or page.title == "Adhésion" %}
+            <li class="active"><a class="dropdown-toggle" data-toggle="dropdown" href="/contact/">Nous joindre <b class="caret"></b></a>
+        {% else %}
+            <li>
+							<a class="dropdown-toggle" data-toggle="dropdown" href="/contact/">Contactez nous <b class="caret"></b></a>
+        {% endif %}
+						<ul class="dropdown-menu">
+							<li><a href="/contact/">Nous joindre</a></li>
+		          <li><a href="/ingenieur/">Le métier d'ingénieur</a></li>
+							<li><a href="/adhesion/">Adhésion</a></li>
+		        </ul>
+					</li>
        </ul>
 	  </div>
 	</div>
@@ -72,6 +114,7 @@
 	<!-- JS
 	================================================== -->
 	<script src="//ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+	<script src="/javascripts/dropdown.js"></script>
 	<script type="text/javascript" charset="utf-8">
 		$(function() {
 		  $('a[href*=#]:not([href=#])').click(function() {

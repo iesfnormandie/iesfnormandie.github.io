@@ -12,5 +12,3 @@ menus:
     main:
     - Accueil: /
     - Archives: /archives/
-    - Présentation de IESF-HN:
-      - Objectifs: /objectifs.html

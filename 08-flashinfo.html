@@ -1,0 +1,15 @@
+---
+title: Flash info
+layout: page
+group: navigation
+permalink: flash-info/
+---
+
+<div class="col-md-8">
+<h2>Les flashs Infos</h2>
+<ul class="nav nav-side">
+{% for post in site.posts %}
+		<li><a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></li>
+{% endfor %}
+</ul>
+</div>

@@ -30,12 +30,19 @@ body {
 .navbar .nav a 								{color:#fff !important;}
 .navbar .nav a:hover,
 .navbar .nav .active a 				{background:#0F2338 !important;}
+.dropdown-menu								{width:230px;}
+.navbar .nav .active .dropdown-menu a				{background:white !important;}
+.navbar .nav .active .dropdown-menu a:hover	{background:black !important;}
+.navbar .nav .dropdown-menu a								{color:black !important;}
+.navbar .nav .dropdown-menu a:hover				  {color:white !important;}
 
 .nav-anchor 	 								{margin-bottom:3em;padding-bottom:1em;border-bottom:1px solid #999;}
 .nav-anchor ul 								{padding-left:1em;list-style-type:none;}
 .nav-anchor h2 								{padding:0;font-size:1.2em;border:none;}
 
-.nav-side li a								{margin:0;padding:.1em 0em;font-size:1em;} 										
+.nav-side li a								{margin:0;padding:.1em 0em;font-size:1em;}
+
+.nav .caret 									{border-top-color:white !important;border-bottom-color:white !important;}
 
 .page-header									{margin-top:0;}
 

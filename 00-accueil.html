@@ -2,7 +2,7 @@
 title: Accueil
 layout: default
 group: navigation
-permalink: index.html
+permalink: /
 ---
 
 <h1>Ingénieurs et scientifiques de France</h1>
@@ -17,7 +17,7 @@ permalink: index.html
 </div>
 
 <h2>Les derniers bulletins</h2>
-{% for post in site.posts limit:3 %}
+{% for post in site.posts limit:1 %}
   <section class="list-flash">
 		<h1><a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></h1>
 	</section>
