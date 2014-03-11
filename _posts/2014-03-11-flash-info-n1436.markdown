@@ -1,9 +1,8 @@
 ---
 title: Flash info N1436
-published: false
+published: true
 layout: default
 ---
-
 
 l 27 et 28 janvier, colloque Femmes, sciences et technologies à Poitiers
 
