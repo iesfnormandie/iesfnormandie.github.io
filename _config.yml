@@ -7,8 +7,3 @@
 exclude:
   - README.md
 title: "IESF - Normandie"
-
-menus:
-    main:
-    - Accueil: /
-    - Archives: /archives/
