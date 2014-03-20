@@ -2,3 +2,11 @@ sitemap.xml
 _site
 .include_tree
 .spinto_data
+
+Thumbs.db
+.DS_Store
+
+!.gitkeep
+
+.rbenv-version
+.rvmrc
