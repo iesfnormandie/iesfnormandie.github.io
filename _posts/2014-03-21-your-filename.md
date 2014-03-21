@@ -1,6 +1,6 @@
 ---
 layout: default
-published: false
+published: true
 ---
 
 <table width="710" border="0" cellspacing="0" cellpadding="2">
