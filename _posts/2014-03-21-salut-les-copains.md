@@ -1,6 +1,7 @@
 ---
 layout: default
-published: true
+published: false
+title: salut les copains
 ---
 
 <table width="710" border="0" cellspacing="0" cellpadding="2">
