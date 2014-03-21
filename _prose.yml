@@ -17,6 +17,7 @@ prose:
     - /javascripts
     - /stylesheets
     - /flash
+    - /images
   metadata:
     _posts:
       - name: "layout"
