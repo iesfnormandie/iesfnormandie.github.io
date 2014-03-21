@@ -6,6 +6,6 @@
 #
 exclude: [".rvmrc",".rbenv-version","Rakefile","Gemfile","Gemfile.lock","changelog.md","README.md",'sass','watch.sh','DS_Store'] # files to exclude
 title: "IESF - Normandie"
-production_url : http://bertrandkeller.github.io/iesfnormandie/
+production_url : http://iesfhautenormandie.fr/
 
 markdown : rdiscount
