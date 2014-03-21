@@ -2,7 +2,7 @@ prose:
   rooturl: ''
   siteurl: 'http://iesfnormandie.github.io/'
   relativeLinks: 'http://iesfnormandie.github.io/'
-  media: 'images'
+  media: 'media'
   ignore:
     - CNAME
     - robots.txt
