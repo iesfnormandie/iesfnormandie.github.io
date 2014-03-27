@@ -2,7 +2,7 @@ prose:
   rooturl: ''
   siteurl: 'http://iesfnormandie.github.io/'
   relativeLinks: 'http://iesfnormandie.github.io/'
-  media: 'images'
+  media: 'media'
   ignore:
     - CNAME
     - robots.txt
@@ -17,10 +17,18 @@ prose:
     - /javascripts
     - /stylesheets
     - /flash
+    - /images
   metadata:
     _posts:
       - name: "layout"
         field:
           element: "hidden"
           value: "default"
+      - name: "title"
+        field:
+          element: "text"
+          label: "Ajouter un title"
+          placeholder: "titre de la page"
+          
+          
       

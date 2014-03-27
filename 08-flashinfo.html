@@ -9,7 +9,14 @@ permalink: flash-info.html
 <h2>Les flashs Infos</h2>
 <ul class="nav nav-side">
 {% for post in site.posts %}
-		<li><a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></li>
+		<li><a href="{{ BASE_PATH }}{{ post.url }}">
+		{% if post.title %}
+			{{ post.title }}
+		{% else %}
+			{% capture postnewtitle %}{{ post.url | remove:'.html' | replace:'-',' ' | split:'/' | last}}{% endcapture %}
+			{{ postnewtitle }}
+		{% endif %}
+		</a></li>
 {% endfor %}
 </ul>
 </div>

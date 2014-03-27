@@ -26,6 +26,14 @@ permalink: /
 
 <h2>Le dernier bulletin</h2>
 {% for post in site.posts limit:1 %}
-  <section class="list-flash"><h1><a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></h1>
+  	<section class="list-flash"><h1>
+  		<a href="{{ BASE_PATH }}{{ post.url }}">
+  		{% if post.title %}
+			{{ post.title }}
+		{% else %}
+			{% capture postnewtitle %}{{ post.url | remove:'.html' | replace:'-',' ' | split:'/' | last}}{% endcapture %}
+			{{ postnewtitle }}
+		{% endif %}
+  	</a></h1>
 	</section>
 {% endfor %}
