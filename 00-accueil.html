@@ -10,30 +10,31 @@ permalink: /
 <div class="row">
 	<div class="col-md-8">
 		<div class="important spinto-editable" id="headline-content">
-		<h2>Intégrateur de talents</h2>
+<h2>Intégrateur de talents</h2>
 			<ol>
-				<li>Accompagner la recherche d'emploi</li>
+<li>Accompagner la recherche d'emploi</li>
 				<li>Favoriser les contacts et les échanges</li>
-				<li>Fédérer les Ingénieurs de Haute Normandie</li>
+				<li>Fédérer les Ingénieurs de Haute Normandie </li>
 			</ol>
-		</div>
+</div>
   	</div>
 	
   	<div class="col-md-4">
     	<img src="images/IESF-accueil.jpg" alt="">
-	</div>
+</div>
 </div>
 
 <h2>Le dernier bulletin</h2>
 {% for post in site.posts limit:1 %}
   	<section class="list-flash"><h1>
-  		<a href="{{ BASE_PATH }}{{ post.url }}">
+  		<a href="%7B%7B%20BASE_PATH%20%7D%7D%7B%7B%20post.url%20%7D%7D">
   		{% if post.title %}
 			{{ post.title }}
 		{% else %}
 			{% capture postnewtitle %}{{ post.url | remove:'.html' | replace:'-',' ' | split:'/' | last}}{% endcapture %}
 			{{ postnewtitle }}
 		{% endif %}
-  	</a></h1>
+  	</a>
+</h1>
 	</section>
 {% endfor %}
