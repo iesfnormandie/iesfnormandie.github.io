@@ -9,6 +9,8 @@ prose:
     - index.md
     - _config.yml
     - _prose.yml
+    - 404.html
+    - flashinfo.html
     - .gitignore
     - /_layouts
     - /_includes
