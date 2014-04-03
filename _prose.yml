@@ -1,7 +1,7 @@
 prose:
-  rooturl: '/'
+  rooturl: ''
   siteurl: 'http://iesfhautenormandie.fr'
-  relativeLinks: 'http://iesfhautenormandie.fr'
+  relativeLinks: ''
   media: 'media'
   ignore:
     - CNAME
