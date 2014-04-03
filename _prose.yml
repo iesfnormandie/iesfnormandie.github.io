@@ -1,5 +1,5 @@
 prose:
-  rooturl: 'http://iesfhautenormandie.fr'
+  rooturl: '/'
   siteurl: 'http://iesfhautenormandie.fr'
   relativeLinks: 'http://iesfhautenormandie.fr'
   media: 'media'
