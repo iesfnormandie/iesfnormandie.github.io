@@ -27,7 +27,7 @@ permalink: /
 <h2>Le dernier bulletin</h2>
 {% for post in site.posts limit:1 %}
   	<section class="list-flash"><h1>
-  		<a href="%7B%7B%20BASE_PATH%20%7D%7D%7B%7B%20post.url%20%7D%7D">
+  		<a href="{{ BASE_PATH }}{{ post.url }}">
   		{% if post.title %}
 			{{ post.title }}
 		{% else %}
