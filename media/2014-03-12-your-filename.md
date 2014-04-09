@@ -1,0 +1,21 @@
+![logo-iesf-normandie.jpg](/media/logo-iesf-normandie.jpg)
+Journée nationale de l’Ingénieur le Jeudi 3 Avril 2014
+Communiqué de presse - Contexte
+Le président de la République accorde son haut patronage à la deuxième édition de la Journée Nationale de l’Ingénieur(JNI) le 3 avril 2014 dans 28 grandes villes dont ROUEN.
+
+**IESF   Ingénieurs Et Scientifiques de France**
+L’association IESF regroupe les ingénieurs et scientifiques (recherche et université) de France. 
+L’enquête bisannuelle faite par l’observatoire des ingénieurs collecte 50 000 réponses et en fait un rapport très apprécié.
+IESF représente 4% de la population française soit 1 million de personnes.
+C’est une institution qui assure l’adaptation des écoles d’ingénieurs à l’évolution de l’économie française pour assurer la compétitivité sur les marchés mondiaux. Elle entretient des liens avec la Commission des Titres d’Ingénieurs qui audite régulièrement les écoles pour assurer la qualité de l’enseignement.
+Nous assurons la diffusion des renseignements dans les écoles et lycées pour permettre aux jeunes talents de s’exprimer dans ces vocations par le savoir et par l’exemple.
+La JNI 2014 journée nationale de l’ingénieur
+Pour développer la notoriété, c'est-à-dire la reconnaissance publique de la dimension sociale des Ingénieurs et Scientifiques nous avons décidé de faire une journée grand public qui permettra de reconnaître cette profession.
+C’est la deuxième année en France, la première en Normandie
+L’esprit du programme![](/media/LogoISF.gif)
+## Le programme de la journée rouennaise se veut dynamique :
+Le matin à la CCI : 10h00 accueil et présentation de la JNI 2014, conférence « L’ingénieur force vive ».
+L’après midi : 14h00 à la Cité des métiers : l’ingénieur aujourd’hui : de l’énergie à l’international.
+Programme détaillé : ci joint
+Gratuit, inscription préalable bienvenue mais non nécessaire.
+
