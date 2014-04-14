@@ -1,6 +1,6 @@
 prose:
   rooturl: ''
-  siteurl: ''
+  siteurl: "http://iesfnormandie.github.io"
   relativeLinks: ''
   media: 'media'
   ignore:
