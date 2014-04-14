@@ -6,6 +6,42 @@
 #
 exclude: [".rvmrc",".rbenv-version","Rakefile","Gemfile","Gemfile.lock","changelog.md","README.md",'sass','watch.sh','DS_Store'] # files to exclude
 title: "IESF - Normandie"
+baseurl : http://iesfhautenormandie.fr/
 production_url : http://iesfhautenormandie.fr/
 
 markdown : rdiscount
+
+prose:
+  rooturl: ''
+  siteurl: "http://iesfnormandie.github.io"
+  relativeLinks: ''
+  media: 'media'
+  ignore:
+    - CNAME
+    - robots.txt
+    - index.md
+    - _config.yml
+    - _prose.yml
+    - 404.html
+    - flashinfo.html
+    - .gitignore
+    - /_layouts
+    - /_includes
+    - /_plugins
+    - /fonts
+    - /javascripts
+    - /stylesheets
+    - /flash
+    - /images
+  metadata:
+    _posts:
+      - name: "layout"
+        field:
+          element: "hidden"
+          value: "default"
+      - name: "title"
+        field:
+          element: "text"
+          label: "Ajouter un title"
+          placeholder: "titre de la page"
+          
