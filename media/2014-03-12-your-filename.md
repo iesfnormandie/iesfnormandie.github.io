@@ -2,7 +2,7 @@
 Journée nationale de l’Ingénieur le Jeudi 3 Avril 2014
 Communiqué de presse - Contexte
 Le président de la République accorde son haut patronage à la deuxième édition de la Journée Nationale de l’Ingénieur(JNI) le 3 avril 2014 dans 28 grandes villes dont ROUEN.
-![](/media/IMG_4192.JPG)
+![text](/media/plante-support-bois-tresse.jpg)
 **IESF   Ingénieurs Et Scientifiques de France**
 L’association IESF regroupe les ingénieurs et scientifiques (recherche et université) de France. 
 L’enquête bisannuelle faite par l’observatoire des ingénieurs collecte 50 000 réponses et en fait un rapport très apprécié.
