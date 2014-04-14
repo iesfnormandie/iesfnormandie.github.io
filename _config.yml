@@ -12,7 +12,6 @@ title: "IESF - Normandie"
 markdown : rdiscount
 
 prose:
-  rooturl: ''
   siteurl: "http://iesfhautenormandie.fr/"
   relativeLinks: ''
   media: 'media'
