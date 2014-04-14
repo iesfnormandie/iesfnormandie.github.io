@@ -1,4 +1,4 @@
-![images](/media/IMG_4192.JPG)![logo-iesf-normandie.jpg](/media/logo-iesf-normandie.jpg)
+![](//media/IMG_4192.JPG)[logo-iesf-normandie.jpg](/media/logo-iesf-normandie.jpg)
 Journée nationale de l’Ingénieur le Jeudi 3 Avril 2014
 Communiqué de presse - Contexte
 Le président de la République accorde son haut patronage à la deuxième édition de la Journée Nationale de l’Ingénieur(JNI) le 3 avril 2014 dans 28 grandes villes dont ROUEN.
