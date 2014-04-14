@@ -1,8 +1,8 @@
 prose:
   rooturl: ''
-  siteurl: 'http://iesfnormandie.github.io/'
+  siteurl: ''
   relativeLinks: ''
-  media: '/media'
+  media: 'media'
   ignore:
     - CNAME
     - robots.txt
