@@ -1,7 +1,7 @@
 ---
 layout: default
 published: false
-title: ""
+title: Flash info N1438
 ---
 
 ## Flash info N°1438 - mai 2014
@@ -238,5 +238,3 @@ mai 2014, date limite de dépôt des dossiers.</B></P>
 </P>
 </BODY>
 </HTML>
-
-
