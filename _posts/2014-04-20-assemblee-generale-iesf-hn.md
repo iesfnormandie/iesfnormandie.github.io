@@ -4,7 +4,8 @@ published: true
 title: "Assemblee-generale_IESF-HN"
 ---
 
-## Assemblée Générale 2014-05-15##(Compte rendu)
+## Assemblée Générale 2014-05-15
+##(Compte rendu)
 
 
 <BODY LANG="fr-FR" LINK="#0000ff" DIR="LTR">
