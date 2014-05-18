@@ -13,8 +13,7 @@ title: "Assemblee-generale_IESF-HN"
 <P STYLE="margin-bottom: 0.02in"><FONT COLOR="#000000"><FONT FACE="Arial, serif"><FONT SIZE=2>Le
 16/5/2014</FONT></FONT></FONT></P>
 
-<P STYLE="margin-bottom: 0.02in"><FONT COLOR="#000000"><FONT FACE="Arial, serif"><FONT SIZE=2>CR
-de votre </FONT></FONT></FONT><FONT COLOR="#000000"><FONT FACE="Arial, serif"><FONT SIZE=2><B>Assemblée
+<P STYLE="margin-bottom: 0.02in"><FONT COLOR="#000000"><FONT FACE="Arial, serif"><FONT SIZE=2>Compte-rendu </FONT></FONT></FONT><FONT COLOR="#000000"><FONT FACE="Arial, serif"><FONT SIZE=2><B>Assemblée
 générale </B></FONT></FONT></FONT><FONT COLOR="#000000"><FONT FACE="Arial, serif"><FONT SIZE=2>du
 </FONT></FONT></FONT><FONT COLOR="#000000"><FONT FACE="Arial, serif"><FONT SIZE=2><B>15
 mai 2014</B></FONT></FONT></FONT></P>
