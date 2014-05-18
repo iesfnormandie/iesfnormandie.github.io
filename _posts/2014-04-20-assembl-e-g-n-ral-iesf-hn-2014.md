@@ -105,7 +105,7 @@ président IESF Haute Normandie</B></FONT></P>
 <P STYLE="margin-bottom: 0.02in"><B>PJ&nbsp;: IESF ACTIVE concept</B></P>
 <P STYLE="margin-bottom: 0.02in"><BR><BR>
 </P>
-<P STYLE="margin-bottom: 0.02in; page-break-before: always"><FONT SIZE=4 STYLE="font-size: 16pt"><B>IESF
+<P STYLE="margin-bottom: 0.02in; page-break-before: always" align=middle><FONT SIZE=4 STYLE="font-size: 16pt"><B>IESF
 Active</B></FONT><FONT SIZE=3><B> </B></FONT><FONT SIZE=3>26 novembre
 2013, révision 12 05 2014</FONT></P>
 <P STYLE="margin-bottom: 0.02in"><FONT SIZE=3><B>Concept :</B></FONT></P>
