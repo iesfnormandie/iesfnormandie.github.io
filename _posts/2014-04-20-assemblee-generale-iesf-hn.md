@@ -4,7 +4,7 @@ published: true
 title: "Assemblee-generale_IESF-HN"
 ---
 
-##Assemblée Générale 2014-05-15
+##**Assemblée Générale 2014-05-15**
 (Compte rendu)
 
 
@@ -21,7 +21,7 @@ générale </B></FONT></FONT></FONT><FONT COLOR="#000000"><FONT FACE="Arial, ser
 </FONT></FONT></FONT><FONT COLOR="#000000"><FONT FACE="Arial, serif"><FONT SIZE=2><B>15
 mai 2014</B></FONT></FONT></FONT></P>
 <P STYLE="margin-bottom: 0.02in"><FONT COLOR="#000000"><FONT FACE="Arial, serif"><FONT SIZE=2><B>Rapport
-moral et perspectives (voir invitation)</B></FONT></FONT></FONT></P>
+moral et perspectives</B></FONT></FONT></FONT></P>
 <UL>
 	<LI><P STYLE="margin-bottom: 0.02in"><FONT COLOR="#000000"><FONT FACE="Arial, serif"><FONT SIZE=2><B>1
 	Fête de la science du 9 au 13 octobre </B></FONT></FONT></FONT><FONT COLOR="#000000"><FONT FACE="Arial, serif"><FONT SIZE=2>:
