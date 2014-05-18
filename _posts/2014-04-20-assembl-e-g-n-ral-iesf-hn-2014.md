@@ -1,7 +1,7 @@
 ---
 layout: default
 published: true
-title: Assemblée Général IESF HN 2014
+title: Assemblée Générale IESF HN 2014
 ---
 
 ##**Assemblée Générale 2014-05-15**
