@@ -7,7 +7,7 @@ title: "Assemblée-générale_IESF-HN"
 ##**Assemblée Générale 2014-05-15**
 (Compte rendu)
 <BODY LANG="fr-FR" LINK="#0000ff" DIR="LTR">
-<P STYLE="margin-bottom: 0.02in"><IMG SRC="/media/i_b39efb477ddacd5a_html_17d96a84.jpg" NAME="Image 4" ALIGN=BOTTOM WIDTH=605 HEIGHT=59 BORDER=0></P>
+<P STYLE="margin-bottom: 0.02in"><IMG SRC="/media/i_b39efb477ddacd5a_html_17d96a84.jpg" NAME="Image 4" ALIGN=center WIDTH=605 HEIGHT=59 BORDER=0></P>
 
 <P STYLE="margin-bottom: 0.02in"><FONT COLOR="#000000"><FONT FACE="Arial, serif"><FONT SIZE=2>Le
 16/5/2014</FONT></FONT></FONT></P>
