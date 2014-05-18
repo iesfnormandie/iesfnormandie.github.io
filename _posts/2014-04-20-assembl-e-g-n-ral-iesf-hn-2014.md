@@ -1,6 +1,6 @@
 ---
 layout: default
-published: false
+published: true
 title: Assemblée Général IESF HN 2014
 ---
 
