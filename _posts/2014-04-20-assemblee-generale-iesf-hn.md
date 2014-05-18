@@ -6,7 +6,7 @@ title: "Assemblee-generale_IESF-HN"
 
 ## Assemblee Generale 2014-05-15
 
-![](/media/i_b39efb477ddacd5a_html_17d96a84.jpg)
+![](/media/En-tete_AG2014-05-15.jpg)
 <BODY LANG="fr-FR" LINK="#0000ff" DIR="LTR">
 <P STYLE="margin-bottom: 0.02in"><IMG SRC="i_b39efb477ddacd5a_html_17d96a84.jpg" NAME="Image 4" ALIGN=BOTTOM WIDTH=605 HEIGHT=59 BORDER=0></P>
 <P STYLE="margin-bottom: 0.02in"><BR><BR>
