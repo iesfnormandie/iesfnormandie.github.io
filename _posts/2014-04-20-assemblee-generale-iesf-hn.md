@@ -4,8 +4,8 @@ published: true
 title: "Assemblee-generale_IESF-HN"
 ---
 
-## Assemblée Générale 2014-05-15
-##(Compte rendu)
+##Assemblée Générale 2014-05-15
+(Compte rendu)
 
 
 <BODY LANG="fr-FR" LINK="#0000ff" DIR="LTR">
@@ -14,8 +14,7 @@ title: "Assemblee-generale_IESF-HN"
 </P>
 <P STYLE="margin-bottom: 0.02in"><FONT COLOR="#000000"><FONT FACE="Arial, serif"><FONT SIZE=2>Le
 16/5/2014</FONT></FONT></FONT></P>
-<P STYLE="margin-bottom: 0.02in"><FONT COLOR="#000000"><FONT FACE="Arial, serif"><FONT SIZE=2>Chère
-adhérente, cher adhérent,</FONT></FONT></FONT></P>
+
 <P STYLE="margin-bottom: 0.02in"><FONT COLOR="#000000"><FONT FACE="Arial, serif"><FONT SIZE=2>CR
 de votre </FONT></FONT></FONT><FONT COLOR="#000000"><FONT FACE="Arial, serif"><FONT SIZE=2><B>Assemblée
 générale </B></FONT></FONT></FONT><FONT COLOR="#000000"><FONT FACE="Arial, serif"><FONT SIZE=2>du
