@@ -102,7 +102,7 @@ de 18 à 20h et proposition restaurant «&nbsp;LE RIVE DROITE&nbsp;»</FONT></FO
 président IESF Haute Normandie</B></FONT></P>
 <P STYLE="margin-bottom: 0.02in">06 17 07 49
 77		<A HREF="mailto:michel@champalbert.net">michel@champalbert.net</A></P>
-<P STYLE="margin-bottom: 0.02in"><B><B>ANNEXE : IESF ACTIVE concept<B></B></P>
+<P STYLE="margin-bottom: 0.02in"><B><P>ANNEXE : IESF ACTIVE concept</B></P>
 <P STYLE="margin-bottom: 0.02in"><BR><BR>
 </P>
 <P STYLE="margin-bottom: 0.02in; page-break-before: always" align=middle><FONT SIZE=4 STYLE="font-size: 16pt"><B>IESF
