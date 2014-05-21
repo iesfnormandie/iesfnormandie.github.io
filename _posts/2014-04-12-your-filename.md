@@ -1,0 +1,240 @@
+---
+layout: default
+published: false
+title: ""
+---
+
+## Flash info N°1438 - mai 2014
+
+<BODY LANG="fr-FR" LINK="#0000ff" DIR="LTR">
+<P ALIGN=CENTER STYLE="margin-bottom: 0.02in"><IMG SRC="i_f4f67639e3a91ba6_html_m167a9f7d.jpg" NAME="Image 1" ALIGN=BOTTOM WIDTH=605 HEIGHT=59 BORDER=0></P>
+<P ALIGN=RIGHT STYLE="margin-bottom: 0.02in"><FONT SIZE=3><I><B>Flash
+info N°1438 – mai 2014</B></I></FONT></P>
+<P ALIGN=CENTER STYLE="margin-bottom: 0.02in"><BR><BR>
+</P>
+<P ALIGN=CENTER STYLE="margin-bottom: 0.02in"><IMG SRC="i_f4f67639e3a91ba6_html_13cc2b27.jpg" NAME="Image 0" ALIGN=BOTTOM WIDTH=605 HEIGHT=44 BORDER=0></P>
+<P ALIGN=CENTER STYLE="margin-bottom: 0.02in"><BR><BR>
+</P>
+<P ALIGN=CENTER STYLE="margin-bottom: 0.02in"><IMG SRC="i_f4f67639e3a91ba6_html_410f4fc7.jpg" NAME="Image 3" ALIGN=BOTTOM WIDTH=605 HEIGHT=161 BORDER=0></P>
+<P ALIGN=CENTER STYLE="margin-bottom: 0.02in"><BR><BR>
+</P>
+<P ALIGN=CENTER STYLE="margin-bottom: 0.02in"><FONT COLOR="#000000"><FONT FACE="Calibri, serif"><FONT SIZE=3><B>Plus
+de 5 000 participants à la JNI 2014 </B><FONT SIZE=2 STYLE="font-size: 11pt">qui
+se déroulait dans </FONT><FONT SIZE=2 STYLE="font-size: 11pt"><B>28
+villes de France </B></FONT><FONT SIZE=2 STYLE="font-size: 11pt">avec
+des conférences, colloques, table ronde et ateliers, où sont
+intervenus des entrepreneurs, des ingénieurs, des innovateurs et des
+personnalités de premier plan pour y apporter leur expérience et
+leur témoignage. Pour sa 2e édition la Journée Nationale de
+l’Ingénieur 2014 s’articulait autour du thème « </FONT><FONT SIZE=2 STYLE="font-size: 11pt"><B>Innover,
+Entreprendre </B></FONT><FONT SIZE=2 STYLE="font-size: 11pt">». </FONT></FONT></FONT></FONT>
+</P>
+<P ALIGN=JUSTIFY STYLE="margin-bottom: 0.02in"><FONT COLOR="#000000"><FONT FACE="Calibri, serif"><FONT SIZE=3><FONT SIZE=2 STYLE="font-size: 11pt">Ces
+manifestations étaient organisées en partenariat avec des
+entreprises et des organismes de dimension nationale, avec la
+participation locale des Régions françaises, des écoles
+d’ingénieurs et des associations de diplômés. </FONT></FONT></FONT></FONT>
+</P>
+<P ALIGN=JUSTIFY STYLE="margin-bottom: 0.02in"><FONT COLOR="#000000"><FONT FACE="Calibri, serif"><FONT SIZE=3><FONT SIZE=2 STYLE="font-size: 11pt">Vous
+pouvez revoir en différé les vidéos des sessions qui se sont
+déroulées à la Cité des Sciences et de l’Industrie le 3 avril
+2014. </FONT></FONT></FONT></FONT>
+</P>
+<P ALIGN=JUSTIFY STYLE="margin-bottom: 0.02in">Vous découvrirez
+prochainement le compte rendu du colloque national et les photos des
+différentes JNI dans toute la France. Il sera disponible sur le site
+d’IESF : www.iesf.fr (onglet de gauche Colloques et conférences
+IESF) et sur le site <A HREF="http://www.iesf-jni.org/">http://www.iesf-jni.org/</A></P>
+<P ALIGN=CENTER STYLE="margin-bottom: 0.02in"><BR><BR>
+</P>
+<P ALIGN=CENTER STYLE="margin-bottom: 0.02in"><IMG SRC="i_f4f67639e3a91ba6_html_5de57baf.jpg" NAME="Image 7" ALIGN=BOTTOM WIDTH=605 HEIGHT=44 BORDER=0></P>
+<P ALIGN=CENTER STYLE="margin-bottom: 0.02in"><BR><BR>
+</P>
+<P ALIGN=JUSTIFY STYLE="margin-bottom: 0.02in"><FONT COLOR="#000000"><FONT FACE="Calibri, serif"><FONT SIZE=3><FONT SIZE=2 STYLE="font-size: 11pt">Lors
+du colloque national à la Cité des Sciences et de l’Industrie,
+</FONT><FONT SIZE=2 STYLE="font-size: 11pt"><B>Xavier FONTANET,
+P</B></FONT><FONT SIZE=2 STYLE="font-size: 11pt"><I><B>résident
+d’honneur d’ESSILOR, </B></I></FONT><FONT SIZE=2 STYLE="font-size: 11pt">Professeur
+affilié HEC a présenté en Leçon inaugurale de Ingénieur ?
+Innovateur ? Entrepreneur ? Devenez stratège en 3H, qui était
+retransmise en direct sur internet. </FONT></FONT></FONT></FONT>
+</P>
+<P ALIGN=JUSTIFY STYLE="margin-bottom: 0.02in"><FONT COLOR="#000000"><FONT FACE="Calibri, serif"><FONT SIZE=3><FONT SIZE=2 STYLE="font-size: 11pt">L'intervention
+d’ouverture était prononcée par </FONT><FONT SIZE=2 STYLE="font-size: 11pt"><B>Claudie
+HAIGNERÉ</B></FONT><FONT SIZE=2 STYLE="font-size: 11pt">, </FONT><FONT SIZE=2 STYLE="font-size: 11pt"><B>Présidente
+d’Universcience </B></FONT><FONT SIZE=2 STYLE="font-size: 11pt">qui
+nous accueillait sur son site de la Cité des Sciences et de
+l’Industrie . A cette occasion Julien Roitman président d’IESF
+lui a remis la médaille d’Ingénieurs et Scientifiques de France. </FONT></FONT></FONT></FONT>
+</P>
+<P ALIGN=CENTER STYLE="margin-bottom: 0.02in"><BR><BR>
+</P>
+<P ALIGN=CENTER STYLE="margin-bottom: 0.02in"><FONT COLOR="#000000"><IMG SRC="i_f4f67639e3a91ba6_html_c4eeaa6.jpg" NAME="Image 5" ALIGN=BOTTOM WIDTH=605 HEIGHT=181 BORDER=0></FONT></P>
+<P ALIGN=CENTER STYLE="margin-bottom: 0.02in"><BR><BR>
+</P>
+<P ALIGN=CENTER STYLE="margin-bottom: 0.02in"><IMG SRC="i_f4f67639e3a91ba6_html_m52fc14b0.jpg" NAME="Image 8" ALIGN=BOTTOM WIDTH=605 HEIGHT=44 BORDER=0></P>
+<P ALIGN=CENTER STYLE="margin-bottom: 0.02in"><BR><BR>
+</P>
+<P ALIGN=CENTER STYLE="margin-bottom: 0.02in"><IMG SRC="i_f4f67639e3a91ba6_html_35fc0f2d.jpg" NAME="Image 11" ALIGN=BOTTOM WIDTH=605 HEIGHT=70 BORDER=0></P>
+<P ALIGN=CENTER STYLE="margin-bottom: 0.02in"><BR><BR>
+</P>
+<P ALIGN=JUSTIFY STYLE="margin-bottom: 0.02in"><FONT COLOR="#000000"><FONT FACE="Calibri, serif"><FONT SIZE=3><FONT SIZE=2 STYLE="font-size: 11pt"><B>Le
+7 avril dernier </B></FONT><FONT SIZE=2 STYLE="font-size: 11pt">s’est
+déroulée la remise des </FONT><FONT SIZE=2 STYLE="font-size: 11pt"><B>Prix
+Marius Lavet, ingénieur et inventeur </B></FONT><FONT SIZE=2 STYLE="font-size: 11pt">et
+</FONT><FONT SIZE=2 STYLE="font-size: 11pt"><B>Norbert Ségard, Jeune
+ingénieur créateur </B></FONT><FONT SIZE=2 STYLE="font-size: 11pt">à
+l’Hôtel des Arts et Métiers à Paris. L’édition 2014 était
+placée sous le haut patronage du ministère du Redressement
+Productif et sous la présidence de Mme Marion Guillou, présidente
+d’Agreenium . </FONT></FONT></FONT></FONT>
+</P>
+<P ALIGN=JUSTIFY STYLE="margin-bottom: 0.02in"><FONT COLOR="#000000"><FONT FACE="Calibri, serif"><FONT SIZE=3><FONT SIZE=2 STYLE="font-size: 11pt">Les
+lauréats de cette 13e édition du </FONT><FONT SIZE=2 STYLE="font-size: 11pt"><B>Prix
+Marius Lavet </B></FONT><FONT SIZE=2 STYLE="font-size: 11pt">sont :
+le binôme </FONT><FONT SIZE=2 STYLE="font-size: 11pt"><B>Franck Le
+Ouay </B></FONT><FONT SIZE=2 STYLE="font-size: 11pt">(directeur
+scientifique) &amp; </FONT><FONT SIZE=2 STYLE="font-size: 11pt"><B>Romain
+Niccoli</B></FONT><FONT SIZE=2 STYLE="font-size: 11pt">,
+co-fondateurs (directeur technique) de CRITEO (Paris). 1ère start up
+française cotée au Nasdaq depuis Business Objects. Critéo a
+développé une méthode de ciblage publicitaire basée sur des
+techniques de machine learning. </FONT></FONT></FONT></FONT>
+</P>
+<P ALIGN=CENTER STYLE="margin-bottom: 0.02in"><FONT COLOR="#000000"><FONT FACE="Calibri, serif"><FONT SIZE=3><A HREF="http://www.mariuslavet.org/"><FONT SIZE=2 STYLE="font-size: 11pt">http://www.mariuslavet.org/</FONT></A></FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-bottom: 0.02in">Cette année six
+start-up sont lauréates du Prix <B>Norbert Ségard. </B>Quatre sont
+lauréates du Prix <B>Jeune Espoir : Quentin GEORGE </B>élève
+ingénieur en Génie Informatique à l’UTC de Compiègne, pour le
+projet de création d’entreprise Aspic Technologies, <B>Pierre
+MEYER </B>élève ingénieur aux Arts et Métiers, pour le projet de
+création d’entreprise Attrago SAS, <B>Mathieu ROIG </B>élève
+ingénieur à l’INSA de Toulouse, pour le projet de création
+d’entreprise Solargel, et <B>Thibaut CHARY </B>élève ingénieur
+aux Mines de Paris, pour le projet de création d’entreprise
+YesPark</P>
+<P ALIGN=CENTER STYLE="margin-bottom: 0.02in"><A HREF="http://norbert-segard-blog.org/">http://norbert-segard-blog.org/</A></P>
+<P ALIGN=CENTER STYLE="margin-bottom: 0.02in"><BR><BR>
+</P>
+<P ALIGN=CENTER STYLE="margin-bottom: 0.02in"><IMG SRC="i_f4f67639e3a91ba6_html_m745f2bf7.jpg" NAME="Image 15" ALIGN=BOTTOM WIDTH=605 HEIGHT=180 BORDER=0></P>
+<P ALIGN=CENTER STYLE="margin-bottom: 0.02in"><BR><BR>
+</P>
+<P ALIGN=CENTER STYLE="margin-bottom: 0.02in"><IMG SRC="i_f4f67639e3a91ba6_html_1b5d7237.jpg" NAME="Image 18" ALIGN=BOTTOM WIDTH=605 HEIGHT=44 BORDER=0></P>
+<P ALIGN=CENTER STYLE="margin-bottom: 0.02in"><BR><BR>
+</P>
+<P ALIGN=JUSTIFY STYLE="margin-bottom: 0.02in">IESF soutient comme
+chaque année les Olympiades de Sciences de l’Ingénieur organisées
+par l'UPSTI. <B>La finale nationale des Olympiades de Sciences de
+l'Ingénieur 2014 </B>se déroulera <B>le 21 mai au siège de
+Microsoft France </B>à Issy-Les-Moulineaux. Développer l'<B>esprit
+d'innovation </B>et promouvoir les <B>métiers de l'ingénieur </B>sont
+les clés d'un avenir dynamique et profitable pour tous. Plus
+d’informations :
+<A HREF="https://sites.google.com/site/lesolympiadesdesi/actualites%20">https://sites.google.com/site/lesolympiadesdesi/actualites</A>
+</P>
+<P ALIGN=CENTER STYLE="margin-bottom: 0.02in"><BR><BR>
+</P>
+<P ALIGN=CENTER STYLE="margin-bottom: 0.02in"><IMG SRC="i_f4f67639e3a91ba6_html_m2ecb4582.jpg" NAME="Image 21" ALIGN=BOTTOM WIDTH=605 HEIGHT=65 BORDER=0></P>
+<P ALIGN=CENTER STYLE="margin-bottom: 0.02in"><BR><BR>
+</P>
+<P ALIGN=CENTER STYLE="margin-bottom: 0.02in"><BR><BR>
+</P>
+<P ALIGN=CENTER STYLE="margin-bottom: 0.02in"><IMG SRC="i_f4f67639e3a91ba6_html_276c0aba.jpg" NAME="Image 25" ALIGN=BOTTOM WIDTH=605 HEIGHT=44 BORDER=0></P>
+<P ALIGN=CENTER STYLE="margin-bottom: 0.02in"><BR><BR>
+</P>
+<P ALIGN=CENTER STYLE="margin-bottom: 0.02in"><IMG SRC="i_f4f67639e3a91ba6_html_75cd82cb.jpg" NAME="Image 24" ALIGN=BOTTOM WIDTH=605 HEIGHT=44 BORDER=0></P>
+<P ALIGN=CENTER STYLE="margin-bottom: 0.02in"><BR><BR>
+</P>
+<P ALIGN=CENTER STYLE="margin-bottom: 0.02in"><IMG SRC="i_f4f67639e3a91ba6_html_13be5e38.jpg" NAME="Image 14" ALIGN=BOTTOM WIDTH=605 HEIGHT=82 BORDER=0></P>
+<P STYLE="margin-bottom: 0.02in"><BR><BR>
+</P>
+<P ALIGN=JUSTIFY STYLE="margin-bottom: 0.02in"><FONT COLOR="#000000"><FONT FACE="Calibri, serif"><FONT SIZE=3><FONT SIZE=2 STYLE="font-size: 11pt">L'enquête
+annuelle 2014 réalisée dans le cadre de l’Observatoire IESF des
+ingénieurs sur la situation socioéconomique des ingénieurs
+diplômés vient de se terminer le 13 avril dernier. </FONT><FONT SIZE=2 STYLE="font-size: 11pt"><B>UN
+GRAND CRU cette année avec ses 50 000 réponses</B></FONT><FONT SIZE=2 STYLE="font-size: 11pt">,
+l’enquête annuelle de l’Observatoire IESF des Ingénieurs est
+devenue la référence pour mieux connaître l’ingénieur français
+d’aujourd‘hui. </FONT></FONT></FONT></FONT>
+</P>
+<P ALIGN=JUSTIFY STYLE="margin-bottom: 0.02in"><FONT COLOR="#000000"><FONT FACE="Calibri, serif"><FONT SIZE=3><FONT SIZE=2 STYLE="font-size: 11pt">La
+</FONT><FONT SIZE=2 STYLE="font-size: 11pt"><B>conférence de presse
+</B></FONT><FONT SIZE=2 STYLE="font-size: 11pt">pour la présentation
+des résultats de cette </FONT><FONT SIZE=2 STYLE="font-size: 11pt"><B>25ème
+édition est fixée au 25 juin prochain. </B></FONT><FONT SIZE=2 STYLE="font-size: 11pt">Comme
+chaque année une synthèse sera envoyée par mail à tous les
+répondants. </FONT></FONT></FONT></FONT>
+</P>
+<P ALIGN=CENTER STYLE="margin-bottom: 0.02in">Plus d’informations :
+<A HREF="mailto:enquete@iesf.fr">mailto:enquete@iesf.fr</A></P>
+<P ALIGN=CENTER STYLE="margin-bottom: 0.02in"><BR><BR>
+</P>
+<P ALIGN=CENTER STYLE="margin-bottom: 0.02in"><IMG SRC="i_f4f67639e3a91ba6_html_5eea4fc9.jpg" NAME="Image 35" ALIGN=BOTTOM WIDTH=605 HEIGHT=44 BORDER=0></P>
+<P ALIGN=CENTER STYLE="margin-bottom: 0.02in"><BR><BR>
+</P>
+<P STYLE="margin-bottom: 0.02in"><BR><BR>
+</P>
+<P ALIGN=JUSTIFY STYLE="margin-bottom: 0.02in">Le <B>26 mai prochain
+</B>se déroulera au siège d’IESF à Paris, la présentation
+publique d’un <B>nouveau Cahier IESF</B>. Ce 15e cahier des comités
+sectoriels d’IESF a pour thème : <B>&quot;La filière ferroviaire
+française à la croisée des chemins&quot;. </B>Ce document a été
+établi, sous la direction de l'animateur du groupe de travail,
+<B>Jean-Claude Boutonnet</B>, et <B>Olivier PAUL-DUBOIS-TAINE
+</B>président du comité Transport d’IESF et en collaboration avec
+la Fédération des industries ferroviaires (FIF) ; <B>Jean-Pierre
+Audoux</B>, délégué général de la FIF, est associé à la
+présentation. Le Cahier sera disponible, dès le lendemain, en ligne
+gratuitement sur le site d’IESF : <A HREF="www.iesf.fr%20(onglet%20de%20gauche/Publication%20IESF%20/Les%20Cahiers).%20">www.iesf.fr
+(onglet de gauche/Publication IESF /Les Cahiers).</A> 
+</P>
+<P ALIGN=CENTER STYLE="margin-bottom: 0.02in"><A HREF="mailto:Plus%20d'information%20:%20nserdouk@iesf.fr">mailto:Plus
+d'information : nserdouk@iesf.fr</A></P>
+<P ALIGN=CENTER STYLE="margin-bottom: 0.02in"><BR><BR>
+</P>
+<P ALIGN=CENTER STYLE="margin-bottom: 0.02in"><IMG SRC="i_f4f67639e3a91ba6_html_me7729a4.jpg" NAME="Image 38" ALIGN=BOTTOM WIDTH=605 HEIGHT=65 BORDER=0></P>
+<P ALIGN=CENTER STYLE="margin-bottom: 0.02in"><BR><BR>
+</P>
+<P ALIGN=CENTER STYLE="margin-bottom: 0.02in"><BR><BR>
+</P>
+<P ALIGN=CENTER STYLE="margin-bottom: 0.02in"><IMG SRC="i_f4f67639e3a91ba6_html_m51cd135e.jpg" NAME="Image 33" ALIGN=BOTTOM WIDTH=605 HEIGHT=44 BORDER=0></P>
+<P ALIGN=CENTER STYLE="margin-bottom: 0.02in"><BR><BR>
+</P>
+<P ALIGN=CENTER STYLE="margin-bottom: 0.02in"><IMG SRC="i_f4f67639e3a91ba6_html_57403579.jpg" NAME="Image 34" ALIGN=BOTTOM WIDTH=605 HEIGHT=44 BORDER=0></P>
+<P ALIGN=CENTER STYLE="margin-bottom: 0.02in"><BR><BR>
+</P>
+<P ALIGN=JUSTIFY STYLE="margin-bottom: 0.02in"><FONT COLOR="#000000"><FONT FACE="Calibri, serif"><FONT SIZE=3><FONT SIZE=2 STYLE="font-size: 11pt">Par
+l'intermédiaire de la commission fédérale des bourses étrangères
+(cfbe-suisse), le secrétariat d'état d'étude et à la recherche de
+la Confédération lance un appel à candidatures pour 500 bourses
+d'études suisses au titre de l'année académique 2014/2015. Elles
+doivent permettre aux boursiers de poursuivre leurs études, de
+parfaire leurs connaissances avec des travaux de recherche dans les
+domaines auxquels les universités suisses accordent une attention
+particulière. Ces bourses couvrent un cycle de formation ou au
+maximum six semestres. En règle générale, les candidats aux
+bourses étrangères suisses doivent : </FONT></FONT></FONT></FONT>
+</P>
+<P ALIGN=JUSTIFY STYLE="text-indent: 0.49in; margin-bottom: 0.02in"><FONT COLOR="#000000"><FONT FACE="Calibri, serif"><FONT SIZE=3><FONT SIZE=2 STYLE="font-size: 11pt">-
+avoir de 18 à 45 ans ; </FONT></FONT></FONT></FONT>
+</P>
+<P ALIGN=JUSTIFY STYLE="text-indent: 0.49in; margin-bottom: 0.02in"><FONT COLOR="#000000"><FONT FACE="Calibri, serif"><FONT SIZE=3><FONT SIZE=2 STYLE="font-size: 11pt">-
+comprendre et parler correctement l'une des langues d'enseignement en
+Suisse (espagnol, allemand, anglais, italien, français) ; </FONT></FONT></FONT></FONT>
+</P>
+<P ALIGN=JUSTIFY STYLE="text-indent: 0.49in; margin-bottom: 0.02in"><FONT COLOR="#000000"><FONT FACE="Calibri, serif"><FONT SIZE=3><FONT SIZE=2 STYLE="font-size: 11pt">-
+avoir un diplôme équivalent au brevet d'étude de premier cycle
+d'enseignement, au baccalauréat ou au brevet d'aptitude
+professionnelle des pays de l'Union Européenne. </FONT></FONT></FONT></FONT>
+</P>
+<P ALIGN=JUSTIFY STYLE="margin-bottom: 0.02in"><BR><BR>
+</P>
+<P ALIGN=JUSTIFY STYLE="margin-bottom: 0.02in">Procédure : retirer
+auprès de la commission fédérale des bourses étrangères suisses
+(cfbes) <A HREF="mailto:cfbesa-vis01@nokiamail.com">mailto:cfbesa-vis01@nokiamail.com</A>
+le formulaire de demande de bourse à remplir et renvoyer pour le <B>30
+mai 2014, date limite de dépôt des dossiers.</B></P>
+<P STYLE="margin-bottom: 0.02in"><BR><BR>
+</P>
+</BODY>
+</HTML>
