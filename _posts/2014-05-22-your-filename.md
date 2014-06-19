@@ -6,6 +6,7 @@ title: "François LUREAU nouveau Président d'IESF"
 
 ## François LUREAU est le nouveau Président d'IESF
 
+![i_58a36657fd8a2ab9_html_m323fe566.jpg](/media/i_58a36657fd8a2ab9_html_m323fe566.jpg)
 
 
 <BODY LANG="fr-FR" DIR="LTR">
