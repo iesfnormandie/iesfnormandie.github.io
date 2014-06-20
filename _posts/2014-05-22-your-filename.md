@@ -47,7 +47,7 @@ président de la Confédération Amicale des Ingénieurs de
 l’Armement de 1994 à 2000, et administrateur de l’association
 des anciens élèves de l’Ecole polytechnique, de 1995 à 2002 et
 de 2008 à 2013. François LUREAU est commandeur de la Légion
-d’honneur.<SPAN CLASS="sd-abs-pos" STYLE="position: absolute; top: 2.52in; left: 5.05in; width: 124px"><IMG SRC="/media/i_58a36657fd8a2ab9_html_m323fe566.jpg" NAME="Image 1" WIDTH=124 HEIGHT=173 BORDER=0></SPAN></P>
+d’honneur.<SPAN CLASS="sd-abs-pos" STYLE="position: absolute; left: 5.05in; width: 124px"><IMG SRC="/media/i_58a36657fd8a2ab9_html_m323fe566.jpg" NAME="Image 1" WIDTH=124 HEIGHT=173 BORDER=0></SPAN></P>
 <P ALIGN=JUSTIFY STYLE="margin-bottom: 0.02in"><BR><BR>
 </P>
 <P ALIGN=JUSTIFY STYLE="margin-bottom: 0.02in">En prenant la tête
