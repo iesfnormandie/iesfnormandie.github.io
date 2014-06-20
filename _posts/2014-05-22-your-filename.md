@@ -8,6 +8,8 @@ title: "François LUREAU nouveau Président d'IESF"
 
 
 <BODY LANG="fr-FR" DIR="LTR">
+<P ALIGN=JUSTIFY STYLE="margin-bottom: 0.02in"><BR><BR></P>
+<P ALIGN=JUSTIFY STYLE="margin-bottom: 0.02in"><BR><BR></P>
 <P ALIGN=CENTER STYLE="margin-bottom: 0.02in"><IMG SRC="/media/i_b39efb477ddacd5a_html_17d96a84.jpg" NAME="Image 5" ALIGN=BOTTOM WIDTH=605 HEIGHT=59 BORDER=0></P>
 <P ALIGN=RIGHT STYLE="margin-bottom: 0.02in"><BR><BR>
 </P>
