@@ -1,7 +1,7 @@
 ---
 layout: default
 published: false
-title: ""
+title: Flash info N°1438
 ---
 
 ## Flash info N°1438 - mai 2014
