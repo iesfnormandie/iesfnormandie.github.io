@@ -5,35 +5,11 @@ title: Flash info N°1443
 ---
 
 ## Flash info N°1443
-![i_92426bd81d2c06be_html_1baf5ae3.jpg](/media/i_92426bd81d2c06be_html_1baf5ae3.jpg)
-![i_92426bd81d2c06be_html_2add8231.jpg](/media/i_92426bd81d2c06be_html_2add8231.jpg)
-![i_92426bd81d2c06be_html_2d3e02d.jpg](/media/i_92426bd81d2c06be_html_2d3e02d.jpg)
-![i_92426bd81d2c06be_html_3b3c371a.jpg](/media/i_92426bd81d2c06be_html_3b3c371a.jpg)
-![i_92426bd81d2c06be_html_6df441dd.jpg](/media/i_92426bd81d2c06be_html_6df441dd.jpg)
-![i_92426bd81d2c06be_html_3d980282.jpg](/media/i_92426bd81d2c06be_html_3d980282.jpg)
-![i_92426bd81d2c06be_html_7cad76d9.jpg](/media/i_92426bd81d2c06be_html_7cad76d9.jpg)
-![i_92426bd81d2c06be_html_7cc42e4.jpg](/media/i_92426bd81d2c06be_html_7cc42e4.jpg)
-![i_92426bd81d2c06be_html_8a1c679.jpg](/media/i_92426bd81d2c06be_html_8a1c679.jpg)
-![i_92426bd81d2c06be_html_4944a84c.jpg](/media/i_92426bd81d2c06be_html_4944a84c.jpg)
-![i_92426bd81d2c06be_html_70031d3d.jpg](/media/i_92426bd81d2c06be_html_70031d3d.jpg)
-![i_92426bd81d2c06be_html_454009ca.jpg](/media/i_92426bd81d2c06be_html_454009ca.jpg)
-![i_92426bd81d2c06be_html_782143fa.jpg](/media/i_92426bd81d2c06be_html_782143fa.jpg)
-![i_92426bd81d2c06be_html_m2b932b2e.jpg](/media/i_92426bd81d2c06be_html_m2b932b2e.jpg)
-![i_92426bd81d2c06be_html_m3c0edfa2.jpg](/media/i_92426bd81d2c06be_html_m3c0edfa2.jpg)
-![i_92426bd81d2c06be_html_m3c4eaced.jpg](/media/i_92426bd81d2c06be_html_m3c4eaced.jpg)
-![i_92426bd81d2c06be_html_m3c6bda54.jpg](/media/i_92426bd81d2c06be_html_m3c6bda54.jpg)
-![i_92426bd81d2c06be_html_m6f8c7bdf.jpg](/media/i_92426bd81d2c06be_html_m6f8c7bdf.jpg)
-![i_92426bd81d2c06be_html_m49f09e93.jpg](/media/i_92426bd81d2c06be_html_m49f09e93.jpg)
-![i_92426bd81d2c06be_html_m55b265bf.jpg](/media/i_92426bd81d2c06be_html_m55b265bf.jpg)
-![i_92426bd81d2c06be_html_m60c69ca1.jpg](/media/i_92426bd81d2c06be_html_m60c69ca1.jpg)
-![i_92426bd81d2c06be_html_m60c69ca1.jpg](/media/i_92426bd81d2c06be_html_m60c69ca1.jpg)
-![i_92426bd81d2c06be_html_m118ef43a.jpg](/media/i_92426bd81d2c06be_html_m118ef43a.jpg)
-![i_92426bd81d2c06be_html_m167a9f7d.jpg](/media/i_92426bd81d2c06be_html_m167a9f7d.jpg)
-![i_92426bd81d2c06be_html_m728f6803.jpg](/media/i_92426bd81d2c06be_html_m728f6803.jpg)
+
 
 
 <BODY LANG="fr-FR" LINK="#0000ff" DIR="LTR">
-<P ALIGN=CENTER STYLE="margin-bottom: 0.02in"><IMG SRC="i_92426bd81d2c06be_html_m167a9f7d.jpg" NAME="Image 1" ALIGN=BOTTOM WIDTH=605 HEIGHT=59 BORDER=0></P>
+<P ALIGN=CENTER STYLE="margin-bottom: 0.02in"><IMG SRC="/media/i_92426bd81d2c06be_html_m167a9f7d.jpg" NAME="Image 1" ALIGN=BOTTOM WIDTH=605 HEIGHT=59 BORDER=0></P>
 <P ALIGN=RIGHT STYLE="margin-bottom: 0.02in"><FONT SIZE=3><I><B>Flash
 info N°1443 – novembre 2014</B></I></FONT></P>
 <P STYLE="margin-bottom: 0.02in"><BR><BR>
