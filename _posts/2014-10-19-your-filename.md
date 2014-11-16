@@ -75,7 +75,7 @@ WebTV de l’UTC a réalisé une <B>vidéo-portrait</B> de <B>Marie
 GAYOT</B> lors de son entraînement une semaine avant son départ.</P>
 <P ALIGN=CENTER STYLE="margin-bottom: 0.02in"><A HREF="http://video.eurosport.fr/athletisme/championnats-d-europe/2014/4x400m-dames-la-victoire-de-l-equipe-de-france_vid339004/video.shtml">VISUALIZEZ
 LA VIDEO DE LEUR EXPLOIT</A></P>
-<P ALIGN=CENTER STYLE="margin-bottom: 0.02in"><IMG SRC="/media/i_92426bd81d2c06be_html_6df441dd.jpg" NAME="Image 6" ALIGN=BOTTOM WIDTH=605 HEIGHT=96 BORDER=0></P>
+<P ALIGN=CENTER STYLE="margin-bottom: 0.02in"><BR><IMG SRC="/media/i_92426bd81d2c06be_html_6df441dd.jpg" NAME="Image 6" ALIGN=BOTTOM WIDTH=605 HEIGHT=96 BORDER=0></P>
 <P ALIGN=JUSTIFY STYLE="margin-bottom: 0.02in">L’<B>UTC</B> vous
 convie au <B>Sommet International de l’Innovation</B> sur le thème
 «Métamorphose numérique des territoires », qui se tiendra le
