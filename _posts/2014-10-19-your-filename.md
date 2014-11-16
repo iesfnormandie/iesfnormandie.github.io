@@ -84,7 +84,7 @@ de l’UTC à Compiègne</B>.</P>
 <P ALIGN=CENTER STYLE="margin-bottom: 0.02in"><IMG SRC="/media/i_92426bd81d2c06be_html_70031d3d.jpg" NAME="Image 7" ALIGN=BOTTOM WIDTH=264 HEIGHT=111 BORDER=0></P>
 <P ALIGN=CENTER STYLE="margin-bottom: 0.02in"><A HREF="http://www.utc.fr/sommet-international-innovation.php">Renseignements
 et inscription :</A></P>
-<P ALIGN=CENTER STYLE="margin-bottom: 0.02in"><IMG SRC="/media/i_92426bd81d2c06be_html_2d3e02d.jpg" NAME="Image 8" ALIGN=BOTTOM WIDTH=605 HEIGHT=44 BORDER=0></P>
+<P ALIGN=CENTER STYLE="margin-bottom: 0.02in"><BR><IMG SRC="/media/i_92426bd81d2c06be_html_2d3e02d.jpg" NAME="Image 8" ALIGN=BOTTOM WIDTH=605 HEIGHT=44 BORDER=0></P>
 <P ALIGN=JUSTIFY STYLE="margin-bottom: 0.02in"><B>L’Ecole Nationale
 Supérieure de Chimie de Rennes</B> a accueilli une trentaine de
 jeunes lycéens bretons pour le <B>lancement de cette 31ème édition
@@ -97,7 +97,7 @@ chimie.</P>
 d’entre eux représentera la Bretagne lors de la grande finale
 nationale qui aura lieu à Paris en avril 2015.</P>
 <P ALIGN=CENTER STYLE="margin-bottom: 0.02in"><A HREF="http://www.olympiades-chimie.fr/index.html">www.olympiades-chimie.fr</A></P>
-<P ALIGN=CENTER STYLE="margin-bottom: 0.02in"><IMG SRC="/media/i_92426bd81d2c06be_html_m2b932b2e.jpg" NAME="Image 13" ALIGN=BOTTOM WIDTH=605 HEIGHT=44 BORDER=0></P>
+<P ALIGN=CENTER STYLE="margin-bottom: 0.02in"><BR><IMG SRC="/media/i_92426bd81d2c06be_html_m2b932b2e.jpg" NAME="Image 13" ALIGN=BOTTOM WIDTH=605 HEIGHT=44 BORDER=0></P>
 <P ALIGN=JUSTIFY STYLE="margin-bottom: 0.02in"><B>CESI alumni</B>, la
 communauté des <B>50 000</B> diplômés et élèves des formations
 du Groupe CESI, lance son nouveau site internet. Plus de <B>20 000</B>
@@ -138,7 +138,7 @@ Mme SERDOUK <A HREF="mailto:nserdouk@iesf.fr%20%3cnserdouk@iesf.fr%3e">mailto:ns
 <P ALIGN=CENTER STYLE="margin-bottom: 0.02in">Le Cahier sera
 disponible, dès le lendemain, en ligne gratuitement sur le site
 d’IESF (onglet de gauche/Publication IESF /Les Cahiers).</P>
-<P ALIGN=CENTER STYLE="margin-bottom: 0.02in"><IMG SRC="/media/i_92426bd81d2c06be_html_454009ca.jpg" NAME="Image 23" ALIGN=BOTTOM WIDTH=605 HEIGHT=44 BORDER=0></P>
+<P ALIGN=CENTER STYLE="margin-bottom: 0.02in"><BR><IMG SRC="/media/i_92426bd81d2c06be_html_454009ca.jpg" NAME="Image 23" ALIGN=BOTTOM WIDTH=605 HEIGHT=44 BORDER=0></P>
 <P ALIGN=CENTER STYLE="margin-bottom: 0.02in"><FONT SIZE=3><B>L'IESF
 Provence a accueilli les représentants de 19 régions IESF, le
 Président et le délégué général d'IESF du 16 au 19 octobre à
@@ -175,12 +175,12 @@ fiche d’inscription dûment renseignée.</B></P>
 <P ALIGN=JUSTIFY STYLE="margin-bottom: 0.02in"><B>La remise des
 trophées aura lieu lors de la Journée Nationale de l’Ingénieur
 qui se tiendra le 2 avril 2014.</B></P>
-<P ALIGN=CENTER STYLE="margin-bottom: 0.02in"><IMG SRC="/media/i_92426bd81d2c06be_html_m55b265bf.jpg" NAME="Image 26" ALIGN=BOTTOM WIDTH=605 HEIGHT=44 BORDER=0></P>
+<P ALIGN=CENTER STYLE="margin-bottom: 0.02in"><BR><IMG SRC="/media/i_92426bd81d2c06be_html_m55b265bf.jpg" NAME="Image 26" ALIGN=BOTTOM WIDTH=605 HEIGHT=44 BORDER=0></P>
 <P ALIGN=JUSTIFY STYLE="margin-bottom: 0.02in">La seconde édition de
 la conférence annuelle sur la collaboration Franco-Chinoise (CRIC) «
 Innover avec la Chine : les enjeux d’avenir », organisée par le
 magazine La Recherche est prévu le 2 décembre prochain.</P>
-<P ALIGN=CENTER STYLE="margin-bottom: 0.02in"><IMG SRC="/media/i_92426bd81d2c06be_html_7cc42e4.jpg" NAME="Image 27" ALIGN=BOTTOM WIDTH=303 HEIGHT=123 BORDER=0></P>
+<P ALIGN=CENTER STYLE="margin-bottom: 0.02in"><BR><IMG SRC="/media/i_92426bd81d2c06be_html_7cc42e4.jpg" NAME="Image 27" ALIGN=BOTTOM WIDTH=303 HEIGHT=123 BORDER=0></P>
 <P ALIGN=JUSTIFY STYLE="margin-bottom: 0.02in">Journée d’échanges,
 de dialogues et de prises de contacts informelles avec les acteurs de
 la coopération franco-chinoise en matière de science et de
@@ -188,7 +188,7 @@ technologies, qu’ils soient décideurs politiques, entrepreneurs ou
 chercheurs.</P>
 <P ALIGN=CENTER STYLE="margin-bottom: 0.02in"><A HREF="http://www.conference-innovation.com/chine/">Programme
 et inscription</A></P>
-<P ALIGN=CENTER STYLE="margin-bottom: 0.02in"><IMG SRC="/media/i_92426bd81d2c06be_html_3b3c371a.jpg" NAME="Image 28" ALIGN=BOTTOM WIDTH=605 HEIGHT=44 BORDER=0></P>
+<P ALIGN=CENTER STYLE="margin-bottom: 0.02in"><BR><IMG SRC="/media/i_92426bd81d2c06be_html_3b3c371a.jpg" NAME="Image 28" ALIGN=BOTTOM WIDTH=605 HEIGHT=44 BORDER=0></P>
 <P ALIGN=JUSTIFY STYLE="margin-bottom: 0.02in"><B>Le colloque
 international ICM</B> « Entre technique et gestion : Les ingénieurs
 civils des mines dans l’industrialisation de la France et
@@ -212,7 +212,7 @@ compétences sont aptes à booster leur développement. Les
 précédentes éditions ont rassemblé plus de 50 entreprises en
 quête de renseignements ou de recrutement, et plus de 1250
 étudiants.</P>
-<P ALIGN=CENTER STYLE="margin-bottom: 0.02in"><IMG SRC="/media/i_92426bd81d2c06be_html_m60c69ca1.jpg" NAME="Image 31" ALIGN=BOTTOM WIDTH=605 HEIGHT=44 BORDER=0></P>
+<P ALIGN=CENTER STYLE="margin-bottom: 0.02in"><BR><IMG SRC="/media/i_92426bd81d2c06be_html_m60c69ca1.jpg" NAME="Image 31" ALIGN=BOTTOM WIDTH=605 HEIGHT=44 BORDER=0></P>
 <P ALIGN=JUSTIFY STYLE="margin-bottom: 0.02in"><B>Adebiotech</B> vous
 invite au <B>colloque INSECTINOV «Insectes : une filière d’avenir
 pour les biotechnologies» les 2 et 3 décembre 2014 au Parc
@@ -227,7 +227,7 @@ s’articulera autour des points suivants :</P>
 	<LI><P STYLE="margin-bottom: 0.02in">Comment lever les contraintes
 	pour faire émerger des filières industrielles pérennes ?</P>
 </UL>
-<P ALIGN=CENTER STYLE="margin-bottom: 0.02in"><IMG SRC="/media/i_92426bd81d2c06be_html_1baf5ae3.jpg" NAME="Image 33" ALIGN=BOTTOM WIDTH=605 HEIGHT=44 BORDER=0></P>
+<P ALIGN=CENTER STYLE="margin-bottom: 0.02in"><BR><IMG SRC="/media/i_92426bd81d2c06be_html_1baf5ae3.jpg" NAME="Image 33" ALIGN=BOTTOM WIDTH=605 HEIGHT=44 BORDER=0></P>
 <P ALIGN=JUSTIFY STYLE="margin-bottom: 0.02in">Le Prix Nobel
 d’économie a été attribué au chercheur Français <B>Jean TIROLE</B>
 le lundi 13 octobre dernier.</P>
@@ -241,7 +241,7 @@ de la puissance du marché et de la régulation</B></I><B> »</B>.</P>
 du prix est prévue pour le 10 décembre.</P>
 <P ALIGN=CENTER STYLE="margin-bottom: 0.02in"><A HREF="http://videos.tf1.fr/jt-20h/2014/le-prix-nobel-d-economie-est-francais-8501744.html">Visualisez
 la Vidéo du prix Nobel</A></P>
-<P ALIGN=CENTER STYLE="margin-bottom: 0.02in"><IMG SRC="/media/i_92426bd81d2c06be_html_m3c4eaced.jpg" NAME="Image 35" ALIGN=BOTTOM WIDTH=605 HEIGHT=44 BORDER=0></P>
+<P ALIGN=CENTER STYLE="margin-bottom: 0.02in"<BR><IMG SRC="/media/i_92426bd81d2c06be_html_m3c4eaced.jpg" NAME="Image 35" ALIGN=BOTTOM WIDTH=605 HEIGHT=44 BORDER=0></P>
 <P STYLE="margin-bottom: 0.02in"><B>Le IXème Forum sur l’Innovation
 et la Recherche de Paris-Ile de France Capitale Economique se tiendra
 le jeudi 27 novembre à 17h30</B> à la Chambre de Commerce et
