@@ -6,6 +6,8 @@ title: Flash info N°1443
 
 ## Flash info N°1443
 
+![i_92426bd81d2c06be_html_m2071d93d.jpg](/media/i_92426bd81d2c06be_html_m2071d93d.jpg)
+
 <BODY LANG="fr-FR" LINK="#0000ff" DIR="LTR">
 <P ALIGN=CENTER STYLE="margin-bottom: 0.02in"><IMG SRC="/media/i_92426bd81d2c06be_html_m167a9f7d.jpg" NAME="Image 1" ALIGN=BOTTOM WIDTH=605 HEIGHT=59 BORDER=0></P>
 <P ALIGN=RIGHT STYLE="margin-bottom: 0.02in"><FONT SIZE=3><I><B>Flash
