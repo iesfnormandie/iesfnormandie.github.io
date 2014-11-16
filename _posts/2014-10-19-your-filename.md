@@ -6,6 +6,8 @@ title: Flash info N°1443
 
 ## Flash info N°1443
 
+![i_92426bd81d2c06be_html_m2150d8f6.jpg](/media/i_92426bd81d2c06be_html_m2150d8f6.jpg)
+![i_92426bd81d2c06be_html_m331864b1.jpg](/media/i_92426bd81d2c06be_html_m331864b1.jpg)
 
 
 <BODY LANG="fr-FR" LINK="#0000ff" DIR="LTR">
