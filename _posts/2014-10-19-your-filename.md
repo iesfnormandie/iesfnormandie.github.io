@@ -58,7 +58,7 @@ QUE LA JNI ?</B></FONT></FONT></P>
 <P STYLE="margin-bottom: 0.02in"><I>Vous souhaitez avoir plus de
 renseignements sur la JNI 2015</I> : <A HREF="mailto:jni@iesf.fr">mailto:jni@iesf.fr</A>
 </P>
-<P ALIGN=CENTER STYLE="margin-bottom: 0.02in"><IMG SRC="/media/i_92426bd81d2c06be_html_782143fa.jpg" NAME="Image 4" ALIGN=BOTTOM WIDTH=605 HEIGHT=96 BORDER=0></P>
+<P ALIGN=CENTER STYLE="margin-bottom: 0.02in"><BR><BR><IMG SRC="/media/i_92426bd81d2c06be_html_782143fa.jpg" NAME="Image 4" ALIGN=BOTTOM WIDTH=605 HEIGHT=96 BORDER=0></P>
 <P ALIGN=JUSTIFY STYLE="margin-bottom: 0.02in"><B>Marie GAYOT</B>,
 <B>élève-ingénieur à l’UTC en Génie des Systèmes Urbains</B>
 - Sport Elite, a participé du 12 au 17 août dernier au <B>Championnat
