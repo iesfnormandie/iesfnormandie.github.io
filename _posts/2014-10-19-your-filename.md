@@ -241,7 +241,7 @@ de la puissance du marché et de la régulation</B></I><B> »</B>.</P>
 du prix est prévue pour le 10 décembre.</P>
 <P ALIGN=CENTER STYLE="margin-bottom: 0.02in"><A HREF="http://videos.tf1.fr/jt-20h/2014/le-prix-nobel-d-economie-est-francais-8501744.html">Visualisez
 la Vidéo du prix Nobel</A></P>
-<P ALIGN=CENTER STYLE="margin-bottom: 0.02in"<BR><IMG SRC="/media/i_92426bd81d2c06be_html_m3c4eaced.jpg" NAME="Image 35" ALIGN=BOTTOM WIDTH=605 HEIGHT=44 BORDER=0></P>
+<P ALIGN=CENTER STYLE="margin-bottom: 0.02in"><BR><IMG SRC="/media/i_92426bd81d2c06be_html_m3c4eaced.jpg" NAME="Image 35" ALIGN=BOTTOM WIDTH=605 HEIGHT=44 BORDER=0></P>
 <P STYLE="margin-bottom: 0.02in"><B>Le IXème Forum sur l’Innovation
 et la Recherche de Paris-Ile de France Capitale Economique se tiendra
 le jeudi 27 novembre à 17h30</B> à la Chambre de Commerce et
