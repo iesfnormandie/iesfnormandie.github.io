@@ -51,7 +51,7 @@ CHAMPALBERT</B></SPAN></FONT></FONT><FONT FACE="Arial Narrow, serif"><FONT SIZE=
 président IESF Haute Normandie </SPAN></FONT></FONT><FONT FACE="Arial, serif"><FONT SIZE=3><SPAN LANG="fr-FR"><BR></SPAN></FONT></FONT><FONT FACE="Arial, serif"><FONT SIZE=3><SPAN LANG="fr-FR"><B>Accueil
 et présentation du CESI</B></SPAN></FONT></FONT><FONT FACE="Arial, serif"><FONT SIZE=3><SPAN LANG="fr-FR">
 </SPAN></FONT></FONT><FONT FACE="Arial Narrow, serif"><FONT SIZE=3><SPAN LANG="fr-FR">par</SPAN></FONT></FONT><FONT FACE="Arial Narrow, serif"><FONT SIZE=3><SPAN LANG="fr-FR">
-M. </SPAN></FONT><FONT> FACE="Arial Narrow, serif"><FONT SIZE=3><SPAN LANG="fr-FR">Sébastien Blondel</B></SPAN></FONT></FONT>, directeur ei.cesi Rouen 
+M. </SPAN></FONT><FONT> FACE="Arial Narrow, serif"><FONT SIZE=3><SPAN LANG="fr-FR"><B>Sébastien Blondel</B></SPAN></FONT></FONT>, directeur ei.cesi Rouen 
 </P>
 <P STYLE="margin-left: 0.39in; margin-bottom: 0in; line-height: 100%">
  
