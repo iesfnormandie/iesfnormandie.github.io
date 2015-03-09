@@ -73,7 +73,7 @@ Mme Alice ANGLARER déléguée ELLES BOUGENT<BR></SPAN></FONT></FONT><BR><BR>
 </P>
 <P STYLE="margin-top: 0.02in; margin-bottom: 0in; line-height: 0.18in">
 <FONT FACE="Arial, serif"><SPAN LANG="fr-FR"><B>15h00</B></SPAN></FONT></P>
-<P STYLE="margin-left: 0.39in; margin-bottom: 0in; line-height: 0.18in">
+<P STYLE="margin-left: 0.39in; margin-bottom: 0.02in; line-height: 0.18in">
 <FONT COLOR="#548dd4"><FONT FACE="Arial, serif"><FONT SIZE=3><SPAN LANG="fr-FR"><I><B>Organisation
 de la recherche scientifique en France et sa déclinaison en
 Normandie</B></I></SPAN></FONT></FONT></FONT><FONT FACE="Arial, serif"><FONT SIZE=3><SPAN LANG="fr-FR">
