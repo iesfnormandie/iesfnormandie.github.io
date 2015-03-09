@@ -6,31 +6,6 @@ title: JNI du jeudi 2 avril 2015
 
 JNI jeudi 2 avril 2015
 
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
-<HTML>
-<HEAD>
-	<META HTTP-EQUIV="CONTENT-TYPE" CONTENT="text/html; charset=utf-8">
-	<TITLE></TITLE>
-	<META NAME="GENERATOR" CONTENT="LibreOffice 4.0.5.2 (Linux)">
-	<META NAME="AUTHOR" CONTENT="pc">
-	<META NAME="CREATED" CONTENT="20150307;14160000">
-	<META NAME="CHANGEDBY" CONTENT="J d V">
-	<META NAME="CHANGED" CONTENT="20150209;10140000">
-	<META NAME="AppVersion" CONTENT="12.0000">
-	<META NAME="Company" CONTENT="Groupe CESI">
-	<META NAME="DocSecurity" CONTENT="0">
-	<META NAME="HyperlinksChanged" CONTENT="false">
-	<META NAME="LinksUpToDate" CONTENT="false">
-	<META NAME="ScaleCrop" CONTENT="false">
-	<META NAME="ShareDoc" CONTENT="false">
-	<STYLE TYPE="text/css">
-	<!--
-		@page { margin-right: 0.69in; margin-top: 0.1in }
-		P { margin-bottom: 0.08in; direction: ltr; widows: 2; orphans: 2 }
-		A:link { color: #0000ff; so-language: zxx }
-	-->
-	</STYLE>
-</HEAD>
 <BODY LANG="en-GB" LINK="#0000ff" DIR="LTR">
 <P STYLE="margin-left: 0.59in; margin-bottom: 0in; line-height: 100%">
 &nbsp;<IMG SRC="i_b50c36438a58b2e4_html_m37f94a8f.jpg" NAME="Image 0" ALIGN=BOTTOM WIDTH=794 HEIGHT=78 BORDER=0></P>
@@ -213,7 +188,7 @@ haute Normandie </B></SPAN></FONT>
 <P LANG="fr-FR" ALIGN=JUSTIFY STYLE="margin-left: 0.49in; margin-top: 0.02in; margin-bottom: 0.02in; line-height: 100%">
 <IMG SRC="i_b50c36438a58b2e4_html_m5a10df41.jpg" NAME="Image 5" ALIGN=LEFT HSPACE=12 WIDTH=87 HEIGHT=44 BORDER=0><IMG SRC="i_b50c36438a58b2e4_html_64d4e1fb.jpg" NAME="Image 6" ALIGN=LEFT HSPACE=12 WIDTH=124 HEIGHT=22 BORDER=0><IMG SRC="i_b50c36438a58b2e4_html_26f61744.png" NAME="Image 13" ALIGN=LEFT HSPACE=12 WIDTH=126 HEIGHT=37 BORDER=0><IMG SRC="i_b50c36438a58b2e4_html_1fbe82b9.jpg" NAME="Image 14" ALIGN=LEFT HSPACE=12 WIDTH=129 HEIGHT=28 BORDER=0><BR><BR>
 </P>
-<P STYLE="margin-left: 0.59in; margin-bottom: 0.14in"><IMG SRC="i_b50c36438a58b2e4_html_3650ad8f.jpg" NAME="Image 4" ALIGN=LEFT HSPACE=12 WIDTH=120 HEIGHT=53 BORDER=0><IMG SRC="i_b50c36438a58b2e4_html_md0ac4f7.jpg" NAME="graphics1" ALIGN=LEFT HSPACE=12 WIDTH=63 HEIGHT=58 BORDER=0><IMG SRC="i_b50c36438a58b2e4_html_1b386d9c.jpg" NAME="Image 16" ALIGN=LEFT HSPACE=12 WIDTH=111 HEIGHT=54 BORDER=0><IMG SRC="i_b50c36438a58b2e4_html_m42afbcf9.jpg" NAME="Image 1" ALIGN=LEFT HSPACE=12 WIDTH=117 HEIGHT=54 BORDER=0><BR><BR>
+<P STYLE="margin-left: 0.59in; margin-bottom: 0.14in"><IMG SRC="i_b50c36438a58b2e4_html_3650ad8f.jpg" NAME="Image 4" ALIGN=LEFT HSPACE=12 WIDTH=120 HEIGHT=53 BORDER=0><IMG SRC="i_b50c36438a58b2e4_html_md0ac4f7.jpg"  WIDTH=111 HEIGHT=54 BORDER=0><IMG SRC="i_b50c36438a58b2e4_html_m42afbcf9.jpg" NAME="Image 1" ALIGN=LEFT HSPACE=12 WIDTH=117 HEIGHT=54 BORDER=0><BR><BR>
 </P>
 </BODY>
 </HTML>
