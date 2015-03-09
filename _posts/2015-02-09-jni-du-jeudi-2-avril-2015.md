@@ -157,8 +157,8 @@ haute Normandie </B></SPAN></FONT>
 <FONT FACE="Calibri, serif"><SPAN LANG="fr-FR"><B>michelchampalbert@sfr.fr</B></SPAN></FONT><FONT FACE="Calibri, serif"><SPAN LANG="fr-FR"><I><B>
  </B></I></SPAN></FONT><FONT FACE="Calibri, serif"><SPAN LANG="fr-FR"><B>06
 17 07 49 77</B></SPAN></FONT></P>
-<P ALIGN=center>
-<P LANG="fr-FR" ALIGN=JUSTIFY STYLE="margin-left: 0.49in; margin-top: 0.02in; margin-bottom: 0.02in; line-height: 100%">
+
+<P ALIGN=CENTER LANG="fr-FR" ALIGN=JUSTIFY STYLE="margin-left: 0.49in; margin-top: 0.02in; margin-bottom: 0.02in; line-height: 100%">
 <IMG SRC="/media/i_753667282af335cc_html_m5a10df41.jpg" NAME="Image 5" ALIGN=LEFT HSPACE=12 WIDTH=87 HEIGHT=44 BORDER=0><IMG SRC="/media/i_753667282af335cc_html_64d4e1fb.jpg" NAME="Image 6" ALIGN=LEFT HSPACE=12 WIDTH=124 HEIGHT=22 BORDER=0><IMG SRC="/media/i_753667282af335cc_html_26f61744.png" NAME="Image 13" ALIGN=LEFT HSPACE=12 WIDTH=126 HEIGHT=37 BORDER=0><IMG SRC="/media/i_753667282af335cc_html_1fbe82b9.jpg" NAME="Image 14" ALIGN=LEFT HSPACE=12 WIDTH=129 HEIGHT=28 BORDER=0><BR><BR>
 </P>
 <P STYLE="margin-left: 0.59in; margin-bottom: 0.14in"><IMG SRC="/media/i_753667282af335cc_html_3650ad8f.jpg" NAME="Image 4" ALIGN=LEFT HSPACE=12 WIDTH=120 HEIGHT=53 BORDER=0><IMG SRC="/media/i_753667282af335cc_html_md0ac4f7.jpg" NAME="graphics1" ALIGN=LEFT HSPACE=12 WIDTH=63 HEIGHT=58 BORDER=0><IMG SRC="/media/i_753667282af335cc_html_1b386d9c.jpg" NAME="Image 16" ALIGN=LEFT HSPACE=12 WIDTH=111 HEIGHT=54 BORDER=0><IMG SRC="/media/i_753667282af335cc_html_m42afbcf9.jpg" NAME="Image 1" ALIGN=LEFT HSPACE=12 WIDTH=117 HEIGHT=54 BORDER=0><BR><BR>
