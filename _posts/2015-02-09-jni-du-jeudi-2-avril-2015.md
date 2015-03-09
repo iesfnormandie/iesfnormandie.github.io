@@ -160,37 +160,6 @@ inscription préalable.</I></SPAN></FONT></FONT></P>
 <P LANG="fr-FR" STYLE="margin-left: 0.89in; margin-top: 0.02in; margin-bottom: 0.02in; line-height: 100%; page-break-before: always">
 <BR><BR>
 </P>
-<DIV>
-<P STYLE="text-indent: 0.49in; margin-top: 0.02in; margin-bottom: 0.02in; line-height: 100%">
-<FONT FACE="Arial, serif"><FONT SIZE=3><SPAN LANG="fr-FR">Les
-échanges de l’après-midi se terminent autour d’un pot.</SPAN></FONT></FONT></P>
-<P STYLE="margin-left: 0.49in; margin-top: 0.02in; margin-bottom: 0.02in; line-height: 100%"><A NAME="_GoBack"></A>
-</DIV>
-<SPAN LANG="fr-FR">Infos pratiques&nbsp;: </SPAN><FONT COLOR="#595959"><FONT FACE="Calibri, serif"><SPAN LANG="fr-FR"><B>CESI
-</B></SPAN></FONT></FONT><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 9pt"><SPAN LANG="fr-FR"><B>Tél.&nbsp;:
-</B></SPAN></FONT></FONT><FONT COLOR="#595959"><FONT FACE="Calibri, serif"><SPAN LANG="fr-FR"><B>02
-32 81 85 6       </B></SPAN></FONT></FONT><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 9pt"><SPAN LANG="fr-FR"><I><B>si
-le parking est complet utiliser les parkings de la ZAC environnante</B></I></SPAN></FONT></FONT></P>
-<P ALIGN=JUSTIFY STYLE="margin-left: 0.49in; margin-top: 0.02in; margin-bottom: 0.02in; line-height: 100%">
-<FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 9pt"><SPAN LANG="fr-FR"><B>Bus
-ligne 40, arrêt Andreï SAKHAROV  ou bus ligne F2 arrêt le village
-détail voir <A HREF="http://www.reseau-astuce.fr">www.reseau-astuce.fr</A></B></SPAN></FONT></FONT></P>
-<P ALIGN=JUSTIFY STYLE="margin-left: 0.49in; margin-bottom: 0in; line-height: 100%">
-<FONT FACE="Calibri, serif"><SPAN LANG="fr-FR"><B>Michel CHAMPALBERT</B></SPAN></FONT><FONT COLOR="#595959"><FONT FACE="Calibri, serif"><SPAN LANG="fr-FR"><B>,
-</B></SPAN></FONT></FONT>
-</P>
-<P ALIGN=JUSTIFY STYLE="margin-left: 0.49in; margin-bottom: 0in; line-height: 100%">
-<FONT FACE="Calibri, serif"><SPAN LANG="fr-FR"><B>Président  IESF
-haute Normandie </B></SPAN></FONT>
-</P>
-<P ALIGN=JUSTIFY STYLE="margin-left: 0.49in; margin-bottom: 0in; line-height: 100%">
-<FONT FACE="Calibri, serif"><SPAN LANG="fr-FR"><B>michelchampalbert@sfr.fr</B></SPAN></FONT><FONT FACE="Calibri, serif"><SPAN LANG="fr-FR"><I><B>
- </B></I></SPAN></FONT><FONT FACE="Calibri, serif"><SPAN LANG="fr-FR"><B>06
-17 07 49 77</B></SPAN></FONT></P>
-<P LANG="fr-FR" ALIGN=JUSTIFY STYLE="margin-left: 0.49in; margin-top: 0.02in; margin-bottom: 0.02in; line-height: 100%">
-<IMG SRC="i_b50c36438a58b2e4_html_m5a10df41.jpg" NAME="Image 5" ALIGN=LEFT HSPACE=12 WIDTH=87 HEIGHT=44 BORDER=0><IMG SRC="i_b50c36438a58b2e4_html_64d4e1fb.jpg" NAME="Image 6" ALIGN=LEFT HSPACE=12 WIDTH=124 HEIGHT=22 BORDER=0><IMG SRC="i_b50c36438a58b2e4_html_26f61744.png" NAME="Image 13" ALIGN=LEFT HSPACE=12 WIDTH=126 HEIGHT=37 BORDER=0><IMG SRC="i_b50c36438a58b2e4_html_1fbe82b9.jpg" NAME="Image 14" ALIGN=LEFT HSPACE=12 WIDTH=129 HEIGHT=28 BORDER=0><BR><BR>
-</P>
-<P STYLE="margin-left: 0.59in; margin-bottom: 0.14in"><IMG SRC="i_b50c36438a58b2e4_html_3650ad8f.jpg" NAME="Image 4" ALIGN=LEFT HSPACE=12 WIDTH=120 HEIGHT=53 BORDER=0><IMG SRC="i_b50c36438a58b2e4_html_md0ac4f7.jpg"  WIDTH=111 HEIGHT=54 BORDER=0><IMG SRC="i_b50c36438a58b2e4_html_m42afbcf9.jpg" NAME="Image 1" ALIGN=LEFT HSPACE=12 WIDTH=117 HEIGHT=54 BORDER=0><BR><BR>
-</P>
+
 </BODY>
 </HTML>
