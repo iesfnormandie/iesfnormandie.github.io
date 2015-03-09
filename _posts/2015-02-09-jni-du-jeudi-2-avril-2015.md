@@ -9,23 +9,7 @@ JNI jeudi 2 avril 2015
 
 
 			
-			<P STYLE="margin-bottom: 0in"> 
-			</P>
-			<P LANG="fr-FR"><BR>
-			</P>
-		</TD>
-	</TR>
-	<TR VALIGN=TOP>
-		<TD WIDTH=50 STYLE="border: none; padding: 0in">
-			<P STYLE="margin-top: 0.02in"><FONT FACE="Arial, serif"><FONT SIZE=3>14h15</FONT></FONT></P>
-		</TD>
-		<TD WIDTH=619 STYLE="border: none; padding: 0in">
-			<P STYLE="margin-top: 0.02in"><FONT COLOR="#548dd4"><FONT FACE="Arial, serif"><FONT SIZE=3><SPAN LANG="fr-FR"><I><B>L’Ingénieu</B></I></SPAN></FONT></FONT></FONT><FONT COLOR="#4f81bd"><I><B><FONT SIZE=4><SPAN LANG="fr-FR">r</SPAN></FONT></B></I></FONT><FONT FACE="Arial, serif"><FONT SIZE=3><SPAN LANG="fr-FR">
-			</SPAN></FONT></FONT><FONT FACE="Arial Narrow, serif"><FONT SIZE=3><SPAN LANG="fr-FR">présentation
-			de l’enquête IESF 2014 par M</SPAN></FONT></FONT><FONT FACE="Arial Narrow, serif"><FONT SIZE=3><SPAN LANG="fr-FR"><B>.
-			</B></SPAN></FONT></FONT><FONT FACE="Arial Narrow, serif"><FONT SIZE=3><SPAN LANG="fr-FR">de
-			VILLELE <BR></SPAN></FONT></FONT><BR>
-			</P>
+			
 		</TD>
 	</TR>
 	<TR VALIGN=TOP>
