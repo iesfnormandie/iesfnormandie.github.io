@@ -160,10 +160,12 @@ inscription préalable.</I></SPAN></FONT></FONT></P>
 <P LANG="fr-FR" STYLE="margin-left: 0.89in; margin-top: 0.02in; margin-bottom: 0.02in; line-height: 100%; page-break-before: always">
 <BR><BR>
 </P>
+<DIV>
 <P STYLE="text-indent: 0.49in; margin-top: 0.02in; margin-bottom: 0.02in; line-height: 100%">
 <FONT FACE="Arial, serif"><FONT SIZE=3><SPAN LANG="fr-FR">Les
 échanges de l’après-midi se terminent autour d’un pot.</SPAN></FONT></FONT></P>
 <P STYLE="margin-left: 0.49in; margin-top: 0.02in; margin-bottom: 0.02in; line-height: 100%"><A NAME="_GoBack"></A>
+</DIV>
 <SPAN LANG="fr-FR">Infos pratiques&nbsp;: </SPAN><FONT COLOR="#595959"><FONT FACE="Calibri, serif"><SPAN LANG="fr-FR"><B>CESI
 </B></SPAN></FONT></FONT><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 9pt"><SPAN LANG="fr-FR"><B>Tél.&nbsp;:
 </B></SPAN></FONT></FONT><FONT COLOR="#595959"><FONT FACE="Calibri, serif"><SPAN LANG="fr-FR"><B>02
@@ -192,4 +194,3 @@ haute Normandie </B></SPAN></FONT>
 </P>
 </BODY>
 </HTML>
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
