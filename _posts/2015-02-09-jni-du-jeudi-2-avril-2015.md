@@ -10,7 +10,7 @@ JNI jeudi 2 avril 2015
 
 <BODY LANG="en-GB" LINK="#0000ff" DIR="LTR">
 <P STYLE="margin-left: 0.59in; margin-bottom: 0in; line-height: 100%">
-&nbsp;<IMG SRC="/media/i_753667282af335cc_html_m37f94a8f.jpg" NAME="Image 0" ALIGN=BOTTOM WIDTH=794 HEIGHT=78 BORDER=0></P>
+&nbsp;<P align=center><IMG SRC="/media/i_753667282af335cc_html_m37f94a8f.jpg" NAME="Image 0" ALIGN=BOTTOM WIDTH=794 HEIGHT=78 BORDER=0></P>
 <P LANG="fr-FR" ALIGN=CENTER STYLE="margin-left: 0.59in; margin-bottom: 0in; line-height: 100%">
 <BR>
 </P>
