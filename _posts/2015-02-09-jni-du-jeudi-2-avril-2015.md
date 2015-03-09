@@ -1,6 +1,6 @@
 ---
 layout: default
-published: false
+published: true
 title: JNI du jeudi 2 avril 2015
 ---
 
