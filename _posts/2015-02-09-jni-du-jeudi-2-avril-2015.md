@@ -103,7 +103,7 @@ par Mme </SPAN></FONT></FONT><FONT FACE="Arial Narrow, serif"><FONT SIZE=3><SPAN
 BRUNEL</B></SPAN></FONT></FONT><FONT FACE="Arial Narrow, serif"><FONT SIZE=3><SPAN LANG="fr-FR">
 de l’ESIGELEC et Mme </SPAN></FONT></FONT> <FONT SIZE=3><SPAN LANG="fr-FR"><B>Sabine FREFIELD</B></SPAN></FONT><FONT FACE="Arial Narrow, serif"><FONT SIZE=3><SPAN LANG="fr-FR"> du CESI, <BR>Table ronde
 témoignages  et expériences vécues par des étudiants étrangers
-et  français, ainsi que M.&nbsp;Jeanselme VIANNEY, ingénieur chez
+et  français, ainsi que M.&nbsp;</SPAN></FONT></FONT> <FONT SIZE=3><SPAN LANG="fr-FR">Jeanselme VIANNEY</B></SPAN></FONT><FONT FACE="Arial Narrow, serif"><FONT SIZE=3><SPAN LANG="fr-FR"> , ingénieur chez
 Safran, expatrié en Chine<BR></SPAN></FONT></FONT><BR><BR>
 </P>
 <P STYLE="margin-top: 0.02in; margin-bottom: 0in; line-height: 0.18in">
