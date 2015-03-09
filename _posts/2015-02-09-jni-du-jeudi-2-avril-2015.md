@@ -19,7 +19,7 @@ JNI jeudi 2 avril 2015
 nationale de l’Ingénieur </P></B></SPAN></FONT></FONT>
 </P>
 <P ALIGN=CENTER STYLE="margin-left: 0.59in; margin-top: 0.02in; margin-bottom: 0.02in; line-height: 100%">
-<FONT COLOR="#548dd4"><FONT FACE="Arial, serif"><FONT SIZE=4><SPAN LANG="fr-FR"><B><P align=center>Jeudi
+<P align=center><FONT COLOR="#548dd4"><FONT FACE="Arial, serif"><FONT SIZE=4><SPAN LANG="fr-FR"><B>Jeudi
 2 Avril 2015 </B></SPAN></FONT></FONT></FONT><FONT COLOR="#548dd4"><FONT FACE="Arial, serif"><FONT SIZE=4><SPAN LANG="fr-FR"><B>à
 14h00</B></SPAN></FONT></FONT></FONT></P>
 <P ALIGN=CENTER STYLE="margin-left: 0.59in; margin-top: 0.02in; margin-bottom: 0.02in; line-height: 100%">
