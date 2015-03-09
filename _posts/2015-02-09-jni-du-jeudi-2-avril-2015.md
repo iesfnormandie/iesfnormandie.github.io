@@ -13,25 +13,7 @@ JNI jeudi 2 avril 2015
 		
 			</B></SPAN></FONT></FONT><FONT FACE="Arial Narrow, serif"><FONT SIZE=3>
 		<TD WIDTH=619 STYLE="border: none; padding: 0in">
-			<P STYLE="margin-top: 0.02in"><FONT COLOR="#548dd4"><FONT FACE="Arial, serif"><FONT SIZE=3><SPAN LANG="fr-FR"><I><B>L’ingénieur&nbsp;
-			à l’international<BR></B></I></SPAN></FONT></FONT></FONT><FONT FACE="Arial Narrow, serif"><FONT SIZE=3><SPAN LANG="fr-FR">Conférence
-			par Mme Cécilia Brunel de l’ESIGELEC et Mme Sabine Frefield du
-			CESI, <BR>Table ronde témoignages  et expériences vécues par
-			des étudiants étrangers et  français, ainsi que M.&nbsp;Jeanselme
-			Vianney, ingénieur chez Safran, expatrié en Chine<BR></SPAN></FONT></FONT><BR>
-			</P>
-		</TD>
-	</TR>
-	<TR VALIGN=TOP>
-		<TD WIDTH=50 STYLE="border: none; padding: 0in">
-			<P STYLE="margin-top: 0.02in"><FONT FACE="Arial, serif"><FONT SIZE=3>17h00</FONT></FONT></P>
-		</TD>
-		<TD WIDTH=619 STYLE="border: none; padding: 0in">
-			<P STYLE="margin-top: 0.02in"><FONT COLOR="#548dd4"><FONT FACE="Arial, serif"><FONT SIZE=3><SPAN LANG="fr-FR"><I><B>L'ingénieur,
-			passerelle  entre l'évolution rapide des technologies et le grand
-			public</B></I></SPAN></FONT></FONT></FONT><FONT FACE="Arial, serif"><FONT SIZE=3><SPAN LANG="fr-FR"><B>
-			</B></SPAN></FONT></FONT><FONT FACE="Arial Narrow, serif"><FONT SIZE=3><SPAN LANG="fr-FR">par
-			Mme Virginie Lassalle, directrice exécutive IDEFI - InnovENT-E&nbsp;<BR></SPAN></FONT></FONT><BR>
+			
 			</P>
 		</TD>
 	</TR>
