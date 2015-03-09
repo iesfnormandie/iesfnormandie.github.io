@@ -10,29 +10,7 @@ JNI jeudi 2 avril 2015
 
 			
 			
-		</TD>
-	</TR>
-	<TR VALIGN=TOP>
-		<TD WIDTH=50 STYLE="border: none; padding: 0in">
-			<P STYLE="margin-top: 0.02in"><FONT FACE="Arial, serif"><FONT SIZE=3>14h45</FONT></FONT></P>
-		</TD>
-		<TD WIDTH=619 STYLE="border: none; padding: 0in">
-			<P STYLE="margin-left: 0.02in; margin-top: 0.02in"><FONT COLOR="#548dd4"><FONT FACE="Arial, serif"><FONT SIZE=3><SPAN LANG="fr-FR"><I><B>L’ingénieur
-			au féminin </B></I></SPAN></FONT></FONT></FONT><FONT FACE="Arial Narrow, serif"><FONT SIZE=3><SPAN LANG="fr-FR">par
-			Mme Alice ANGLARER déléguée ELLES BOUGENT<BR></SPAN></FONT></FONT><BR>
-			</P>
-		</TD>
-	</TR>
-	<TR VALIGN=TOP>
-		<TD WIDTH=50 STYLE="border: none; padding: 0in">
-			<P STYLE="margin-top: 0.02in"><FONT FACE="Arial, serif"><FONT SIZE=3>15h00</FONT></FONT></P>
-		</TD>
-		<TD WIDTH=619 STYLE="border: none; padding: 0in">
-			<P STYLE="margin-top: 0.02in"><FONT COLOR="#548dd4"><FONT FACE="Arial, serif"><FONT SIZE=3><SPAN LANG="fr-FR"><I><B>Organisation
-			de la recherche scientifique en France et sa déclinaison en
-			Normandie</B></I></SPAN></FONT></FONT></FONT><FONT FACE="Arial, serif"><FONT SIZE=3><SPAN LANG="fr-FR">
-			</SPAN></FONT></FONT><FONT FACE="Arial Narrow, serif"><FONT SIZE=3><SPAN LANG="fr-FR">par
-			M. Claude ROZE,</SPAN></FONT></FONT><FONT FACE="Arial Narrow, serif"><FONT SIZE=3><SPAN LANG="fr-FR"><B>
+		
 			</B></SPAN></FONT></FONT><FONT FACE="Arial Narrow, serif"><FONT SIZE=3><SPAN LANG="fr-FR">de
 			l'ESITech, Dir. adj. du laboratoire CORIA<BR></SPAN></FONT></FONT><BR>
 			</P>
