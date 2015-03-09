@@ -5,6 +5,14 @@ title: JNI du jeudi 2 avril 2015
 ---
 
 JNI jeudi 2 avril 2015
+![i_753667282af335cc_html_1b386d9c.jpg](/media/i_753667282af335cc_html_1b386d9c.jpg)
+![i_753667282af335cc_html_1b386d9c.jpg](/media/i_753667282af335cc_html_1b386d9c.jpg)
+![i_753667282af335cc_html_md0ac4f7.jpg](/media/i_753667282af335cc_html_md0ac4f7.jpg)
+![i_753667282af335cc_html_3650ad8f.jpg](/media/i_753667282af335cc_html_3650ad8f.jpg)
+![i_753667282af335cc_html_m42afbcf9.jpg](/media/i_753667282af335cc_html_m42afbcf9.jpg)
+![i_753667282af335cc_html_1fbe82b9.jpg](/media/i_753667282af335cc_html_1fbe82b9.jpg)
+![i_753667282af335cc_html_m37f94a8f.jpg](/media/i_753667282af335cc_html_m37f94a8f.jpg)
+![i_753667282af335cc_html_64d4e1fb.jpg](/media/i_753667282af335cc_html_64d4e1fb.jpg)
 
 
 <BODY LANG="en-GB" LINK="#0000ff" DIR="LTR">
