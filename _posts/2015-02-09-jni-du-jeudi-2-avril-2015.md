@@ -8,16 +8,7 @@ JNI jeudi 2 avril 2015
 
 
 
-			<P STYLE="margin-bottom: 0in"><FONT FACE="Arial, serif"><FONT SIZE=3><SPAN LANG="fr-FR"><B>Ouverture
-			de la Journée des Ingénieurs</B></SPAN></FONT></FONT><FONT FACE="Arial, serif"><FONT SIZE=3><SPAN LANG="fr-FR">
-			</SPAN></FONT></FONT>
-			</P>
-			<P STYLE="margin-bottom: 0in"><FONT FACE="Arial Narrow, serif"><FONT SIZE=3><SPAN LANG="fr-FR">par
-			M. Michel CHAMPALBERT, président IESF Haute Normandie </SPAN></FONT></FONT><FONT FACE="Arial, serif"><FONT SIZE=3><SPAN LANG="fr-FR"><BR></SPAN></FONT></FONT><FONT FACE="Arial, serif"><FONT SIZE=3><SPAN LANG="fr-FR"><B>Accueil
-			et présentation du CESI</B></SPAN></FONT></FONT><FONT FACE="Arial, serif"><FONT SIZE=3><SPAN LANG="fr-FR">
-			</SPAN></FONT></FONT><FONT FACE="Arial Narrow, serif"><FONT SIZE=3><SPAN LANG="fr-FR">par</SPAN></FONT></FONT><FONT FACE="Arial Narrow, serif"><FONT SIZE=3><SPAN LANG="fr-FR">
-			M. Sébastien Blondel, directeur ei.cesi Rouen </SPAN></FONT></FONT>
-			</P>
+			
 			<P STYLE="margin-bottom: 0in"> 
 			</P>
 			<P LANG="fr-FR"><BR>
