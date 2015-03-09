@@ -5,9 +5,6 @@ title: JNI du jeudi 2 avril 2015
 ---
 
 JNI jeudi 2 avril 2015
-![i_753667282af335cc_html_26f61744.jpg](/media/i_753667282af335cc_html_26f61744.jpg)
-![i_753667282af335cc_html_m5a10df41.jpg](/media/i_753667282af335cc_html_m5a10df41.jpg)
-![i_753667282af335cc_html_26f61744.png](/media/i_753667282af335cc_html_26f61744.png)
 
 
 
@@ -17,7 +14,7 @@ JNI jeudi 2 avril 2015
 <P LANG="fr-FR" ALIGN=CENTER STYLE="margin-left: 0.59in; margin-bottom: 0in; line-height: 100%">
 <BR>
 </P>
-<P ALIGN=CENTER STYLE="margin-center: 0.59in; margin-bottom: 0in; line-height: 100%">
+<P ALIGN=CENTER STYLE="margin-left: 0.59in; margin-bottom: 0in; line-height: 100%">
 <FONT FACE="Arial, serif"><FONT SIZE=5><SPAN LANG="fr-FR"><B>Journée
 nationale de l’Ingénieur </B></SPAN></FONT></FONT>
 </P>
