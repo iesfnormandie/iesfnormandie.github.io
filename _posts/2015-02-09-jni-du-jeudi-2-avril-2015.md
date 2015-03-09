@@ -7,21 +7,7 @@ title: JNI du jeudi 2 avril 2015
 JNI jeudi 2 avril 2015
 
 
-</I></SPAN></FONT></FONT><FONT FACE="Arial, serif"><FONT SIZE=3><SPAN LANG="fr-FR"><I><B>mobile</B></I></SPAN></FONT></FONT><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 9pt"><SPAN LANG="fr-FR"><I>
-du CESI&nbsp;qui propose des techniques modernes de production&nbsp;:
-imprimante 3D, usinage 3D, découpe laser – Accès libre sur
-inscription préalable.</I></SPAN></FONT></FONT></P>
-<P LANG="fr-FR" ALIGN=CENTER STYLE="margin-left: 0.59in; margin-bottom: 0in; line-height: 100%">
-<BR>
-</P>
 
-	<COL WIDTH=50>
-	<COL WIDTH=619>
-	<TR VALIGN=TOP>
-		<TD WIDTH=50 STYLE="border: none; padding: 0in">
-			<P STYLE="margin-top: 0.02in"><FONT FACE="Arial, serif"><FONT SIZE=3>14h00</FONT></FONT></P>
-		</TD>
-		<TD WIDTH=619 STYLE="border: none; padding: 0in">
 			<P STYLE="margin-bottom: 0in"><FONT FACE="Arial, serif"><FONT SIZE=3><SPAN LANG="fr-FR"><B>Ouverture
 			de la Journée des Ingénieurs</B></SPAN></FONT></FONT><FONT FACE="Arial, serif"><FONT SIZE=3><SPAN LANG="fr-FR">
 			</SPAN></FONT></FONT>
