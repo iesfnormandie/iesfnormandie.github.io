@@ -101,7 +101,7 @@ de l’ESITech, Dir. adj. du laboratoire LMSM<BR></SPAN></FONT></FONT><BR><BR>
 à l’international<BR></B></I></SPAN></FONT></FONT></FONT><FONT FACE="Arial Narrow, serif"><FONT SIZE=3><SPAN LANG="fr-FR">Conférence
 par Mme </SPAN></FONT></FONT><FONT FACE="Arial Narrow, serif"><FONT SIZE=3><SPAN LANG="fr-FR"><B>Cécilia
 BRUNEL</B></SPAN></FONT></FONT><FONT FACE="Arial Narrow, serif"><FONT SIZE=3><SPAN LANG="fr-FR">
-de l’ESIGELEC et Mme </SPAN></FONT></FONT> FONT="Arial Narrow, serif"><FONT SIZE=3><SPAN LANG="fr-FR"><B>Sabine Frefield</B></SPAN></FONT><FONT FACE="Arial Narrow, serif"><FONT SIZE=3><SPAN LANG="fr-FR"> du CESI, <BR>Table ronde
+de l’ESIGELEC et Mme </SPAN></FONT></FONT> <FONT SIZE=3><SPAN LANG="fr-FR"><B>Sabine Frefield</B></SPAN></FONT><FONT FACE="Arial Narrow, serif"><FONT SIZE=3><SPAN LANG="fr-FR"> du CESI, <BR>Table ronde
 témoignages  et expériences vécues par des étudiants étrangers
 et  français, ainsi que M.&nbsp;Jeanselme Vianney, ingénieur chez
 Safran, expatrié en Chine<BR></SPAN></FONT></FONT><BR><BR>
