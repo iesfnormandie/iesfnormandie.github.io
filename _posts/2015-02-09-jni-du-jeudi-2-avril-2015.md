@@ -51,7 +51,7 @@ CHAMPALBERT</B></SPAN></FONT></FONT><FONT FACE="Arial Narrow, serif"><FONT SIZE=
 président IESF Haute Normandie </SPAN></FONT></FONT><FONT FACE="Arial, serif"><FONT SIZE=3><SPAN LANG="fr-FR"><BR></SPAN></FONT></FONT><FONT FACE="Arial, serif"><FONT SIZE=3><SPAN LANG="fr-FR"><B>Accueil
 et présentation du CESI</B></SPAN></FONT></FONT><FONT FACE="Arial, serif"><FONT SIZE=3><SPAN LANG="fr-FR">
 </SPAN></FONT></FONT><FONT FACE="Arial Narrow, serif"><FONT SIZE=3><SPAN LANG="fr-FR">par</SPAN></FONT></FONT><FONT FACE="Arial Narrow, serif"><FONT SIZE=3><SPAN LANG="fr-FR">
-M. </SPAN></FONT></FONT><FONT FACE="Arial Narrow, serif"><FONT SIZE=3><SPAN LANG="fr-FR"><B>Sébast BLONDEL</B></SPAN></FONT></FONT>, directeur ei.cesi Rouen 
+M. </SPAN></FONT></FONT><FONT FACE="Arial Narrow, serif"><FONT SIZE=3><SPAN LANG="fr-FR"><B>Sébastien BLONDEL</B></SPAN></FONT></FONT>, directeur ei.cesi Rouen 
 </P>
 <P STYLE="margin-left: 0.39in; margin-bottom: 0in; line-height: 100%">
  
@@ -67,7 +67,7 @@ Jacques de VILLELE</B></SPAN></FONT></FONT><FONT FACE="Arial Narrow, serif"><FON
 </P>
 <P STYLE="margin-top: 0.02in; margin-bottom: 0in; line-height: 0.18in">
 <FONT FACE="Arial, serif"><SPAN LANG="fr-FR"><B>14h45</B></SPAN></FONT></P>
-<P STYLE="margin-left: 0.39in; margin-bottom: 0.02in"><FONT COLOR="#548dd4"><FONT FACE="Arial, serif"><FONT SIZE=3><SPAN LANG="fr-FR"><I><B>L’ingénieur
+<P STYLE="margin-left: 0.39in; margin-bottom: 0.02in; line-height: 0.18in"><FONT COLOR="#548dd4"><FONT FACE="Arial, serif"><FONT SIZE=3><SPAN LANG="fr-FR"><I><B>L’ingénieur
 au féminin </B></I></SPAN></FONT></FONT></FONT><FONT FACE="Arial Narrow, serif"><FONT SIZE=3><SPAN LANG="fr-FR">par
 Mme <B>Alice ANGLARER</B> déléguée ELLES BOUGENT<BR></SPAN></FONT></FONT><BR><BR>
 </P>
