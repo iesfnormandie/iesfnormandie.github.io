@@ -35,7 +35,7 @@ inscription préalable.</I></SPAN></FONT></FONT></P>
 <P LANG="fr-FR" ALIGN=CENTER STYLE="margin-left: 0.59in; margin-bottom: 0in; line-height: 100%">
 <BR>
 </P>
-<TABLE DIR="LTR" ALIGN=LEFT WIDTH=697 CELLPADDING=7 CELLSPACING=0>
+
 	<COL WIDTH=50>
 	<COL WIDTH=619>
 	<TR VALIGN=TOP>
@@ -151,7 +151,7 @@ inscription préalable.</I></SPAN></FONT></FONT></P>
 			Lysiane HERNANDEZ, association l’AVARAP</SPAN></FONT></FONT></P>
 		</TD>
 	</TR>
-</TABLE>
+
 <P STYLE="margin-left: 0.89in; margin-top: 0.02in; margin-bottom: 0.02in; line-height: 100%">
 <FONT FACE="Arial, serif"><FONT SIZE=3><SPAN LANG="fr-FR"><BR></SPAN></FONT></FONT><BR><BR>
 </P>
