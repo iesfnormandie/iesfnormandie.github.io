@@ -11,28 +11,7 @@ JNI jeudi 2 avril 2015
 			
 			
 		
-			</B></SPAN></FONT></FONT><FONT FACE="Arial Narrow, serif"><FONT SIZE=3><SPAN LANG="fr-FR">de
-			l'ESITech, Dir. adj. du laboratoire CORIA<BR></SPAN></FONT></FONT><BR>
-			</P>
-		</TD>
-	</TR>
-	<TR VALIGN=TOP>
-		<TD WIDTH=50 STYLE="border: none; padding: 0in">
-			<P STYLE="margin-top: 0.02in"><FONT FACE="Arial, serif"><FONT SIZE=3>15h30</FONT></FONT></P>
-		</TD>
-		<TD WIDTH=619 STYLE="border: none; padding: 0in">
-			<P STYLE="margin-top: 0.02in"><FONT COLOR="#548dd4"><FONT FACE="Arial, serif"><FONT SIZE=3><SPAN LANG="fr-FR"><I><B>Un
-			exemple de structuration entre la recherche, la formation et la
-			valorisation autour des bio-industries</B></I></SPAN></FONT></FONT></FONT><FONT FACE="Arial, serif"><FONT SIZE=3><SPAN LANG="fr-FR">
-			</SPAN></FONT></FONT><FONT FACE="Arial Narrow, serif"><FONT SIZE=3><SPAN LANG="fr-FR">par
-			Mme Nicole ORANGE, de l’ESITech, Dir. adj. du laboratoire LMSM<BR></SPAN></FONT></FONT><BR>
-			</P>
-		</TD>
-	</TR>
-	<TR VALIGN=TOP>
-		<TD WIDTH=50 STYLE="border: none; padding: 0in">
-			<P STYLE="margin-top: 0.02in"><FONT FACE="Arial, serif"><FONT SIZE=3>16h00</FONT></FONT></P>
-		</TD>
+			</B></SPAN></FONT></FONT><FONT FACE="Arial Narrow, serif"><FONT SIZE=3>
 		<TD WIDTH=619 STYLE="border: none; padding: 0in">
 			<P STYLE="margin-top: 0.02in"><FONT COLOR="#548dd4"><FONT FACE="Arial, serif"><FONT SIZE=3><SPAN LANG="fr-FR"><I><B>L’ingénieur&nbsp;
 			à l’international<BR></B></I></SPAN></FONT></FONT></FONT><FONT FACE="Arial Narrow, serif"><FONT SIZE=3><SPAN LANG="fr-FR">Conférence
