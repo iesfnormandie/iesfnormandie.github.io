@@ -6,31 +6,7 @@ title: JNI du jeudi 2 avril 2015
 
 JNI jeudi 2 avril 2015
 
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
-<HTML>
-<HEAD>
-	<META HTTP-EQUIV="CONTENT-TYPE" CONTENT="text/html; charset=utf-8">
-	<TITLE></TITLE>
-	<META NAME="GENERATOR" CONTENT="LibreOffice 4.0.5.2 (Linux)">
-	<META NAME="AUTHOR" CONTENT="pc">
-	<META NAME="CREATED" CONTENT="20150209;11010000">
-	<META NAME="CHANGEDBY" CONTENT="J d V">
-	<META NAME="CHANGED" CONTENT="20150209;11040000">
-	<META NAME="AppVersion" CONTENT="12.0000">
-	<META NAME="Company" CONTENT="Groupe CESI">
-	<META NAME="DocSecurity" CONTENT="0">
-	<META NAME="HyperlinksChanged" CONTENT="false">
-	<META NAME="LinksUpToDate" CONTENT="false">
-	<META NAME="ScaleCrop" CONTENT="false">
-	<META NAME="ShareDoc" CONTENT="false">
-	<STYLE TYPE="text/css">
-	<!--
-		@page { margin-left: 0.39in; margin-right: 0.69in; margin-top: 0.1in }
-		P { margin-bottom: 0.08in; direction: ltr; widows: 2; orphans: 2 }
-		A:link { color: #0000ff; so-language: zxx }
-	-->
-	</STYLE>
-</HEAD>
+
 <BODY LANG="en-GB" LINK="#0000ff" DIR="LTR">
 <P STYLE="margin-left: 0.59in; margin-bottom: 0in; line-height: 100%">
 &nbsp;<IMG SRC="i_753667282af335cc_html_m37f94a8f.jpg" NAME="Image 0" ALIGN=BOTTOM WIDTH=794 HEIGHT=78 BORDER=0></P>
