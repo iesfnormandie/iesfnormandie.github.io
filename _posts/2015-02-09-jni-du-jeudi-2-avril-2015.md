@@ -124,7 +124,7 @@ directrice exécutive IDEFI - InnovENT-E&nbsp;<BR></SPAN></FONT></FONT><BR><BR>
 entre technique et savoir être -</B></I></SPAN></FONT></FONT></FONT><FONT FACE="Arial, serif"><FONT SIZE=3><SPAN LANG="fr-FR"><B>
 </B></SPAN></FONT></FONT><FONT COLOR="#548dd4"><FONT FACE="Arial, serif"><FONT SIZE=3><SPAN LANG="fr-FR"><I><B>L'ingénieur passerelle entre technique et savoir être - Accompagnement dans l'emploi</B></I></SPAN></FONT></FONT></FONT><FONT FACE="Arial Narrow, serif"><FONT SIZE=3><SPAN LANG="fr-FR">par</SPAN></FONT></FONT><FONT FACE="Arial Narrow, serif"><FONT SIZE=3><SPAN LANG="fr-FR"><B>
 </B></SPAN></FONT></FONT><FONT FACE="Arial Narrow, serif"><FONT SIZE=3><SPAN LANG="fr-FR"><br> Mme
-</SPAN></FONT></FONT><FONT FACE="Arial Narrow, serif"><FONT SIZE=3><SPAN LANG="fr-FR"><B>Lysiane
+</SPAN></FONT></FONT><FONT FACE="Arial Narrow, serif"><FONT SIZE=3><SPAN LANG="fr-FR"><B>  par Lysiane
 HERNANDEZ</B></SPAN></FONT></FONT><FONT FACE="Arial Narrow, serif"><FONT SIZE=3><SPAN LANG="fr-FR">,
 association l’AVARAP, témoignage de 
 </SPAN></FONT></FONT><FONT FACE="Arial Narrow, serif"><FONT SIZE=3><SPAN LANG="fr-FR"><B>Nina DUPRE</B></SPAN></FONT></FONT><FONT FACE="Arial Narrow, serif"><FONT SIZE=3><SPAN LANG="fr-FR">, Ingénieur Central.
