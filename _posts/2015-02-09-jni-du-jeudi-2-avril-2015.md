@@ -127,7 +127,7 @@ entre technique et savoir être -</B></I></SPAN></FONT></FONT></FONT><FONT FACE=
 </SPAN></FONT></FONT><FONT FACE="Arial Narrow, serif"><FONT SIZE=3><SPAN LANG="fr-FR"><B>par Lysiane
 HERNANDEZ</B></SPAN></FONT></FONT><FONT FACE="Arial Narrow, serif"><FONT SIZE=3><SPAN LANG="fr-FR">,
 association l’AVARAP, témoignage de 
-</SPAN></FONT></FONT><FONT FACE="Arial Narrow, serif"><FONT SIZE=3><SPAN LANG="fr-FR"><B>Nina DUPRE</B></SPAN></FONT></FONT><FONT FACE="Arial Narrow, serif"><FONT SIZE=3><SPAN LANG="fr-FR">, Ingénieur Central.
+</SPAN></FONT></FONT><FONT FACE="Arial Narrow, serif"><FONT SIZE=3><SPAN LANG="fr-FR"><B>Nina DUPRE</B></SPAN></FONT></FONT><FONT FACE="Arial Narrow, serif"><FONT SIZE=3><SPAN LANG="fr-FR">, Ingénieure Centrale.
 </SPAN></FONT></FONT></P>
 <P ALIGN=CENTER STYLE="text-indent: 0.49in; margin-top: 0.02in; margin-bottom: 0.02in; line-height: 100%">
 <FONT FACE="Arial, serif"><FONT SIZE=3><SPAN LANG="fr-FR"><U>Les
