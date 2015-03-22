@@ -123,10 +123,10 @@ directrice exécutive IDEFI - InnovENT-E&nbsp;<BR></SPAN></FONT></FONT><BR><BR>
 <FONT COLOR="#548dd4"><FONT FACE="Arial, serif"><FONT SIZE=3><SPAN LANG="fr-FR"><I><B>L'ingénieur,
 entre technique et savoir être -</B></I></SPAN></FONT></FONT></FONT><FONT FACE="Arial, serif"><FONT SIZE=3><SPAN LANG="fr-FR"><B>
 </B></SPAN></FONT></FONT><FONT COLOR="#548dd4"><FONT FACE="Arial, serif"><FONT SIZE=3><SPAN LANG="fr-FR"><I><B>L'ingénieur passerelle entre technique et savoir être - Accompagnement dans l'emploi</B></I></SPAN></FONT></FONT></FONT><FONT FACE="Arial Narrow, serif"><FONT SIZE=3><SPAN LANG="fr-FR">par</SPAN></FONT></FONT><FONT FACE="Arial Narrow, serif"><FONT SIZE=3><SPAN LANG="fr-FR"><B>
-</B></SPAN></FONT></FONT><FONT FACE="Arial Narrow, serif"><FONT SIZE=3><SPAN LANG="fr-FR">Mme
+</B></SPAN></FONT></FONT><FONT FACE="Arial Narrow, serif"><FONT SIZE=3><SPAN LANG="fr-FR"><br>par Mme
 </SPAN></FONT></FONT><FONT FACE="Arial Narrow, serif"><FONT SIZE=3><SPAN LANG="fr-FR"><B>Lysiane
 HERNANDEZ</B></SPAN></FONT></FONT><FONT FACE="Arial Narrow, serif"><FONT SIZE=3><SPAN LANG="fr-FR">,
-association l’AVARAP</SPAN></FONT></FONT></P>
+association l’AVARAP, témoignage de </SPAN></FONT></FONT></P>
 <P ALIGN=CENTER STYLE="text-indent: 0.49in; margin-top: 0.02in; margin-bottom: 0.02in; line-height: 100%">
 <FONT FACE="Arial, serif"><FONT SIZE=3><SPAN LANG="fr-FR"><U>Les
 échanges de l’après-midi se terminent autour d’un pot</U></SPAN></FONT></FONT><FONT FACE="Arial, serif"><FONT SIZE=3><SPAN LANG="fr-FR">.</SPAN></FONT></FONT></P>
