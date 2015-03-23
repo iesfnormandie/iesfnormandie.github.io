@@ -16,7 +16,7 @@ JNI jeudi 2 avril 2015
 </P>
 <P STYLE="margin-left: 0.59in; margin-bottom; line-height: 100%">
 <FONT FACE="Arial, serif"><FONT SIZE=5><SPAN LANG="fr-FR"><B><P align=center>Journée
-nationale de l’Ingénieur </P></B></SPAN></FONT></FONT>
+Nationale de l’Ingénieur </P></B></SPAN></FONT></FONT>
 </P>
 <P ALIGN=CENTER STYLE="margin-left: 0.59in; margin-top: 0.02in; margin-bottom: 0.02in; line-height: 100%">
 <P align=center><FONT COLOR="#548dd4"><FONT FACE="Arial, serif"><FONT SIZE=4><SPAN LANG="fr-FR"><B>Jeudi
