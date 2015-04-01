@@ -133,14 +133,13 @@ association l’AVARAP, témoignage de
 <FONT FACE="Arial, serif"><FONT SIZE=3><SPAN LANG="fr-FR"><U>Les
 échanges de l’après-midi se terminent autour d’un pot</U></SPAN></FONT></FONT><FONT FACE="Arial, serif"><FONT SIZE=3><SPAN LANG="fr-FR">.</SPAN></FONT></FONT></P>
 <P STYLE="margin-left: 0.49in; margin-top: 0.02in; margin-bottom: 0.02in; line-height: 100%">
-<FONT SIZE=3><SPAN LANG="fr-FR"><U>Infos pratiques</U></SPAN></FONT><SPAN LANG="fr-FR">&nbsp;:
+<FONT SIZE=3><SPAN LANG="fr-FR"><U>Infos pratiques : CESI Tél : 02 32 81 85 60</U></SPAN></FONT><SPAN LANG="fr-FR">&nbsp;:
 </SPAN>
 </P>
 <P STYLE="margin-left: 0.49in; margin-top: 0.02in; margin-bottom: 0.02in; line-height: 100%"><A NAME="_GoBack"></A>
-<FONT COLOR="#595959"><FONT FACE="Calibri, serif"><SPAN LANG="fr-FR"><B>CESI
-</B></SPAN></FONT></FONT><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 9pt"><SPAN LANG="fr-FR"><B>Tél.&nbsp;:
-</B></SPAN></FONT></FONT><FONT COLOR="#595959"><FONT FACE="Calibri, serif"><SPAN LANG="fr-FR"><B>02
-32 81 85 6       </B></SPAN></FONT></FONT><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 9pt"><SPAN LANG="fr-FR"><I><B>si
+<FONT COLOR="#595959"><FONT FACE="Calibri, serif"><SPAN LANG="fr-FR"><B>
+</B></SPAN></FONT></FONT><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 9pt"><SPAN LANG="fr-FR"><B>
+</B></SPAN></FONT></FONT><FONT COLOR="#595959"><FONT FACE="Calibri, serif"><SPAN LANG="fr-FR"><B></B></SPAN></FONT></FONT><FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 9pt"><SPAN LANG="fr-FR"><I><B>si
 le parking est complet utiliser les parkings de la ZAC environnante</B></I></SPAN></FONT></FONT></P>
 <P ALIGN=JUSTIFY STYLE="margin-left: 0.49in; margin-top: 0.02in; margin-bottom: 0.02in; line-height: 100%">
 <FONT FACE="Arial, serif"><FONT SIZE=2 STYLE="font-size: 9pt"><SPAN LANG="fr-FR"><B>Bus
