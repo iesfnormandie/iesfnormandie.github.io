@@ -43,12 +43,12 @@ title: Flash info N°1549
 
 <HTML>
 <BODY LANG="fr-FR" LINK="#0000ff" DIR="LTR">
-<P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><IMG SRC="i_c54cd36166250716_html_348088e.jpg" NAME="Image 20" ALIGN=BOTTOM WIDTH=680 HEIGHT=66 BORDER=0></P>
+<P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><IMG SRC="/media/i_c54cd36166250716_html_348088e.jpg" NAME="Image 20" ALIGN=BOTTOM WIDTH=680 HEIGHT=66 BORDER=0></P>
 <P ALIGN=RIGHT STYLE="margin-bottom: 0.19in"><FONT SIZE=3><I><B>Flash
 info N°1549 – juin 2015</B></I></FONT></P>
 <P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><BR><BR>
 </P>
-<P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><FONT COLOR="#000000"><IMG SRC="i_c54cd36166250716_html_383c0a9c.jpg" NAME="Image 16" ALIGN=BOTTOM WIDTH=680 HEIGHT=49 BORDER=0></FONT></P>
+<P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><FONT COLOR="#000000"><IMG SRC="/media/i_c54cd36166250716_html_383c0a9c.jpg" NAME="Image 16" ALIGN=BOTTOM WIDTH=680 HEIGHT=49 BORDER=0></FONT></P>
 <P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><BR><BR>
 </P>
 <P STYLE="margin-bottom: 0.19in"><FONT COLOR="#000000"><FONT FACE="Calibri, serif"><FONT SIZE=3><B>L'Assemblée
@@ -82,7 +82,7 @@ comptes et le détail des votes sont disponibles pour consultation au
 siège d’IESF.</FONT></FONT></FONT></P>
 <P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><BR><BR>
 </P>
-<P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><FONT COLOR="#000000"><IMG SRC="i_c54cd36166250716_html_7ba80e9e.jpg" NAME="Image 27" ALIGN=BOTTOM WIDTH=228 HEIGHT=205 BORDER=0></FONT></P>
+<P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><FONT COLOR="#000000"><IMG SRC="/media/i_c54cd36166250716_html_7ba80e9e.jpg" NAME="Image 27" ALIGN=BOTTOM WIDTH=228 HEIGHT=205 BORDER=0></FONT></P>
 <P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><BR><BR>
 </P>
 <P ALIGN=JUSTIFY STYLE="margin-bottom: 0.19in"><FONT COLOR="#000000"><FONT FACE="Calibri, serif"><FONT SIZE=3>Le
@@ -93,10 +93,10 @@ remis la médaille d’Ingénieurs et Scientifiques de France pour le
 remercier de sa présence et de son allocution.</FONT></FONT></FONT></P>
 <P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><BR><BR>
 </P>
-<P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><FONT COLOR="#000000"><IMG SRC="i_c54cd36166250716_html_19ada1c6.jpg" NAME="Image 32" ALIGN=BOTTOM WIDTH=680 HEIGHT=49 BORDER=0></FONT></P>
+<P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><FONT COLOR="#000000"><IMG SRC="/media/i_c54cd36166250716_html_19ada1c6.jpg" NAME="Image 32" ALIGN=BOTTOM WIDTH=680 HEIGHT=49 BORDER=0></FONT></P>
 <P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><BR><BR>
 </P>
-<P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><FONT COLOR="#000000"><IMG SRC="i_c54cd36166250716_html_415d2b23.jpg" NAME="Image 41" ALIGN=BOTTOM WIDTH=680 HEIGHT=49 BORDER=0></FONT></P>
+<P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><FONT COLOR="#000000"><IMG SRC="/media/i_c54cd36166250716_html_415d2b23.jpg" NAME="Image 41" ALIGN=BOTTOM WIDTH=680 HEIGHT=49 BORDER=0></FONT></P>
 <P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><BR><BR>
 </P>
 <P ALIGN=JUSTIFY STYLE="margin-bottom: 0.19in"><FONT COLOR="#000000"><FONT FACE="Calibri, serif"><FONT SIZE=3>A
@@ -132,25 +132,25 @@ engagées lors de ce premier mandat (<A HREF="http://www.iesf.fr/upload/pdf/1506
 le communiqué de presse de sa nomination</A>)</FONT></FONT></FONT></P>
 <P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><BR><BR>
 </P>
-<P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><FONT COLOR="#000000"><IMG SRC="i_c54cd36166250716_html_1f8165e2.jpg" NAME="Image 43" ALIGN=BOTTOM WIDTH=280 HEIGHT=1009 BORDER=0></FONT></P>
+<P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><FONT COLOR="#000000"><IMG SRC="/media/i_c54cd36166250716_html_1f8165e2.jpg" NAME="Image 43" ALIGN=BOTTOM WIDTH=280 HEIGHT=1009 BORDER=0></FONT></P>
 <P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><BR><BR>
 </P>
-<P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><FONT COLOR="#000000"><IMG SRC="i_c54cd36166250716_html_8b2e8517.jpg" NAME="Image 45" ALIGN=BOTTOM WIDTH=680 HEIGHT=49 BORDER=0></FONT></P>
+<P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><FONT COLOR="#000000"><IMG SRC="/media/i_c54cd36166250716_html_8b2e8517.jpg" NAME="Image 45" ALIGN=BOTTOM WIDTH=680 HEIGHT=49 BORDER=0></FONT></P>
 <P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><BR><BR>
 </P>
 <P STYLE="margin-bottom: 0.19in"><BR><BR>
 </P>
-<P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><FONT COLOR="#000000"><IMG SRC="i_c54cd36166250716_html_9a76d727.jpg" 
+<P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><FONT COLOR="#000000"><IMG SRC="/media/i_c54cd36166250716_html_9a76d727.jpg" 
 NAME="Image 44" ALIGN=BOTTOM WIDTH=680 HEIGHT=873 BORDER=0></FONT></P>
 <P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><BR><BR>
 </P>
-<P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><FONT COLOR="#000000"><IMG SRC="i_c54cd36166250716_html_19ada1c6.jpg" NAME="Image 46" ALIGN=BOTTOM WIDTH=680 HEIGHT=49 BORDER=0></FONT></P>
+<P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><FONT COLOR="#000000"><IMG SRC="/media/i_c54cd36166250716_html_19ada1c6.jpg" NAME="Image 46" ALIGN=BOTTOM WIDTH=680 HEIGHT=49 BORDER=0></FONT></P>
 <P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><BR><BR>
 </P>
-<P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><FONT COLOR="#000000"><IMG SRC="i_c54cd36166250716_html_57edf6ed.jpg" NAME="Image 47" ALIGN=BOTTOM WIDTH=680 HEIGHT=49 BORDER=0></FONT></P>
+<P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><FONT COLOR="#000000"><IMG SRC="/media/i_c54cd36166250716_html_57edf6ed.jpg" NAME="Image 47" ALIGN=BOTTOM WIDTH=680 HEIGHT=49 BORDER=0></FONT></P>
 <P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><BR><BR>
 </P>
-<P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><FONT COLOR="#000000"><IMG SRC="i_c54cd36166250716_html_ba9ab8cb.png" NAME="Image 1" ALIGN=BOTTOM WIDTH=518 HEIGHT=400 BORDER=0></FONT></P>
+<P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><FONT COLOR="#000000"><IMG SRC="/media/i_c54cd36166250716_html_ba9ab8cb.png" NAME="Image 1" ALIGN=BOTTOM WIDTH=518 HEIGHT=400 BORDER=0></FONT></P>
 <P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><BR><BR>
 </P>
 <P ALIGN=JUSTIFY STYLE="margin-bottom: 0.19in"><FONT COLOR="#000000"><FONT FACE="Calibri, serif"><FONT SIZE=3>Le
@@ -172,10 +172,10 @@ gratuite<A HREF="http://www.g9plus.org/manifestation/565"> Plus
 d'information et inscription</A></FONT></FONT></FONT></P>
 <P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><BR><BR>
 </P>
-<P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><FONT COLOR="#000000"><IMG SRC="i_c54cd36166250716_html_efbb46f9.jpg" NAME="Image 48" ALIGN=BOTTOM WIDTH=680 HEIGHT=49 BORDER=0></FONT></P>
+<P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><FONT COLOR="#000000"><IMG SRC="/media/i_c54cd36166250716_html_efbb46f9.jpg" NAME="Image 48" ALIGN=BOTTOM WIDTH=680 HEIGHT=49 BORDER=0></FONT></P>
 <P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><BR><BR>
 </P>
-<P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><FONT COLOR="#000000"><IMG SRC="i_c54cd36166250716_html_a78cf060.jpg" NAME="Image 49" ALIGN=BOTTOM WIDTH=393 HEIGHT=148 BORDER=0></FONT></P>
+<P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><FONT COLOR="#000000"><IMG SRC="/media/i_c54cd36166250716_html_a78cf060.jpg" NAME="Image 49" ALIGN=BOTTOM WIDTH=393 HEIGHT=148 BORDER=0></FONT></P>
 <P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><BR><BR>
 </P>
 <P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><FONT COLOR="#000000"><FONT FACE="Calibri, serif"><FONT SIZE=3><FONT COLOR="#ff0000"><B>Inédit
@@ -198,7 +198,7 @@ au sein d’un dispositif qui connaît une très forte expansion.</FONT></FONT><
 <P ALIGN=JUSTIFY STYLE="margin-bottom: 0.19in"><FONT COLOR="#000000"><FONT FACE="Calibri, serif"><FONT SIZE=3>220</FONT></FONT></FONT></P>
 <P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><BR><BR>
 </P>
-<P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><FONT COLOR="#000000"><IMG SRC="i_c54cd36166250716_html_653df907.jpg" NAME="Image 51" ALIGN=BOTTOM WIDTH=306 HEIGHT=437 BORDER=0></FONT></P>
+<P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><FONT COLOR="#000000"><IMG SRC="/media/i_c54cd36166250716_html_653df907.jpg" NAME="Image 51" ALIGN=BOTTOM WIDTH=306 HEIGHT=437 BORDER=0></FONT></P>
 <P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><BR><BR>
 </P>
 <P STYLE="margin-bottom: 0.19in"><FONT COLOR="#000000"><FONT FACE="Calibri, serif"><FONT SIZE=3>220
@@ -229,13 +229,13 @@ et commande </B>:</FONT></FONT></FONT></P>
 <P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><FONT COLOR="#000000"><FONT FACE="Calibri, serif"><FONT SIZE=3><A HREF="http://www.cefi.org/">http://www.cefi.org/</A></FONT></FONT></FONT></P>
 <P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><BR><BR>
 </P>
-<P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><FONT COLOR="#000000"><IMG SRC="i_c54cd36166250716_html_8b4e4a67.jpg" NAME="Image 52" ALIGN=BOTTOM WIDTH=680 HEIGHT=49 BORDER=0></FONT></P>
+<P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><FONT COLOR="#000000"><IMG SRC="/media/i_c54cd36166250716_html_8b4e4a67.jpg" NAME="Image 52" ALIGN=BOTTOM WIDTH=680 HEIGHT=49 BORDER=0></FONT></P>
 <P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><BR><BR>
 </P>
-<P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><FONT COLOR="#000000"><IMG SRC="i_c54cd36166250716_html_9eeea2b.jpg" NAME="Image 53" ALIGN=BOTTOM WIDTH=680 HEIGHT=49 BORDER=0></FONT></P>
+<P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><FONT COLOR="#000000"><IMG SRC="/media/i_c54cd36166250716_html_9eeea2b.jpg" NAME="Image 53" ALIGN=BOTTOM WIDTH=680 HEIGHT=49 BORDER=0></FONT></P>
 <P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><BR><BR>
 </P>
-<P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><FONT COLOR="#000000"><IMG SRC="i_c54cd36166250716_html_7a5e176b.jpg" NAME="Image 54" ALIGN=BOTTOM WIDTH=418 HEIGHT=179 BORDER=0></FONT></P>
+<P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><FONT COLOR="#000000"><IMG SRC="/media/i_c54cd36166250716_html_7a5e176b.jpg" NAME="Image 54" ALIGN=BOTTOM WIDTH=418 HEIGHT=179 BORDER=0></FONT></P>
 <P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><BR><BR>
 </P>
 <P ALIGN=JUSTIFY STYLE="margin-bottom: 0.19in"><FONT COLOR="#000000"><FONT FACE="Calibri, serif"><FONT SIZE=3>Le
@@ -272,10 +272,10 @@ et observations : <A HREF="mailto:femmes_ingenieurs@yahoo.fr">mailto:femmes_inge
 ou <A HREF="mailto:iavenas@iesf.fr">mailto:iavenas@iesf.fr</A>.</FONT></FONT></FONT></P>
 <P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><BR><BR>
 </P>
-<P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><FONT COLOR="#000000"><IMG SRC="i_c54cd36166250716_html_f244f71a.jpg" NAME="Image 55" ALIGN=BOTTOM WIDTH=680 HEIGHT=49 BORDER=0></FONT></P>
+<P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><FONT COLOR="#000000"><IMG SRC="/media/i_c54cd36166250716_html_f244f71a.jpg" NAME="Image 55" ALIGN=BOTTOM WIDTH=680 HEIGHT=49 BORDER=0></FONT></P>
 <P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><BR><BR>
 </P>
-<P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><FONT COLOR="#000000"><IMG SRC="i_c54cd36166250716_html_24bded8.jpg" NAME="Image 56" ALIGN=BOTTOM WIDTH=680 HEIGHT=114 BORDER=0></FONT></P>
+<P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><FONT COLOR="#000000"><IMG SRC="/media/i_c54cd36166250716_html_24bded8.jpg" NAME="Image 56" ALIGN=BOTTOM WIDTH=680 HEIGHT=114 BORDER=0></FONT></P>
 <P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><BR><BR>
 </P>
 <P STYLE="margin-bottom: 0.19in"><FONT COLOR="#000000"><FONT FACE="Calibri, serif"><FONT SIZE=3>La
@@ -289,10 +289,10 @@ Versailles-Yvelines.</FONT></FONT></FONT></P>
 d'information</A></FONT></FONT></FONT></P>
 <P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><BR><BR>
 </P>
-<P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><FONT COLOR="#000000"><IMG SRC="i_c54cd36166250716_html_5e7e44c2.jpg" NAME="Image 57" ALIGN=BOTTOM WIDTH=680 HEIGHT=49 BORDER=0></FONT></P>
+<P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><FONT COLOR="#000000"><IMG SRC="/media/i_c54cd36166250716_html_5e7e44c2.jpg" NAME="Image 57" ALIGN=BOTTOM WIDTH=680 HEIGHT=49 BORDER=0></FONT></P>
 <P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><BR><BR>
 </P>
-<P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><FONT COLOR="#000000"><IMG SRC="i_c54cd36166250716_html_5d7d114b.jpg" NAME="Image 58" ALIGN=BOTTOM WIDTH=220 HEIGHT=301 BORDER=0></FONT></P>
+<P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><FONT COLOR="#000000"><IMG SRC="/media/i_c54cd36166250716_html_5d7d114b.jpg" NAME="Image 58" ALIGN=BOTTOM WIDTH=220 HEIGHT=301 BORDER=0></FONT></P>
 <P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><BR><BR>
 </P>
 <P ALIGN=JUSTIFY STYLE="margin-bottom: 0.19in"><FONT COLOR="#000000"><FONT FACE="Calibri, serif"><FONT SIZE=3>X-UP
@@ -314,10 +314,10 @@ l’École polytechnique.</FONT></FONT></FONT></P>
 d'information</A></FONT></FONT></FONT></P>
 <P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><BR><BR>
 </P>
-<P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><FONT COLOR="#000000"><IMG SRC="i_c54cd36166250716_html_ed3e1ed.jpg" NAME="Image 59" ALIGN=BOTTOM WIDTH=680 HEIGHT=49 BORDER=0></FONT></P>
+<P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><FONT COLOR="#000000"><IMG SRC="/media/i_c54cd36166250716_html_ed3e1ed.jpg" NAME="Image 59" ALIGN=BOTTOM WIDTH=680 HEIGHT=49 BORDER=0></FONT></P>
 <P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><BR><BR>
 </P>
-<P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><FONT COLOR="#000000"><IMG SRC="i_c54cd36166250716_html_38d14b4d.jpg" NAME="Image 60" ALIGN=BOTTOM WIDTH=231 HEIGHT=264 BORDER=0></FONT></P>
+<P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><FONT COLOR="#000000"><IMG SRC="/media/i_c54cd36166250716_html_38d14b4d.jpg" NAME="Image 60" ALIGN=BOTTOM WIDTH=231 HEIGHT=264 BORDER=0></FONT></P>
 <P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><BR><BR>
 </P>
 <P STYLE="margin-bottom: 0.19in"><FONT COLOR="#000000"><FONT FACE="Calibri, serif"><FONT SIZE=3>Félicitation
@@ -334,10 +334,10 @@ pilote, ingénieur, polyglotte et grand sportif.</FONT></FONT></FONT></P>
 une interview de Thomas Pesquet réalisée à la Cité de l’espace</A></FONT></FONT></FONT></P>
 <P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><BR><BR>
 </P>
-<P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><FONT COLOR="#000000"><IMG SRC="i_c54cd36166250716_html_94974bad.jpg" NAME="Image 61" ALIGN=BOTTOM WIDTH=680 HEIGHT=49 BORDER=0></FONT></P>
+<P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><FONT COLOR="#000000"><IMG SRC="/media/i_c54cd36166250716_html_94974bad.jpg" NAME="Image 61" ALIGN=BOTTOM WIDTH=680 HEIGHT=49 BORDER=0></FONT></P>
 <P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><BR><BR>
 </P>
-<P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><FONT COLOR="#000000"><IMG SRC="i_c54cd36166250716_html_8ba33a61.jpg" NAME="Image 62" ALIGN=BOTTOM WIDTH=680 HEIGHT=49 BORDER=0></FONT></P>
+<P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><FONT COLOR="#000000"><IMG SRC="/media/i_c54cd36166250716_html_8ba33a61.jpg" NAME="Image 62" ALIGN=BOTTOM WIDTH=680 HEIGHT=49 BORDER=0></FONT></P>
 <P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><BR><BR>
 </P>
 <P ALIGN=JUSTIFY STYLE="margin-bottom: 0.19in"><FONT COLOR="#000000"><FONT FACE="Calibri, serif"><FONT SIZE=3>La
@@ -349,17 +349,17 @@ rassemblent pour aborder la diversité dans sa globalité, autour du
 thème : &quot;Les grandes écoles, acteurs du vivre ensemble&quot;.</FONT></FONT></FONT></P>
 <P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><BR><BR>
 </P>
-<P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><FONT COLOR="#000000"><IMG SRC="i_c54cd36166250716_html_a8a45f7d.jpg" NAME="Image 63" ALIGN=BOTTOM WIDTH=412 HEIGHT=126 BORDER=0></FONT></P>
+<P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><FONT COLOR="#000000"><IMG SRC="/media/i_c54cd36166250716_html_a8a45f7d.jpg" NAME="Image 63" ALIGN=BOTTOM WIDTH=412 HEIGHT=126 BORDER=0></FONT></P>
 <P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><BR><BR>
 </P>
 <P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><FONT COLOR="#000000"><FONT FACE="Calibri, serif"><FONT SIZE=3><A HREF="http://seminaire-cge.enac.fr/index.php">Programme
 et inscription</A></FONT></FONT></FONT></P>
 <P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><BR><BR>
 </P>
-<P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><FONT COLOR="#000000"><IMG SRC="i_c54cd36166250716_html_ae479f9f.jpg" NAME="Image 65" ALIGN=BOTTOM WIDTH=680 HEIGHT=49 BORDER=0></FONT></P>
+<P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><FONT COLOR="#000000"><IMG SRC="/media/i_c54cd36166250716_html_ae479f9f.jpg" NAME="Image 65" ALIGN=BOTTOM WIDTH=680 HEIGHT=49 BORDER=0></FONT></P>
 <P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><BR><BR>
 </P>
-<P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><FONT COLOR="#000000"><IMG SRC="i_c54cd36166250716_html_892e31fc.jpg" NAME="Image 66" ALIGN=BOTTOM WIDTH=680 HEIGHT=192 BORDER=0></FONT></P>
+<P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><FONT COLOR="#000000"><IMG SRC="/media/i_c54cd36166250716_html_892e31fc.jpg" NAME="Image 66" ALIGN=BOTTOM WIDTH=680 HEIGHT=192 BORDER=0></FONT></P>
 <P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><BR><BR>
 </P>
 <P ALIGN=JUSTIFY STYLE="margin-bottom: 0.19in"><FONT COLOR="#000000"><FONT FACE="Calibri, serif"><FONT SIZE=3>L’UPSTi
@@ -389,14 +389,14 @@ Professeur des Universités, université Paris-Est Marne-la-Vallée.</FONT></FON
 </UL>
 <P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><BR><BR>
 </P>
-<P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><FONT COLOR="#000000"><IMG SRC="i_c54cd36166250716_html_1099e013.jpg" NAME="Image 67" ALIGN=BOTTOM WIDTH=335 HEIGHT=189 BORDER=0></FONT></P>
+<P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><FONT COLOR="#000000"><IMG SRC="/media/i_c54cd36166250716_html_1099e013.jpg" NAME="Image 67" ALIGN=BOTTOM WIDTH=335 HEIGHT=189 BORDER=0></FONT></P>
 <P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><BR><BR>
 </P>
 <P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><FONT COLOR="#000000"><FONT FACE="Calibri, serif"><FONT SIZE=3><A HREF="https://sites.google.com/site/lesolympiadesdesi/finale-nationale-les-resultats">Voir
 tout le palmarès</A></FONT></FONT></FONT></P>
 <P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><BR><BR>
 </P>
-<P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><FONT COLOR="#000000"><IMG SRC="i_c54cd36166250716_html_60457dff.jpg" NAME="Image 68" ALIGN=BOTTOM WIDTH=680 HEIGHT=49 BORDER=0></FONT></P>
+<P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><FONT COLOR="#000000"><IMG SRC="/media/i_c54cd36166250716_html_60457dff.jpg" NAME="Image 68" ALIGN=BOTTOM WIDTH=680 HEIGHT=49 BORDER=0></FONT></P>
 <P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><BR><BR>
 </P>
 <P ALIGN=JUSTIFY STYLE="margin-bottom: 0.19in"><FONT COLOR="#000000"><FONT FACE="Calibri, serif"><FONT SIZE=3>Les
@@ -420,7 +420,7 @@ chiffres :</FONT></FONT></FONT></P>
 </UL>
 <P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><BR><BR>
 </P>
-<P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><FONT COLOR="#000000"><IMG SRC="i_c54cd36166250716_html_34327891.jpg" NAME="Image 69" ALIGN=BOTTOM WIDTH=430 HEIGHT=120 BORDER=0></FONT></P>
+<P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><FONT COLOR="#000000"><IMG SRC="/media/i_c54cd36166250716_html_34327891.jpg" NAME="Image 69" ALIGN=BOTTOM WIDTH=430 HEIGHT=120 BORDER=0></FONT></P>
 <P STYLE="margin-bottom: 0.19in"><BR><BR>
 </P>
 <P ALIGN=JUSTIFY STYLE="margin-bottom: 0.19in"><FONT COLOR="#000000"><FONT FACE="Calibri, serif"><FONT SIZE=3>L'événement,
@@ -432,7 +432,7 @@ place ou qui viennent de lancer leur activité.</FONT></FONT></FONT></P>
 d'information</A></FONT></FONT></FONT></P>
 <P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><A NAME="_GoBack"></A><BR><BR>
 </P>
-<P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><FONT COLOR="#000000"><IMG SRC="i_c54cd36166250716_html_4c4f1d5c.jpg" NAME="Image 70" ALIGN=BOTTOM WIDTH=680 HEIGHT=49 BORDER=0></FONT></P>
+<P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><FONT COLOR="#000000"><IMG SRC="/media/i_c54cd36166250716_html_4c4f1d5c.jpg" NAME="Image 70" ALIGN=BOTTOM WIDTH=680 HEIGHT=49 BORDER=0></FONT></P>
 <P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><BR><BR>
 </P>
 <UL>
