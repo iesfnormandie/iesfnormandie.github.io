@@ -108,3 +108,55 @@ le communiqué de presse de sa nomination</A>)</FONT></FONT></FONT></P>
 <P STYLE="margin-bottom: 0.19in"><BR><BR>
 </P>
 <P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><FONT COLOR="#000000"><IMG SRC="i_c54cd36166250716_html_9a76d727.jpg" 
+NAME="Image 44" ALIGN=BOTTOM WIDTH=680 HEIGHT=873 BORDER=0></FONT></P>
+<P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><BR><BR>
+</P>
+<P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><FONT COLOR="#000000"><IMG SRC="i_c54cd36166250716_html_19ada1c6.jpg" NAME="Image 46" ALIGN=BOTTOM WIDTH=680 HEIGHT=49 BORDER=0></FONT></P>
+<P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><BR><BR>
+</P>
+<P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><FONT COLOR="#000000"><IMG SRC="i_c54cd36166250716_html_57edf6ed.jpg" NAME="Image 47" ALIGN=BOTTOM WIDTH=680 HEIGHT=49 BORDER=0></FONT></P>
+<P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><BR><BR>
+</P>
+<P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><FONT COLOR="#000000"><IMG SRC="i_c54cd36166250716_html_ba9ab8cb.png" NAME="Image 1" ALIGN=BOTTOM WIDTH=518 HEIGHT=400 BORDER=0></FONT></P>
+<P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><BR><BR>
+</P>
+<P ALIGN=JUSTIFY STYLE="margin-bottom: 0.19in"><FONT COLOR="#000000"><FONT FACE="Calibri, serif"><FONT SIZE=3>Le
+25 Juin prochain se déroulera la conférence &quot;L'innovation a
+ses secrets... partageons les !&quot; du cycle Femmes &amp;
+Numérique, organisée par l'Institut G9+.</FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-bottom: 0.19in"><FONT COLOR="#000000"><FONT FACE="Calibri, serif"><FONT SIZE=3>La
+conférence interviendra en clôture du Salesforce World Tour Paris à
+18h30 à Paris Expo Porte de Versailles.</FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-bottom: 0.19in"><FONT COLOR="#000000"><FONT FACE="Calibri, serif"><FONT SIZE=3>Comment
+générer une innovation efficace sans innover dans le management
+même de l’innovation ? Les meilleurs experts seront réunis autour
+d’Alice Zagury, PDG de « The Family » pour partager avec vous
+leurs meilleurs secrets et répondre à vos questions.</FONT></FONT></FONT></P>
+<P STYLE="margin-bottom: 0.19in"><BR><BR>
+</P>
+<P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><FONT COLOR="#000000"><FONT FACE="Calibri, serif"><FONT SIZE=3>Conférence
+gratuite<A HREF="http://www.g9plus.org/manifestation/565"> Plus
+d'information et inscription</A></FONT></FONT></FONT></P>
+<P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><BR><BR>
+</P>
+<P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><FONT COLOR="#000000"><IMG SRC="i_c54cd36166250716_html_efbb46f9.jpg" NAME="Image 48" ALIGN=BOTTOM WIDTH=680 HEIGHT=49 BORDER=0></FONT></P>
+<P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><BR><BR>
+</P>
+<P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><FONT COLOR="#000000"><IMG SRC="i_c54cd36166250716_html_a78cf060.jpg" NAME="Image 49" ALIGN=BOTTOM WIDTH=393 HEIGHT=148 BORDER=0></FONT></P>
+<P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><BR><BR>
+</P>
+<P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><FONT COLOR="#000000"><FONT FACE="Calibri, serif"><FONT SIZE=3><FONT COLOR="#ff0000"><B>Inédit
+!</B></FONT></FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-bottom: 0.19in"><FONT COLOR="#000000"><FONT FACE="Calibri, serif"><FONT SIZE=3>Le
+CEFI (Centre d’études sur les formations et l’emploi des
+ingénieurs), est heureux de vous annoncer la parution, de <B>l’Annuaire
+des formations d’ingénieurs par la voie de l’apprentissage</B>.</FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-bottom: 0.19in"><FONT COLOR="#000000"><FONT FACE="Calibri, serif"><FONT SIZE=3>Après
+une introduction rappelant les grandes étapes du développement de
+l’apprentissage au niveau ingénieur depuis le début des années
+1990, cet ouvrage inédit présente sous forme de fiches l’ensemble
+des titres d’ingénieurs diplômés accessibles par cette voie et
+habilités par la Commission des Titres d’Ingénieurs.</FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-bottom: 0.19in"><FONT COLOR="#000000"><FONT FACE="Calibri, serif"><FONT SIZE=3>S’adressant
+aux professionnels de l’orientation, aux enseignants du supérieur
+et aux responsables de recrutement, cette première 
