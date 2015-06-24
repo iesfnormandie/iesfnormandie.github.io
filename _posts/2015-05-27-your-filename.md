@@ -28,7 +28,7 @@ financier 2014 ont été remis aux participants à l’entrée de la
 séance.</FONT></FONT></FONT></P>
 <P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><BR><BR>
 </P>
-<P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><FONT COLOR="#000000"><IMG SRC="i_c54cd36166250716_html_18be57b6.jpg" NAME="Image 17" ALIGN=BOTTOM WIDTH=482 HEIGHT=216 BORDER=0></FONT></P>
+<P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><FONT COLOR="#000000"><IMG SRC="/media/i_c54cd36166250716_html_18be57b6.jpg" NAME="Image 17" ALIGN=BOTTOM WIDTH=482 HEIGHT=216 BORDER=0></FONT></P>
 <P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><BR><BR>
 </P>
 <P ALIGN=JUSTIFY STYLE="margin-bottom: 0.19in"><FONT COLOR="#000000"><FONT FACE="Calibri, serif"><FONT SIZE=3>Pour
