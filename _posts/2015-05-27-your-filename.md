@@ -259,4 +259,53 @@ d'information</A></FONT></FONT></FONT></P>
 <P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><FONT COLOR="#000000"><IMG SRC="i_c54cd36166250716_html_5e7e44c2.jpg" NAME="Image 57" ALIGN=BOTTOM WIDTH=680 HEIGHT=49 BORDER=0></FONT></P>
 <P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><BR><BR>
 </P>
-<P ALIGN=CENTER 
+<P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><FONT COLOR="#000000"><IMG SRC="i_c54cd36166250716_html_5d7d114b.jpg" NAME="Image 58" ALIGN=BOTTOM WIDTH=220 HEIGHT=301 BORDER=0></FONT></P>
+<P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><BR><BR>
+</P>
+<P ALIGN=JUSTIFY STYLE="margin-bottom: 0.19in"><FONT COLOR="#000000"><FONT FACE="Calibri, serif"><FONT SIZE=3>X-UP
+est le programme d’accélération de start-up de l’Ecole
+Polytechnique lancé en avril 2015. Il est ouvert à tout projet et
+jeune entreprise à dimension innovante. L’accélération,
+potentiellement renouvelable une fois, dure 6 mois et met l’accent
+sur l’accompagnement et le mentoring des entrepreneurs. La première
+promotion accompagne 4 start-up depuis le mois d’avril et
+Polytechnique accueillera une dizaine de projets pour la deuxième
+session à partir d’octobre. Les candidatures pour cette 2ème
+promotion sont déjà ouvertes et se clôtureront le 31 août. «
+<I>L’idée est qu’à la fin du programme, les entrepreneurs aient
+créé leur entreprise et soient en mesure de lever des fonds pour
+accélérer la croissance de leur start-up</I> », explique Matthieu
+Somekh, responsable du Pôle Entrepreneuriat et Innovation (PEI) de
+l’École polytechnique.</FONT></FONT></FONT></P>
+<P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><FONT COLOR="#000000"><FONT FACE="Calibri, serif"><FONT SIZE=3><A HREF="https://www.polytechnique.edu/fr/breve/lecole-polytechnique-lance-son-accelerateur">Plus
+d'information</A></FONT></FONT></FONT></P>
+<P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><BR><BR>
+</P>
+<P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><FONT COLOR="#000000"><IMG SRC="i_c54cd36166250716_html_ed3e1ed.jpg" NAME="Image 59" ALIGN=BOTTOM WIDTH=680 HEIGHT=49 BORDER=0></FONT></P>
+<P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><BR><BR>
+</P>
+<P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><FONT COLOR="#000000"><IMG SRC="i_c54cd36166250716_html_38d14b4d.jpg" NAME="Image 60" ALIGN=BOTTOM WIDTH=231 HEIGHT=264 BORDER=0></FONT></P>
+<P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><BR><BR>
+</P>
+<P STYLE="margin-bottom: 0.19in"><FONT COLOR="#000000"><FONT FACE="Calibri, serif"><FONT SIZE=3>Félicitation
+à <B>Thomas</B> <B>PESQUET</B>, ingénieur diplômé de <B>l’École
+nationale supérieure de l'aéronautique et de l'espace</B> (<B>SUPAERO</B>)
+qui deviendra le dixième français et le plus jeune Européen à
+partir dans l'espace.</FONT></FONT></FONT></P>
+<P STYLE="margin-bottom: 0.19in"><FONT COLOR="#000000"><FONT FACE="Calibri, serif"><FONT SIZE=3>Il
+va partir en 2016 pour une mission de six mois dans la Station
+Spatiale Internationale (ISS). Pour cette mission, il a été
+sélectionné parmi 4 800 candidats, tous comme lui, à la fois,
+pilote, ingénieur, polyglotte et grand sportif.</FONT></FONT></FONT></P>
+<P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><FONT COLOR="#000000"><FONT FACE="Calibri, serif"><FONT SIZE=3><A HREF="https://www.youtube.com/watch?v=2s6lJMxHpPQ&amp;feature=youtu.be">Retrouvez
+une interview de Thomas Pesquet réalisée à la Cité de l’espace</A></FONT></FONT></FONT></P>
+<P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><BR><BR>
+</P>
+<P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><FONT COLOR="#000000"><IMG SRC="i_c54cd36166250716_html_94974bad.jpg" NAME="Image 61" ALIGN=BOTTOM WIDTH=680 HEIGHT=49 BORDER=0></FONT></P>
+<P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><BR><BR>
+</P>
+<P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><FONT COLOR="#000000"><IMG SRC="i_c54cd36166250716_html_8ba33a61.jpg" NAME="Image 62" ALIGN=BOTTOM WIDTH=680 HEIGHT=49 BORDER=0></FONT></P>
+<P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><BR><BR>
+</P>
+<P ALIGN=JUSTIFY STYLE="margin-bottom: 0.19in"><FONT COLOR="#000000"><FONT FACE="Calibri, serif"><FONT SIZE=3>La
+commission 
