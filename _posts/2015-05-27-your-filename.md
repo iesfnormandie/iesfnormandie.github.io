@@ -5,12 +5,6 @@ title: Flash info N°1549
 ---
 
 
-
-![i_c54cd36166250716_html_9eeea2b.jpg]({{site.baseurl}}/media/i_c54cd36166250716_html_9eeea2b.jpg)
-
-
-
-
 <HTML>
 <BODY LANG="fr-FR" LINK="#0000ff" DIR="LTR">
 <P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><IMG SRC="/media/i_c54cd36166250716_html_348088e.jpg" NAME="Image 20" ALIGN=BOTTOM WIDTH=680 HEIGHT=66 BORDER=0></P>
