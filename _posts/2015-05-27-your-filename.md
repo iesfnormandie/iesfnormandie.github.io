@@ -206,4 +206,57 @@ et commande </B>:</FONT></FONT></FONT></P>
 <P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><BR><BR>
 </P>
 <P ALIGN=JUSTIFY STYLE="margin-bottom: 0.19in"><FONT COLOR="#000000"><FONT FACE="Calibri, serif"><FONT SIZE=3>Le
-FLOT (Formation 
+FLOT (Formation Libre Ouverte à Tous) intitulé &quot;Être en
+responsabilité demain : se former à l’égalité femmes-hommes&quot;
+a été lancé le mercredi 3 juin 2015, en présence de Madame
+Pascale Boistard, secrétaire d’État chargée des Droits des
+Femmes, au ministère des Affaires sociales, de la Santé et des
+Droits des Femmes. Développé par SILLAGES, initiative présidée
+par la Conférence des Granges Écoles, ce FLOT est le fruit d’un
+travail collaboratif impliquant plusieurs associations : Femmes
+Ingénieurs, Femmes &amp; Sciences, Femmes &amp; Mathématiques,
+Réussir l’Égalité Femmes-Hommes, Conférence des Grandes Écoles.</FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-bottom: 0.19in"><FONT COLOR="#000000"><FONT FACE="Calibri, serif"><FONT SIZE=3>La
+formation est structurée en 7 séquences représentant chacune 2
+heures de travail, à planifier selon ses besoins. De niveau licence,
+elle traite de l’égalité réelle entre les femmes et les hommes,
+en abordant l’éducation, les stéréotypes, l’orientation, la
+parité et la mixité des filières, l’égalité professionnelle,
+le sexisme ordinaire, le harcèlement et les violences faites aux
+femmes, pour conclure en termes de responsabilité et vie citoyenne.
+Femmes Ingénieurs avait délégué Isabelle Avenas-Payan,
+administratrice de Femmes Ingénieurs, au comité de pilotage du
+projet. Adélaïde Nieguitsila, membre de Femmes Ingénieurs, et
+Isabelle sont les auteures de la séquence sur l'égalité
+professionnelle.</FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-bottom: 0.19in"><BR><BR>
+</P>
+<P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><FONT COLOR="#000000"><FONT FACE="Calibri, serif"><FONT SIZE=3><A HREF="http://flot.sillages.info/?portfolio=se-former-a-legalite-femmes-hommes">Suivre
+la formation</A>  ---  <A HREF="http://sillages.info/lancement-du-premier-flotmooc-sur-legalite-femmes-hommes/">Voir
+le compte-rendu du ministère</A></FONT></FONT></FONT></P>
+<P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><FONT COLOR="#000000"><FONT FACE="Calibri, serif"><FONT SIZE=3>Informations
+et observations : <A HREF="mailto:femmes_ingenieurs@yahoo.fr">mailto:femmes_ingenieurs@yahoo.fr</A>
+ou <A HREF="mailto:iavenas@iesf.fr">mailto:iavenas@iesf.fr</A>.</FONT></FONT></FONT></P>
+<P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><BR><BR>
+</P>
+<P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><FONT COLOR="#000000"><IMG SRC="i_c54cd36166250716_html_f244f71a.jpg" NAME="Image 55" ALIGN=BOTTOM WIDTH=680 HEIGHT=49 BORDER=0></FONT></P>
+<P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><BR><BR>
+</P>
+<P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><FONT COLOR="#000000"><IMG SRC="i_c54cd36166250716_html_24bded8.jpg" NAME="Image 56" ALIGN=BOTTOM WIDTH=680 HEIGHT=114 BORDER=0></FONT></P>
+<P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><BR><BR>
+</P>
+<P STYLE="margin-bottom: 0.19in"><FONT COLOR="#000000"><FONT FACE="Calibri, serif"><FONT SIZE=3>La
+<B>5ème édition de Paris-Saclay Invest</B> se déroulera le 1er
+juillet prochain à <B>l'ENSTA ParisTech</B>. Cet événement a pour
+objectif de faire se rencontrer différents acteurs socio-économiques
+locaux. Il est organisé par Finance &amp; Technologie et les
+Chambres de Commerce et d'Industrie de l'Essonne et de
+Versailles-Yvelines.</FONT></FONT></FONT></P>
+<P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><FONT COLOR="#000000"><FONT FACE="Calibri, serif"><FONT SIZE=3><A HREF="http://www.paris-saclay-invest.com/programme/">Plus
+d'information</A></FONT></FONT></FONT></P>
+<P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><BR><BR>
+</P>
+<P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><FONT COLOR="#000000"><IMG SRC="i_c54cd36166250716_html_5e7e44c2.jpg" NAME="Image 57" ALIGN=BOTTOM WIDTH=680 HEIGHT=49 BORDER=0></FONT></P>
+<P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><BR><BR>
+</P>
+<P ALIGN=CENTER 
