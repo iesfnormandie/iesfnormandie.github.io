@@ -159,4 +159,51 @@ des titres d’ingénieurs diplômés accessibles par cette voie et
 habilités par la Commission des Titres d’Ingénieurs.</FONT></FONT></FONT></P>
 <P ALIGN=JUSTIFY STYLE="margin-bottom: 0.19in"><FONT COLOR="#000000"><FONT FACE="Calibri, serif"><FONT SIZE=3>S’adressant
 aux professionnels de l’orientation, aux enseignants du supérieur
-et aux responsables de recrutement, cette première 
+et aux responsables de recrutement, cette première édition de
+l’annuaire apporte toutes les informations utiles pour se repérer
+au sein d’un dispositif qui connaît une très forte expansion.</FONT></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-bottom: 0.19in"><FONT COLOR="#000000"><FONT FACE="Calibri, serif"><FONT SIZE=3>220</FONT></FONT></FONT></P>
+<P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><BR><BR>
+</P>
+<P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><FONT COLOR="#000000"><IMG SRC="i_c54cd36166250716_html_653df907.jpg" NAME="Image 51" ALIGN=BOTTOM WIDTH=306 HEIGHT=437 BORDER=0></FONT></P>
+<P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><BR><BR>
+</P>
+<P STYLE="margin-bottom: 0.19in"><FONT COLOR="#000000"><FONT FACE="Calibri, serif"><FONT SIZE=3>220
+fiches décrivant en détail chaque formation :</FONT></FONT></FONT></P>
+<UL>
+	<LI><P STYLE="margin-bottom: 0.19in"><FONT COLOR="#000000"><FONT FACE="Calibri, serif"><FONT SIZE=3>titres
+	requis pour l’admission</FONT></FONT></FONT></P>
+	<LI><P STYLE="margin-bottom: 0.19in"><FONT COLOR="#000000"><FONT FACE="Calibri, serif"><FONT SIZE=3>organisation
+	des études</FONT></FONT></FONT></P>
+	<LI><P STYLE="margin-bottom: 0.19in"><FONT COLOR="#000000"><FONT FACE="Calibri, serif"><FONT SIZE=3>contacts,
+	CFA support</FONT></FONT></FONT></P>
+	<LI><P STYLE="margin-bottom: 0.19in"><FONT COLOR="#000000"><FONT FACE="Calibri, serif"><FONT SIZE=3>calendrier
+	de l’alternance,</FONT></FONT></FONT></P>
+	<LI><P STYLE="margin-bottom: 0.19in"><FONT COLOR="#000000"><FONT FACE="Calibri, serif"><FONT SIZE=3>etc…</FONT></FONT></FONT></P>
+</UL>
+<P STYLE="margin-bottom: 0.19in"><FONT COLOR="#000000"><FONT FACE="Calibri, serif"><FONT SIZE=3>Version
+papier : 50 euros HT (60 euros TTC)</FONT></FONT></FONT></P>
+<P STYLE="margin-bottom: 0.19in"><FONT COLOR="#000000"><FONT FACE="Calibri, serif"><FONT SIZE=3>Pour
+un format numérique (pdf) autorisant une diffusion en interne nous
+consulter.</FONT></FONT></FONT></P>
+<P STYLE="margin-bottom: 0.19in"><BR><BR>
+</P>
+<P STYLE="margin-bottom: 0.19in"><FONT COLOR="#000000"><FONT FACE="Calibri, serif"><FONT SIZE=3><B>Renseignements
+et commande </B>:</FONT></FONT></FONT></P>
+<P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><FONT COLOR="#000000"><FONT FACE="Calibri, serif"><FONT SIZE=3><A HREF="mailto:secretariat@cefi.org">mailto:secretariat@cefi.org</A></FONT></FONT></FONT></P>
+<P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><FONT COLOR="#000000"><FONT FACE="Calibri, serif"><FONT SIZE=3>Tél
+: 01 42 89 15 73</FONT></FONT></FONT></P>
+<P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><FONT COLOR="#000000"><FONT FACE="Calibri, serif"><FONT SIZE=3><A HREF="http://www.cefi.org/">http://www.cefi.org/</A></FONT></FONT></FONT></P>
+<P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><BR><BR>
+</P>
+<P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><FONT COLOR="#000000"><IMG SRC="i_c54cd36166250716_html_8b4e4a67.jpg" NAME="Image 52" ALIGN=BOTTOM WIDTH=680 HEIGHT=49 BORDER=0></FONT></P>
+<P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><BR><BR>
+</P>
+<P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><FONT COLOR="#000000"><IMG SRC="i_c54cd36166250716_html_9eeea2b.jpg" NAME="Image 53" ALIGN=BOTTOM WIDTH=680 HEIGHT=49 BORDER=0></FONT></P>
+<P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><BR><BR>
+</P>
+<P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><FONT COLOR="#000000"><IMG SRC="i_c54cd36166250716_html_7a5e176b.jpg" NAME="Image 54" ALIGN=BOTTOM WIDTH=418 HEIGHT=179 BORDER=0></FONT></P>
+<P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><BR><BR>
+</P>
+<P ALIGN=JUSTIFY STYLE="margin-bottom: 0.19in"><FONT COLOR="#000000"><FONT FACE="Calibri, serif"><FONT SIZE=3>Le
+FLOT (Formation 
