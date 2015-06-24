@@ -308,4 +308,115 @@ une interview de Thomas Pesquet réalisée à la Cité de l’espace</A></FONT><
 <P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><BR><BR>
 </P>
 <P ALIGN=JUSTIFY STYLE="margin-bottom: 0.19in"><FONT COLOR="#000000"><FONT FACE="Calibri, serif"><FONT SIZE=3>La
-commission 
+commission Diversité de la CGE (Conférence des Grandes Ecoles)
+organise son séminaire annuel les <B>29 et 30 juin à l'ENAC </B>(École
+nationale de l'aviation civile) à Toulouse. Les trois groupes de la
+Commission (ouverture sociale, égalité femmes-hommes, handicap) se
+rassemblent pour aborder la diversité dans sa globalité, autour du
+thème : &quot;Les grandes écoles, acteurs du vivre ensemble&quot;.</FONT></FONT></FONT></P>
+<P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><BR><BR>
+</P>
+<P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><FONT COLOR="#000000"><IMG SRC="i_c54cd36166250716_html_a8a45f7d.jpg" NAME="Image 63" ALIGN=BOTTOM WIDTH=412 HEIGHT=126 BORDER=0></FONT></P>
+<P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><BR><BR>
+</P>
+<P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><FONT COLOR="#000000"><FONT FACE="Calibri, serif"><FONT SIZE=3><A HREF="http://seminaire-cge.enac.fr/index.php">Programme
+et inscription</A></FONT></FONT></FONT></P>
+<P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><BR><BR>
+</P>
+<P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><FONT COLOR="#000000"><IMG SRC="i_c54cd36166250716_html_ae479f9f.jpg" NAME="Image 65" ALIGN=BOTTOM WIDTH=680 HEIGHT=49 BORDER=0></FONT></P>
+<P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><BR><BR>
+</P>
+<P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><FONT COLOR="#000000"><IMG SRC="i_c54cd36166250716_html_892e31fc.jpg" NAME="Image 66" ALIGN=BOTTOM WIDTH=680 HEIGHT=192 BORDER=0></FONT></P>
+<P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><BR><BR>
+</P>
+<P ALIGN=JUSTIFY STYLE="margin-bottom: 0.19in"><FONT COLOR="#000000"><FONT FACE="Calibri, serif"><FONT SIZE=3>L’UPSTi
+a organisé la 6ème édition des Olympiades de sciences de
+l’ingénieur, dont la finale nationale 2015 s’est déroulée le
+20 mai dernier au Technocentre Renault (Guyancourt). Les <B>Olympiades
+de Sciences de l’Ingénieur</B> est un concours national ayant pour
+objectif d’apprécier et de récompenser des projets expérimentaux
+pluri-technologiques en Sciences de l’Ingénieur, menés par des
+équipes de lycéens. La remise des prix était animée par Jérôme
+BONALDI, journaliste et animateur de télévision et de radio
+spécialisé dans les sciences et les inventions et Luc CHEVALIER,
+Professeur des Universités, université Paris-Est Marne-la-Vallée.</FONT></FONT></FONT></P>
+<P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><FONT COLOR="#000000"><FONT FACE="Calibri, serif"><FONT SIZE=3>Palmarès
+:</FONT></FONT></FONT></P>
+<UL>
+	<LI><P STYLE="margin-bottom: 0.19in"><FONT COLOR="#000000"><FONT FACE="Calibri, serif"><FONT SIZE=3><B>1ER
+	PRIX</B> décerné aux élèves du <B>lycée Sainte Croix Saint
+	Euverte</B> – Académie d’Orléans-Tours pour leur projet «
+	Prothèse myoélectrique »</FONT></FONT></FONT></P>
+	<LI><P STYLE="margin-bottom: 0.19in"><FONT COLOR="#000000"><FONT FACE="Calibri, serif"><FONT SIZE=3><B>2ÈME
+	PRIX</B> décerné aux élèves du <B>lycée Richelieu</B> –
+	Académie de Versailles pour leur projet « Gant Piano »</FONT></FONT></FONT></P>
+	<LI><P STYLE="margin-bottom: 0.19in"><FONT COLOR="#000000"><FONT FACE="Calibri, serif"><FONT SIZE=3><B>3ÈME
+	PRIX</B> décerné aux élèves du <B>lycée Pierre Paul Riquet </B>–
+	Académie de Toulouse pour leur projet « Handi Train »</FONT></FONT></FONT></P>
+</UL>
+<P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><BR><BR>
+</P>
+<P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><FONT COLOR="#000000"><IMG SRC="i_c54cd36166250716_html_1099e013.jpg" NAME="Image 67" ALIGN=BOTTOM WIDTH=335 HEIGHT=189 BORDER=0></FONT></P>
+<P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><BR><BR>
+</P>
+<P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><FONT COLOR="#000000"><FONT FACE="Calibri, serif"><FONT SIZE=3><A HREF="https://sites.google.com/site/lesolympiadesdesi/finale-nationale-les-resultats">Voir
+tout le palmarès</A></FONT></FONT></FONT></P>
+<P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><BR><BR>
+</P>
+<P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><FONT COLOR="#000000"><IMG SRC="i_c54cd36166250716_html_60457dff.jpg" NAME="Image 68" ALIGN=BOTTOM WIDTH=680 HEIGHT=49 BORDER=0></FONT></P>
+<P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><BR><BR>
+</P>
+<P ALIGN=JUSTIFY STYLE="margin-bottom: 0.19in"><FONT COLOR="#000000"><FONT FACE="Calibri, serif"><FONT SIZE=3>Les
+Pionnières Day se sont déroulées, mardi 16 juin, sur le campus
+parisien de l'<B>ESCP</B> Europe en présence de <B>Pascale BOISTARD</B>,
+Secrétaire d’Etat aux Droits des Femmes. Bilan en quelques
+chiffres :</FONT></FONT></FONT></P>
+<UL>
+	<LI><P STYLE="margin-bottom: 0.19in"><FONT COLOR="#000000"><FONT FACE="Calibri, serif"><FONT SIZE=3>1568
+	Tweets #PIODAY2015 Top tendance France le 16 juin</FONT></FONT></FONT></P>
+	<LI><P STYLE="margin-bottom: 0.19in"><FONT COLOR="#000000"><FONT FACE="Calibri, serif"><FONT SIZE=3>450
+	participants connectés tout au long de la journée</FONT></FONT></FONT></P>
+	<LI><P STYLE="margin-bottom: 0.19in"><FONT COLOR="#000000"><FONT FACE="Calibri, serif"><FONT SIZE=3>140
+	entrepreneures du réseau Pionnières</FONT></FONT></FONT></P>
+	<LI><P STYLE="margin-bottom: 0.19in"><FONT COLOR="#000000"><FONT FACE="Calibri, serif"><FONT SIZE=3>50
+	intervenants inspirants</FONT></FONT></FONT></P>
+	<LI><P STYLE="margin-bottom: 0.19in"><FONT COLOR="#000000"><FONT FACE="Calibri, serif"><FONT SIZE=3>2
+	ministres engagées</FONT></FONT></FONT></P>
+	<LI><P STYLE="margin-bottom: 0.19in"><FONT COLOR="#000000"><FONT FACE="Calibri, serif"><FONT SIZE=3>1
+	nouveau visage de l’entrepreneuriat féminin</FONT></FONT></FONT></P>
+</UL>
+<P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><BR><BR>
+</P>
+<P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><FONT COLOR="#000000"><IMG SRC="i_c54cd36166250716_html_34327891.jpg" NAME="Image 69" ALIGN=BOTTOM WIDTH=430 HEIGHT=120 BORDER=0></FONT></P>
+<P STYLE="margin-bottom: 0.19in"><BR><BR>
+</P>
+<P ALIGN=JUSTIFY STYLE="margin-bottom: 0.19in"><FONT COLOR="#000000"><FONT FACE="Calibri, serif"><FONT SIZE=3>L'événement,
+organisé par les Pionnières, le réseau des incubateurs et
+pépinières dédié aux femmes créatrices d'entreprises, a été
+l'occasion de découvrir des entrepreneures d'exception, déjà en
+place ou qui viennent de lancer leur activité.</FONT></FONT></FONT></P>
+<P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><FONT COLOR="#000000"><FONT FACE="Calibri, serif"><FONT SIZE=3><A HREF="http://lespionnieres.org/">Plus
+d'information</A></FONT></FONT></FONT></P>
+<P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><A NAME="_GoBack"></A><BR><BR>
+</P>
+<P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><FONT COLOR="#000000"><IMG SRC="i_c54cd36166250716_html_4c4f1d5c.jpg" NAME="Image 70" ALIGN=BOTTOM WIDTH=680 HEIGHT=49 BORDER=0></FONT></P>
+<P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><BR><BR>
+</P>
+<UL>
+	<LI><P STYLE="margin-bottom: 0.19in"><FONT COLOR="#000000"><FONT FACE="Calibri, serif"><FONT SIZE=3><B>Christophe
+	GUILLERME</B>, a été élu président AI-HEI (Association des
+	Ingénieurs HEI N°A015), il succède à Jean-Claude Pannekouke.</FONT></FONT></FONT></P>
+	<LI><P STYLE="margin-bottom: 0.19in"><FONT COLOR="#000000"><FONT FACE="Calibri, serif"><FONT SIZE=3><B>Pierre
+	CHAPOTOT</B>, a été élu président de l’AI-EFREI (Association
+	des Ingénieurs de l'Ecole d'Ingénieurs des Technologies de
+	l'Information et du Management N°A058), il succède à Philippe
+	Vialle.</FONT></FONT></FONT></P>
+	<LI><P STYLE="margin-bottom: 0.19in"><FONT COLOR="#000000"><FONT FACE="Calibri, serif"><FONT SIZE=3><B>Serge
+	VIGIER</B>, a été élu président de l’AI MINES DE SAINT-ETIENNE
+	(Association des Ingénieurs Civils des Mines de St-Etienne N°A002),
+	il succède à Christian Coffinet.</FONT></FONT></FONT></P>
+</UL>
+<P ALIGN=CENTER STYLE="margin-left: 0.25in; margin-bottom: 0.19in"><BR><BR>
+</P>
+</BODY>
+</HTML>
