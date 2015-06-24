@@ -1,8 +1,9 @@
 ---
 layout: default
-published: false
+published: true
 title: Flash info N°1549
 ---
+
 
 
 
