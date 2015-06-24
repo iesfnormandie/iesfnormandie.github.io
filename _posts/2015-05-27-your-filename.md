@@ -163,7 +163,6 @@ aux professionnels de l’orientation, aux enseignants du supérieur
 et aux responsables de recrutement, cette première édition de
 l’annuaire apporte toutes les informations utiles pour se repérer
 au sein d’un dispositif qui connaît une très forte expansion.</FONT></FONT></FONT></P>
-<P ALIGN=JUSTIFY STYLE="margin-bottom: 0.19in"><FONT COLOR="#000000"><FONT FACE="Calibri, serif"><FONT SIZE=3>220</FONT></FONT></FONT></P>
 <P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><BR><BR>
 </P>
 <P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><FONT COLOR="#000000"><IMG SRC="/media/i_c54cd36166250716_html_653df907.jpg" NAME="Image 51" ALIGN=BOTTOM WIDTH=306 HEIGHT=437 BORDER=0></FONT></P>
