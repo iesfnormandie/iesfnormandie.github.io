@@ -6,9 +6,6 @@ title: Flash Info N°1655
 
 
 
-
-![i_3ad8e9bc3dcaa55c_html_94974bad.jpg]({{site.baseurl}}/media/i_3ad8e9bc3dcaa55c_html_94974bad.jpg)
-
 <BODY LANG="fr-FR" LINK="#0000ff" DIR="LTR">
 <P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><IMG SRC="/media/i_3ad8e9bc3dcaa55c_html_348088e.jpg" NAME="Image 20" ALIGN=BOTTOM WIDTH=680 HEIGHT=66 BORDER=0></P>
 <P ALIGN=RIGHT STYLE="margin-bottom: 0.19in"><FONT SIZE=3><I><B>Flash
@@ -331,7 +328,7 @@ d’IESF et sont téléchargeables sur le site de l’association&nbsp;:
 ingénieurs</A></FONT></FONT></FONT></P>
 <P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><BR><BR>
 </P>
-<P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><A NAME="_GoBack"></A><FONT COLOR="#000000"><IMG 
+<P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><FONT COLOR="#000000"><IMG 
 SRC="media/i_3ad8e9bc3dcaa55c_html_94974bad.jpg" NAME="Image 35" ALIGN=BOTTOM WIDTH=680 HEIGHT=49 BORDER=0></FONT></P>
 <P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><BR><BR>
 </P>
