@@ -5,14 +5,7 @@ title: Flash Info N°1655
 ---
 
 
-## A New Post
-
-
-
-![i_3ad8e9bc3dcaa55c_html_788a7838.jpg]({{site.baseurl}}/media/i_3ad8e9bc3dcaa55c_html_788a7838.jpg)
-
-
-
+![i_3ad8e9bc3dcaa55c_html_94974bad.jpg]({{site.baseurl}}/media/i_3ad8e9bc3dcaa55c_html_94974bad.jpg)
 
 <BODY LANG="fr-FR" LINK="#0000ff" DIR="LTR">
 <P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><IMG SRC="/media/i_3ad8e9bc3dcaa55c_html_348088e.jpg" NAME="Image 20" ALIGN=BOTTOM WIDTH=680 HEIGHT=66 BORDER=0></P>
