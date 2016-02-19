@@ -48,7 +48,7 @@ title: Flash Info N°1655
 info N°1555 – février  2016</B></I></FONT></P>
 <P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><BR><BR>
 </P>
-<P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><FONT COLOR="#000000"><IMG SRC="i_3ad8e9bc3dcaa55c_html_353e6cd6.jpg" NAME="Image 1" ALIGN=BOTTOM WIDTH=640 HEIGHT=247 BORDER=0></FONT></P>
+<P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><FONT COLOR="#000000"><IMG SRC="/media/i_3ad8e9bc3dcaa55c_html_353e6cd6.jpg" NAME="Image 1" ALIGN=BOTTOM WIDTH=640 HEIGHT=247 BORDER=0></FONT></P>
 <P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><FONT COLOR="#000000"><FONT FACE="Calibri, serif"><FONT SIZE=3><FONT COLOR="#0070c0"><B>4e
 édition de la JOURNÉE NATIONALE DE L'INGÉNIEUR</B></FONT></FONT></FONT></FONT></P>
 <P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><FONT COLOR="#000000"><FONT FACE="Calibri, serif"><FONT SIZE=3><FONT COLOR="#00000a"><B>Assistez
@@ -67,7 +67,7 @@ lieu</FONT><FONT COLOR="#00000a"> : Maison de la Chimie 28 bis, rue
 Saint-Dominique - 75007 Paris</FONT></FONT></FONT></FONT></P>
 <P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><BR><BR>
 </P>
-<P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><FONT COLOR="#000000"><IMG SRC="i_3ad8e9bc3dcaa55c_html_1ce2f7a9.jpg" NAME="Image 3" ALIGN=BOTTOM WIDTH=640 HEIGHT=180 BORDER=0></FONT></P>
+<P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><FONT COLOR="#000000"><IMG SRC="/media/i_3ad8e9bc3dcaa55c_html_1ce2f7a9.jpg" NAME="Image 3" ALIGN=BOTTOM WIDTH=640 HEIGHT=180 BORDER=0></FONT></P>
 <P STYLE="margin-bottom: 0.19in"><FONT COLOR="#000000"><FONT FACE="Calibri, serif"><FONT SIZE=3><FONT COLOR="#00000a">La
 prochaine Assemblée Générale ordinaire d’</FONT><FONT COLOR="#00000a"><B>Ingénieurs
 et Scientifiques de France (IESF)</B></FONT><FONT COLOR="#00000a"> se
@@ -89,13 +89,13 @@ date limite du dépôt des candidatures a été fixée au 26 mars
 savoir plus</A></FONT></FONT></FONT></P>
 <P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><BR><BR>
 </P>
-<P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><FONT COLOR="#000000"><IMG SRC="i_3ad8e9bc3dcaa55c_html_19ada1c6.jpg" NAME="Image 34" ALIGN=BOTTOM WIDTH=680 HEIGHT=49 BORDER=0></FONT></P>
+<P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><FONT COLOR="#000000"><IMG SRC="/media/i_3ad8e9bc3dcaa55c_html_19ada1c6.jpg" NAME="Image 34" ALIGN=BOTTOM WIDTH=680 HEIGHT=49 BORDER=0></FONT></P>
 <P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><BR><BR>
 </P>
-<P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><FONT COLOR="#000000"><IMG SRC="i_3ad8e9bc3dcaa55c_html_df9edc2e.jpg" NAME="Image 4" ALIGN=BOTTOM WIDTH=680 HEIGHT=49 BORDER=0></FONT></P>
+<P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><FONT COLOR="#000000"><IMG SRC="/media/i_3ad8e9bc3dcaa55c_html_df9edc2e.jpg" NAME="Image 4" ALIGN=BOTTOM WIDTH=680 HEIGHT=49 BORDER=0></FONT></P>
 <P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><BR><BR>
 </P>
-<P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><FONT COLOR="#000000"><IMG SRC="i_3ad8e9bc3dcaa55c_html_317123e2.jpg" NAME="Image 5" ALIGN=BOTTOM WIDTH=638 HEIGHT=179 BORDER=0></FONT></P>
+<P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><FONT COLOR="#000000"><IMG SRC="/media/i_3ad8e9bc3dcaa55c_html_317123e2.jpg" NAME="Image 5" ALIGN=BOTTOM WIDTH=638 HEIGHT=179 BORDER=0></FONT></P>
 <P ALIGN=JUSTIFY STYLE="margin-bottom: 0.19in"><FONT COLOR="#000000"><FONT FACE="Calibri, serif"><FONT SIZE=3><FONT COLOR="#00000a">L'enquête
 socio-économique d’IESF réalisée dans le cadre de l’Observatoire
 des ingénieurs se déroulera du </FONT><FONT COLOR="#00000a"><U><B>20
@@ -129,8 +129,8 @@ succès de cette étude</B></FONT><FONT COLOR="#00000a">.</FONT></FONT></FONT></
 : </FONT><A HREF="mailto:enquete@iesf.fr">mailto:enquete@iesf.fr</A></FONT></FONT></FONT></P>
 <P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><BR><BR>
 </P>
-<P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><FONT COLOR="#000000"><IMG SRC="i_3ad8e9bc3dcaa55c_html_9e4cddf2.jpg" NAME="Image 6" ALIGN=BOTTOM WIDTH=680 HEIGHT=49 BORDER=0></FONT></P>
-<P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><FONT COLOR="#000000"><IMG SRC="i_3ad8e9bc3dcaa55c_html_6336ef7.jpg" NAME="Image 7" ALIGN=BOTTOM WIDTH=680 HEIGHT=391 BORDER=0></FONT></P>
+<P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><FONT COLOR="#000000"><IMG SRC="/media/i_3ad8e9bc3dcaa55c_html_9e4cddf2.jpg" NAME="Image 6" ALIGN=BOTTOM WIDTH=680 HEIGHT=49 BORDER=0></FONT></P>
+<P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><FONT COLOR="#000000"><IMG SRC="/media/i_3ad8e9bc3dcaa55c_html_6336ef7.jpg" NAME="Image 7" ALIGN=BOTTOM WIDTH=680 HEIGHT=391 BORDER=0></FONT></P>
 <P ALIGN=JUSTIFY STYLE="margin-bottom: 0.19in"><FONT COLOR="#000000"><FONT FACE="Calibri, serif"><FONT SIZE=3><FONT COLOR="#00000a">IESF
 au travers de son Comité mixité, diversité et parité est
 partenaire de l’opération « </FONT><FONT COLOR="#0070c0">INGENIEUSES
@@ -151,8 +151,8 @@ candidature.</FONT></FONT></FONT></FONT></P>
 savoir plus</A></FONT></FONT></FONT></P>
 <P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><BR><BR>
 </P>
-<P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><FONT COLOR="#000000"><IMG SRC="i_3ad8e9bc3dcaa55c_html_31f19809.jpg" NAME="Image 9" ALIGN=BOTTOM WIDTH=680 HEIGHT=49 BORDER=0></FONT></P>
-<P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><FONT COLOR="#000000"><IMG SRC="i_3ad8e9bc3dcaa55c_html_803b1022.jpg" NAME="Image 10" ALIGN=BOTTOM WIDTH=302 HEIGHT=114 BORDER=0></FONT></P>
+<P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><FONT COLOR="#000000"><IMG SRC="/media/i_3ad8e9bc3dcaa55c_html_31f19809.jpg" NAME="Image 9" ALIGN=BOTTOM WIDTH=680 HEIGHT=49 BORDER=0></FONT></P>
+<P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><FONT COLOR="#000000"><IMG SRC="/media/i_3ad8e9bc3dcaa55c_html_803b1022.jpg" NAME="Image 10" ALIGN=BOTTOM WIDTH=302 HEIGHT=114 BORDER=0></FONT></P>
 <P ALIGN=JUSTIFY STYLE="margin-bottom: 0.19in"><FONT COLOR="#000000"><FONT FACE="Calibri, serif"><FONT SIZE=3><FONT COLOR="#00000a">La
 cérémonie de remise du </FONT><FONT COLOR="#00000a"><B>Prix Marius
 Lavet, Ingénieur et Inventeur</B></FONT><FONT COLOR="#00000a"> aura
@@ -163,10 +163,10 @@ l’économie, des finances et de l’industrie.</FONT></FONT></FONT></FONT></P>
 <P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><FONT COLOR="#000000"><FONT FACE="Calibri, serif"><FONT SIZE=3><A HREF="http://lavet.fr/sinscrire/">S'inscrire</A></FONT></FONT></FONT></P>
 <P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><BR><BR>
 </P>
-<P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><FONT COLOR="#000000"><IMG SRC="i_3ad8e9bc3dcaa55c_html_61e9860d.jpg" NAME="Image 11" ALIGN=BOTTOM WIDTH=680 HEIGHT=49 BORDER=0></FONT></P>
+<P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><FONT COLOR="#000000"><IMG SRC="/media/i_3ad8e9bc3dcaa55c_html_61e9860d.jpg" NAME="Image 11" ALIGN=BOTTOM WIDTH=680 HEIGHT=49 BORDER=0></FONT></P>
 <P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><BR><BR>
 </P>
-<P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><FONT COLOR="#000000"><IMG SRC="i_3ad8e9bc3dcaa55c_html_c6b69887.jpg" NAME="Image 12" ALIGN=BOTTOM WIDTH=680 HEIGHT=240 BORDER=0></FONT></P>
+<P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><FONT COLOR="#000000"><IMG SRC="/media/i_3ad8e9bc3dcaa55c_html_c6b69887.jpg" NAME="Image 12" ALIGN=BOTTOM WIDTH=680 HEIGHT=240 BORDER=0></FONT></P>
 <P ALIGN=JUSTIFY STYLE="margin-bottom: 0.19in"><FONT COLOR="#000000"><FONT FACE="Calibri, serif"><FONT SIZE=3><FONT COLOR="#00000a">La
 CGE vient de publier l’étude IPSOS réalisée de novembre 2015 à
 janvier 2016 auprès de 3224 élèves et alumni des grandes écoles.
@@ -176,10 +176,10 @@ sociale et solidaire était une solution ? »</FONT></FONT></FONT></FONT></P>
 l'étude</A></FONT></FONT></FONT></P>
 <P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><BR><BR>
 </P>
-<P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><FONT COLOR="#000000"><IMG SRC="i_3ad8e9bc3dcaa55c_html_2f887f22.jpg" NAME="Image 14" ALIGN=BOTTOM WIDTH=680 HEIGHT=49 BORDER=0></FONT></P>
+<P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><FONT COLOR="#000000"><IMG SRC="/media/i_3ad8e9bc3dcaa55c_html_2f887f22.jpg" NAME="Image 14" ALIGN=BOTTOM WIDTH=680 HEIGHT=49 BORDER=0></FONT></P>
 <P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><BR><BR>
 </P>
-<P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><FONT COLOR="#000000"><IMG SRC="i_3ad8e9bc3dcaa55c_html_7dd219a2.jpg" NAME="Image 15" ALIGN=BOTTOM WIDTH=420 HEIGHT=293 BORDER=0></FONT></P>
+<P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><FONT COLOR="#000000"><IMG SRC="/media/i_3ad8e9bc3dcaa55c_html_7dd219a2.jpg" NAME="Image 15" ALIGN=BOTTOM WIDTH=420 HEIGHT=293 BORDER=0></FONT></P>
 <P ALIGN=JUSTIFY STYLE="margin-bottom: 0.19in"><FONT COLOR="#000000"><FONT FACE="Calibri, serif"><FONT SIZE=3><FONT COLOR="#00000a">Noël
 Clavelloux, né en 1934, diplômé de l’Ecole nationale des Arts et
 Métiers (Cl. 1953) et de l'Ecole supérieure d'électricité de
@@ -218,10 +218,10 @@ sincères et nos plus amicales condoléances à ses enfants et sa
 famille.</FONT></FONT></FONT></FONT></P>
 <P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><BR><BR>
 </P>
-<P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><FONT COLOR="#000000"><IMG SRC="i_3ad8e9bc3dcaa55c_html_13637c16.jpg" NAME="Image 16" ALIGN=BOTTOM WIDTH=680 HEIGHT=49 BORDER=0></FONT></P>
+<P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><FONT COLOR="#000000"><IMG SRC="/media/i_3ad8e9bc3dcaa55c_html_13637c16.jpg" NAME="Image 16" ALIGN=BOTTOM WIDTH=680 HEIGHT=49 BORDER=0></FONT></P>
 <P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><BR><BR>
 </P>
-<P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><FONT COLOR="#000000"><IMG SRC="i_3ad8e9bc3dcaa55c_html_802960cb.jpg" NAME="Image 17" ALIGN=BOTTOM WIDTH=361 HEIGHT=174 BORDER=0></FONT></P>
+<P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><FONT COLOR="#000000"><IMG SRC="/media/i_3ad8e9bc3dcaa55c_html_802960cb.jpg" NAME="Image 17" ALIGN=BOTTOM WIDTH=361 HEIGHT=174 BORDER=0></FONT></P>
 <P STYLE="margin-bottom: 0.19in"><FONT COLOR="#000000"><FONT FACE="Calibri, serif"><FONT SIZE=3><FONT COLOR="#00000a">En
 Quête de Sens au Travail : une aventure unique</FONT></FONT></FONT></FONT></P>
 <P STYLE="margin-bottom: 0.19in"><FONT COLOR="#000000"><FONT FACE="Calibri, serif"><FONT SIZE=3><FONT COLOR="#00000a">IESF
@@ -252,13 +252,13 @@ ayant du sens et procurant du sens, à vous-même et aux autres.</FONT></FONT></
 </OL>
 <P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><BR><BR>
 </P>
-<P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><FONT COLOR="#000000"><IMG SRC="i_3ad8e9bc3dcaa55c_html_64fe3f91.jpg" NAME="Image 31" ALIGN=BOTTOM WIDTH=680 HEIGHT=49 BORDER=0></FONT></P>
+<P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><FONT COLOR="#000000"><IMG SRC="/media/i_3ad8e9bc3dcaa55c_html_64fe3f91.jpg" NAME="Image 31" ALIGN=BOTTOM WIDTH=680 HEIGHT=49 BORDER=0></FONT></P>
 <P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><BR><BR>
 </P>
-<P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><FONT COLOR="#000000"><IMG SRC="i_3ad8e9bc3dcaa55c_html_eab7b61f.jpg" NAME="Image 18" ALIGN=BOTTOM WIDTH=680 HEIGHT=49 BORDER=0></FONT></P>
+<P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><FONT COLOR="#000000"><IMG SRC="/media/i_3ad8e9bc3dcaa55c_html_eab7b61f.jpg" NAME="Image 18" ALIGN=BOTTOM WIDTH=680 HEIGHT=49 BORDER=0></FONT></P>
 <P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><BR><BR>
 </P>
-<P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><FONT COLOR="#000000"><IMG SRC="i_3ad8e9bc3dcaa55c_html_cb5c1a7a.jpg" NAME="Image 19" ALIGN=BOTTOM WIDTH=478 HEIGHT=401 BORDER=0></FONT></P>
+<P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><FONT COLOR="#000000"><IMG SRC="/media/i_3ad8e9bc3dcaa55c_html_cb5c1a7a.jpg" NAME="Image 19" ALIGN=BOTTOM WIDTH=478 HEIGHT=401 BORDER=0></FONT></P>
 <P ALIGN=JUSTIFY STYLE="margin-bottom: 0.19in"><FONT COLOR="#000000"><FONT FACE="Calibri, serif"><FONT SIZE=3><FONT COLOR="#00000a">Cette
 année, le BNEI organise l’opération </FONT><FONT COLOR="#00000a"><B>#APBingé</B></FONT><FONT COLOR="#00000a">.
 </FONT></FONT></FONT></FONT>
@@ -283,10 +283,10 @@ témoignages, en envoyant simplement un email à l’adresse
 </FONT><A HREF="mailto:apbingé@bnei.org">mailto:apbingé@bnei.org</A></FONT></FONT></FONT></P>
 <P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><BR><BR>
 </P>
-<P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><FONT COLOR="#000000"><IMG SRC="i_3ad8e9bc3dcaa55c_html_ac9d1dee.jpg" NAME="Image 23" ALIGN=BOTTOM WIDTH=680 HEIGHT=49 BORDER=0></FONT></P>
+<P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><FONT COLOR="#000000"><IMG SRC="/media/i_3ad8e9bc3dcaa55c_html_ac9d1dee.jpg" NAME="Image 23" ALIGN=BOTTOM WIDTH=680 HEIGHT=49 BORDER=0></FONT></P>
 <P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><BR><BR>
 </P>
-<P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><FONT COLOR="#000000"><IMG SRC="i_3ad8e9bc3dcaa55c_html_f90f1896.jpg" NAME="Image 24" ALIGN=BOTTOM WIDTH=279 HEIGHT=106 BORDER=0></FONT></P>
+<P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><FONT COLOR="#000000"><IMG SRC="/media/i_3ad8e9bc3dcaa55c_html_f90f1896.jpg" NAME="Image 24" ALIGN=BOTTOM WIDTH=279 HEIGHT=106 BORDER=0></FONT></P>
 <P STYLE="margin-bottom: 0.19in"><FONT COLOR="#000000"><FONT FACE="Calibri, serif"><FONT SIZE=3><FONT COLOR="#00000a">Pour
 la 5e année consécutive </FONT><FONT COLOR="#00000a"><B>IESF est
 partenaire des prochaines Rencontres Universités Entreprises (RUE)</B></FONT><FONT COLOR="#00000a">
@@ -317,10 +317,10 @@ Recherche</B></FONT><FONT COLOR="#00000a"> autour de 7 thèmes :</FONT></FONT></
 d'informations</A></FONT></FONT></FONT></P>
 <P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><BR><BR>
 </P>
-<P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><FONT COLOR="#000000"><IMG SRC="i_3ad8e9bc3dcaa55c_html_268ae0d6.jpg" NAME="Image 21" ALIGN=BOTTOM WIDTH=680 HEIGHT=49 BORDER=0></FONT></P>
+<P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><FONT COLOR="#000000"><IMG SRC="/media/i_3ad8e9bc3dcaa55c_html_268ae0d6.jpg" NAME="Image 21" ALIGN=BOTTOM WIDTH=680 HEIGHT=49 BORDER=0></FONT></P>
 <P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><BR><BR>
 </P>
-<P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><FONT COLOR="#000000"><IMG SRC="i_3ad8e9bc3dcaa55c_html_39ec9195.jpg" NAME="Image 22" ALIGN=BOTTOM WIDTH=490 HEIGHT=152 BORDER=0></FONT></P>
+<P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><FONT COLOR="#000000"><IMG SRC="/media/i_3ad8e9bc3dcaa55c_html_39ec9195.jpg" NAME="Image 22" ALIGN=BOTTOM WIDTH=490 HEIGHT=152 BORDER=0></FONT></P>
 <P STYLE="margin-bottom: 0.19in"><FONT COLOR="#000000"><FONT FACE="Calibri, serif"><FONT SIZE=3><FONT COLOR="#00000a"><B>Lancement
 de l’appel à candidature pour le 29</B></FONT><FONT COLOR="#00000a"><SUP><B>e</B></SUP></FONT><FONT COLOR="#00000a"><B>
 Prix ROBERVAL « Des œuvres pour comprendre la technologie en langue
@@ -333,10 +333,10 @@ rédigés en français et dédiés à l’explication de la
 technologie.</FONT></FONT></FONT></FONT></P>
 <P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><BR><BR>
 </P>
-<P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><FONT COLOR="#000000"><IMG SRC="i_3ad8e9bc3dcaa55c_html_771b2758.jpg" NAME="Image 26" ALIGN=BOTTOM WIDTH=680 HEIGHT=49 BORDER=0></FONT></P>
+<P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><FONT COLOR="#000000"><IMG SRC="/media/i_3ad8e9bc3dcaa55c_html_771b2758.jpg" NAME="Image 26" ALIGN=BOTTOM WIDTH=680 HEIGHT=49 BORDER=0></FONT></P>
 <P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><BR><BR>
 </P>
-<P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><FONT COLOR="#000000"><IMG SRC="i_3ad8e9bc3dcaa55c_html_6f664c0f.jpg" NAME="Image 25" ALIGN=BOTTOM WIDTH=200 HEIGHT=192 BORDER=0></FONT></P>
+<P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><FONT COLOR="#000000"><IMG SRC="/media/i_3ad8e9bc3dcaa55c_html_6f664c0f.jpg" NAME="Image 25" ALIGN=BOTTOM WIDTH=200 HEIGHT=192 BORDER=0></FONT></P>
 <P ALIGN=JUSTIFY STYLE="margin-bottom: 0.19in"><FONT COLOR="#000000"><FONT FACE="Calibri, serif"><FONT SIZE=3><FONT COLOR="#00000a">Comme
 chaque année, l’association Femmes Ingénieurs publie une analyse
 comparée de la situation des ingénieures et ingénieurs, à partir
@@ -367,10 +367,10 @@ ingénieurs</A></FONT></FONT></FONT></P>
 <P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><A NAME="_GoBack"></A><FONT COLOR="#000000"><IMG SRC="i_3ad8e9bc3dcaa55c_html_94974bad.jpg" NAME="Image 35" ALIGN=BOTTOM WIDTH=680 HEIGHT=49 BORDER=0></FONT></P>
 <P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><BR><BR>
 </P>
-<P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><FONT COLOR="#000000"><IMG SRC="i_3ad8e9bc3dcaa55c_html_11d187b4.jpg" NAME="Image 8" ALIGN=BOTTOM WIDTH=680 HEIGHT=49 BORDER=0></FONT></P>
+<P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><FONT COLOR="#000000"><IMG SRC="/media/i_3ad8e9bc3dcaa55c_html_11d187b4.jpg" NAME="Image 8" ALIGN=BOTTOM WIDTH=680 HEIGHT=49 BORDER=0></FONT></P>
 <P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><BR><BR>
 </P>
-<P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><FONT COLOR="#000000"><IMG SRC="i_3ad8e9bc3dcaa55c_html_788a7838.jpg" NAME="Image 13" ALIGN=BOTTOM WIDTH=433 HEIGHT=122 BORDER=0></FONT></P>
+<P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><FONT COLOR="#000000"><IMG SRC="/media/i_3ad8e9bc3dcaa55c_html_788a7838.jpg" NAME="Image 13" ALIGN=BOTTOM WIDTH=433 HEIGHT=122 BORDER=0></FONT></P>
 <P ALIGN=JUSTIFY STYLE="margin-bottom: 0.19in"><FONT COLOR="#000000"><FONT FACE="Calibri, serif"><FONT SIZE=3><FONT COLOR="#00000a">Depuis
 2011, la Semaine de l’industrie permet chaque année </FONT><FONT COLOR="#00000a"><B>au
 grand public d’aller à la rencontre des professionnels de
@@ -396,10 +396,10 @@ sur l’industrie, conférences, débats....</FONT></FONT></FONT></FONT></P>
 d'informations</A></FONT></FONT></FONT></P>
 <P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><BR><BR>
 </P>
-<P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><FONT COLOR="#000000"><IMG SRC="i_3ad8e9bc3dcaa55c_html_f3fe2215.jpg" NAME="Image 27" ALIGN=BOTTOM WIDTH=680 HEIGHT=49 BORDER=0></FONT></P>
+<P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><FONT COLOR="#000000"><IMG SRC="/media/i_3ad8e9bc3dcaa55c_html_f3fe2215.jpg" NAME="Image 27" ALIGN=BOTTOM WIDTH=680 HEIGHT=49 BORDER=0></FONT></P>
 <P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><BR><BR>
 </P>
-<P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><FONT COLOR="#000000"><IMG SRC="i_3ad8e9bc3dcaa55c_html_f7597093.jpg" NAME="Image 28" ALIGN=BOTTOM WIDTH=273 HEIGHT=264 BORDER=0></FONT></P>
+<P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><FONT COLOR="#000000"><IMG SRC="/media/i_3ad8e9bc3dcaa55c_html_f7597093.jpg" NAME="Image 28" ALIGN=BOTTOM WIDTH=273 HEIGHT=264 BORDER=0></FONT></P>
 <P ALIGN=JUSTIFY STYLE="margin-bottom: 0.19in"><FONT COLOR="#000000"><FONT FACE="Calibri, serif"><FONT SIZE=3><FONT COLOR="#00000a">Évènement
 international phare pour les startups et les business angels, Axis
 Innovation Tel Aviv est la conférence de l'innovation réunissant
@@ -414,10 +414,10 @@ connectivité, Big Data, Fintech et startups Stade de croissance.</FONT></FONT><
 d'informations</A></FONT></FONT></FONT></P>
 <P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><BR><BR>
 </P>
-<P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><FONT COLOR="#000000"><IMG SRC="i_3ad8e9bc3dcaa55c_html_b785de8c.jpg" NAME="Image 29" ALIGN=BOTTOM WIDTH=680 HEIGHT=49 BORDER=0></FONT></P>
+<P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><FONT COLOR="#000000"><IMG SRC="/media/i_3ad8e9bc3dcaa55c_html_b785de8c.jpg" NAME="Image 29" ALIGN=BOTTOM WIDTH=680 HEIGHT=49 BORDER=0></FONT></P>
 <P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><BR><BR>
 </P>
-<P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><FONT COLOR="#000000"><IMG SRC="i_3ad8e9bc3dcaa55c_html_a63d39eb.jpg" NAME="Image 30" ALIGN=BOTTOM WIDTH=300 HEIGHT=175 BORDER=0></FONT></P>
+<P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><FONT COLOR="#000000"><IMG SRC="/media/i_3ad8e9bc3dcaa55c_html_a63d39eb.jpg" NAME="Image 30" ALIGN=BOTTOM WIDTH=300 HEIGHT=175 BORDER=0></FONT></P>
 <P ALIGN=JUSTIFY STYLE="margin-bottom: 0.19in"><FONT COLOR="#000000"><FONT FACE="Calibri, serif"><FONT SIZE=3><FONT COLOR="#00000a">Social
 Builder lance son nouvel appel à candidatures pour son </FONT><FONT COLOR="#00000a"><U><B>programme
 Etincelles</B></U></FONT><FONT COLOR="#00000a">. Etincelles est un
