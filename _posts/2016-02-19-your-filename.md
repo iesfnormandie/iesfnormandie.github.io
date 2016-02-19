@@ -7,16 +7,7 @@ title: Flash Info N°1655
 
 ## A New Post
 
-![i_3ad8e9bc3dcaa55c_html_1ce2f7a9.jpg]({{site.baseurl}}/media/i_3ad8e9bc3dcaa55c_html_1ce2f7a9.jpg)
-![i_3ad8e9bc3dcaa55c_html_2f887f22.jpg]({{site.baseurl}}/media/i_3ad8e9bc3dcaa55c_html_2f887f22.jpg)
-![i_3ad8e9bc3dcaa55c_html_6f664c0f.jpg]({{site.baseurl}}/media/i_3ad8e9bc3dcaa55c_html_6f664c0f.jpg)
-![i_3ad8e9bc3dcaa55c_html_7dd219a2.jpg]({{site.baseurl}}/media/i_3ad8e9bc3dcaa55c_html_7dd219a2.jpg)
-![i_3ad8e9bc3dcaa55c_html_9e4cddf2.jpg]({{site.baseurl}}/media/i_3ad8e9bc3dcaa55c_html_9e4cddf2.jpg)
-![i_3ad8e9bc3dcaa55c_html_11d187b4.jpg]({{site.baseurl}}/media/i_3ad8e9bc3dcaa55c_html_11d187b4.jpg)
-![i_3ad8e9bc3dcaa55c_html_19ada1c6.jpg]({{site.baseurl}}/media/i_3ad8e9bc3dcaa55c_html_19ada1c6.jpg)
-![i_3ad8e9bc3dcaa55c_html_31f19809.jpg]({{site.baseurl}}/media/i_3ad8e9bc3dcaa55c_html_31f19809.jpg)
-![i_3ad8e9bc3dcaa55c_html_268ae0d6.jpg]({{site.baseurl}}/media/i_3ad8e9bc3dcaa55c_html_268ae0d6.jpg)
-![i_3ad8e9bc3dcaa55c_html_64fe3f91.jpg]({{site.baseurl}}/media/i_3ad8e9bc3dcaa55c_html_64fe3f91.jpg)
+
 
 ![i_3ad8e9bc3dcaa55c_html_788a7838.jpg]({{site.baseurl}}/media/i_3ad8e9bc3dcaa55c_html_788a7838.jpg)
 
