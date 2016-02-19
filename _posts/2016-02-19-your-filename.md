@@ -6,6 +6,7 @@ title: Flash Info N°1655
 
 
 
+![i_3ad8e9bc3dcaa55c_html_11d187b4.jpg]({{site.baseurl}}/media/i_3ad8e9bc3dcaa55c_html_11d187b4.jpg)
 
 ![i_3ad8e9bc3dcaa55c_html_94974bad.jpg]({{site.baseurl}}/media/i_3ad8e9bc3dcaa55c_html_94974bad.jpg)
 
