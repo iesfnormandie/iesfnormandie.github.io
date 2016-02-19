@@ -1,36 +1,14 @@
 ---
 layout: default
 published: false
-title: ""
+title: Flash Info N°1655
 ---
 
 ## A New Post
 
 Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
-<HTML>
-<HEAD>
-	<META HTTP-EQUIV="CONTENT-TYPE" CONTENT="text/html; charset=utf-8">
-	<TITLE></TITLE>
-	<META NAME="GENERATOR" CONTENT="LibreOffice 4.1.6.2 (Linux)">
-	<META NAME="AUTHOR" CONTENT="J d V">
-	<META NAME="CREATED" CONTENT="20160218;171700000000000">
-	<META NAME="CHANGEDBY" CONTENT="Jacques de VILLELE">
-	<META NAME="CHANGED" CONTENT="20160219;75500000000000">
-	<META NAME="AppVersion" CONTENT="16.0000">
-	<META NAME="DocSecurity" CONTENT="0">
-	<META NAME="HyperlinksChanged" CONTENT="false">
-	<META NAME="LinksUpToDate" CONTENT="false">
-	<META NAME="ScaleCrop" CONTENT="false">
-	<META NAME="ShareDoc" CONTENT="false">
-	<STYLE TYPE="text/css">
-	<!--
-		@page { margin: 0.59in }
-		P { margin-bottom: 0.08in; direction: ltr; widows: 2; orphans: 2 }
-		A:link { color: #0000ff; so-language: zxx }
-	-->
-	</STYLE>
-</HEAD>
+
+
 <BODY LANG="fr-FR" LINK="#0000ff" DIR="LTR">
 <P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><IMG SRC="i_3ad8e9bc3dcaa55c_html_348088e.jpg" NAME="Image 20" ALIGN=BOTTOM WIDTH=680 HEIGHT=66 BORDER=0></P>
 <P ALIGN=RIGHT STYLE="margin-bottom: 0.19in"><FONT SIZE=3><I><B>Flash
@@ -432,4 +410,3 @@ parcours sont ouverts en fonction des profils :</FONT></FONT></FONT></FONT></P>
 <P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><FONT COLOR="#000000"><FONT FACE="Calibri, serif"><FONT SIZE=3><A HREF="https://docs.google.com/forms/d/1kPuQ8_8P6ecalTdDMynupAUjrD7Fo5wZfJUwFuSz4IY/viewform">Je
 postule</A></FONT></FONT></FONT></P>
 </BODY>
-</HTML>
