@@ -1,8 +1,9 @@
 ---
 layout: default
-published: false
+published: true
 title: Flash Info N°1655
 ---
+
 
 ## A New Post
 
