@@ -417,7 +417,8 @@ d'informations</A></FONT></FONT></FONT></P>
 <P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><FONT COLOR="#000000"><IMG SRC="/media/i_3ad8e9bc3dcaa55c_html_b785de8c.jpg" NAME="Image 29" ALIGN=BOTTOM WIDTH=680 HEIGHT=49 BORDER=0></FONT></P>
 <P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><BR><BR>
 </P>
-<P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><FONT COLOR="#000000"><IMG SRC="/media/i_3ad8e9bc3dcaa55c_html_a63d39eb.jpg" NAME="Image 30" ALIGN=BOTTOM WIDTH=300 HEIGHT=175 BORDER=0></FONT></P>
+<P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><FONT COLOR="#000000"><IMG SRC="/media/![i_3ad8e9bc3dcaa55c_html_94974bad.jpg]({{site.baseurl}}/media/i_3ad8e9bc3dcaa55c_html_94974bad.jpg)
+i_3ad8e9bc3dcaa55c_html_a63d39eb.jpg" NAME="Image 30" ALIGN=BOTTOM WIDTH=300 HEIGHT=175 BORDER=0></FONT></P>
 <P ALIGN=JUSTIFY STYLE="margin-bottom: 0.19in"><FONT COLOR="#000000"><FONT FACE="Calibri, serif"><FONT SIZE=3><FONT COLOR="#00000a">Social
 Builder lance son nouvel appel à candidatures pour son </FONT><FONT COLOR="#00000a"><U><B>programme
 Etincelles</B></U></FONT><FONT COLOR="#00000a">. Etincelles est un
