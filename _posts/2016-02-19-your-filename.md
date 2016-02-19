@@ -42,7 +42,7 @@ title: Flash Info N°1655
 
 
 <BODY LANG="fr-FR" LINK="#0000ff" DIR="LTR">
-<P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><IMG SRC="i_3ad8e9bc3dcaa55c_html_348088e.jpg" NAME="Image 20" ALIGN=BOTTOM WIDTH=680 HEIGHT=66 BORDER=0></P>
+<P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><IMG SRC="/media/i_3ad8e9bc3dcaa55c_html_348088e.jpg" NAME="Image 20" ALIGN=BOTTOM WIDTH=680 HEIGHT=66 BORDER=0></P>
 <P ALIGN=RIGHT STYLE="margin-bottom: 0.19in"><FONT SIZE=3><I><B>Flash
 info N°1555 – février  2016</B></I></FONT></P>
 <P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><BR><BR>
