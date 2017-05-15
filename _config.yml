@@ -9,7 +9,7 @@ title: "IESF - Normandie"
 # baseurl : http://iesfhautenormandie.fr/
 # production_url : http://iesfhautenormandie.fr/
 
-markdown : rdiscount
+markdown : kramdown
 
 prose:
   siteurl: "http://iesfhautenormandie.fr/"
