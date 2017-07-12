@@ -28,12 +28,12 @@ title: Flash Info N°1769
 
 
 <BODY LANG="fr-FR" LINK="#0000ff" DIR="LTR">
-<P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><IMG SRC="Flash_info_N_1769a_html_348088e.jpg" NAME="Image 20" ALIGN=BOTTOM WIDTH=680 HEIGHT=66 BORDER=0></P>
+<P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><IMG SRC="/media/Flash_info_N_1769a_html_348088e.jpg" NAME="Image 20" ALIGN=BOTTOM WIDTH=680 HEIGHT=66 BORDER=0></P>
 <P ALIGN=RIGHT STYLE="margin-bottom: 0.19in"><FONT SIZE=3><I><B>Flash
 info N°1769 juillet-août-2017</B></I></FONT></P>
 <P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><FONT COLOR="#ff0000"><FONT FACE="Engravers MT, serif"><FONT SIZE=4 STYLE="font-size: 16pt"><B>Élection
 de Marc VENTRE au poste de président d'IESF.</B></FONT></FONT></FONT></P>
-<P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><IMG SRC="Flash_info_N_1769a_html_3411d752.jpg" NAME="Image 2" ALIGN=BOTTOM WIDTH=201 HEIGHT=200 BORDER=0></P>
+<P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><IMG SRC="/media/Flash_info_N_1769a_html_3411d752.jpg" NAME="Image 2" ALIGN=BOTTOM WIDTH=201 HEIGHT=200 BORDER=0></P>
 <P ALIGN=JUSTIFY STYLE="margin-bottom: 0.19in"><FONT SIZE=3>À la fin
 de l'Assemblée Générale Ordinaire d'IESF qui s'est déroulée le
 Mercredi 28 juin 2017 à la FIEEC (Paris 16e), le nouveau conseil
@@ -65,7 +65,7 @@ l'Enquête</SPAN></A></P>
 <P ALIGN=CENTER STYLE="margin-bottom: 0.19in">**********************</P>
 <P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><FONT COLOR="#ff0000"><FONT FACE="Engravers MT, serif"><FONT SIZE=4 STYLE="font-size: 16pt"><B>Hugo
 Bony, (Supélec 2006, IFP 2007), nommé DG d'Agrauxine en 2016.</B></FONT></FONT></FONT></P>
-<P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><IMG SRC="Flash_info_N_1769a_html_e19b72d5.jpg" NAME="Image 32" ALIGN=BOTTOM WIDTH=150 HEIGHT=160 BORDER=0></P>
+<P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><IMG SRC="/media/Flash_info_N_1769a_html_e19b72d5.jpg" NAME="Image 32" ALIGN=BOTTOM WIDTH=150 HEIGHT=160 BORDER=0></P>
 <P ALIGN=JUSTIFY STYLE="margin-bottom: 0.19in"><FONT SIZE=3>Le
 challenge est grand pour la start-up de Lesaffre qui élabore des
 solutions à partir de micro-organismes pour protéger les cultures
@@ -80,7 +80,7 @@ l'interview sur mondedesgrandesecoles.fr</SPAN></A></P>
 <P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><FONT COLOR="#000000"><FONT FACE="Calibri, serif"><FONT SIZE=3>**********************</FONT></FONT></FONT></P>
 <P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><FONT COLOR="#ff0000"><FONT FACE="Engravers MT, serif"><FONT SIZE=4 STYLE="font-size: 16pt"><B>RÉPERTOIRE
 <BR>Plus de 900 000 ingénieurs et scientifiques enregistrés !</B></FONT></FONT></FONT></P>
-<P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><IMG SRC="Flash_info_N_1769a_html_9c587f0f.jpg" NAME="Image 31" ALIGN=BOTTOM WIDTH=200 HEIGHT=100 BORDER=0></P>
+<P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><IMG SRC="/media/Flash_info_N_1769a_html_9c587f0f.jpg" NAME="Image 31" ALIGN=BOTTOM WIDTH=200 HEIGHT=100 BORDER=0></P>
 <P ALIGN=JUSTIFY STYLE="margin-bottom: 0.19in"><FONT SIZE=3>Relooké,
 plus simple et plus rapide, le Répertoire des Ingénieurs et des
 Scientifiques est maintenant prêt à accueillir les nouvelles
@@ -94,7 +94,7 @@ au Répertoire</SPAN></A></P>
 <P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><FONT SIZE=3>**********************</FONT></P>
 <P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><FONT COLOR="#ff0000"><FONT FACE="Engravers MT, serif"><FONT SIZE=4 STYLE="font-size: 16pt"><B>REMERCIEMENTS
 <BR>Deux médailles IESF décernées.</B></FONT></FONT></FONT></P>
-<P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><IMG SRC="Flash_info_N_1769a_html_a093a68a.jpg" NAME="Image 30" ALIGN=BOTTOM WIDTH=200 HEIGHT=100 BORDER=0></P>
+<P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><IMG SRC=/media/"Flash_info_N_1769a_html_a093a68a.jpg" NAME="Image 30" ALIGN=BOTTOM WIDTH=200 HEIGHT=100 BORDER=0></P>
 <P ALIGN=JUSTIFY STYLE="margin-bottom: 0.19in"><FONT SIZE=3>À
 l'occasion de l'Assemblée Générale Ordinaire du 28 juin dernier,
 Marc VENTRE, nouveau président d'IESF, a décerné en signe de
@@ -123,7 +123,7 @@ la suite</SPAN></A></P>
 <P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><FONT COLOR="#ff0000"><FONT FACE="Engravers MT, serif"><FONT SIZE=4 STYLE="font-size: 16pt"><B>REMISE
 DE PRIX <BR>2 prix et 1 mention spéciale pour le Prix
 IESF-LR-CODIGE.</B></FONT></FONT></FONT></P>
-<P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><IMG SRC="Flash_info_N_1769a_html_72a64c00.jpg" NAME="Image 28" ALIGN=BOTTOM WIDTH=200 HEIGHT=100 BORDER=0></P>
+<P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><IMG SRC="/media/Flash_info_N_1769a_html_72a64c00.jpg" NAME="Image 28" ALIGN=BOTTOM WIDTH=200 HEIGHT=100 BORDER=0></P>
 <P ALIGN=JUSTIFY STYLE="margin-bottom: 0.19in"><FONT SIZE=3>La remise
 du Prix IESF-LR-CODIGE 2017 s'est déroulée le jeudi 15 juin à
 l'Université de Montpellier : 1er prix Pierre Mazeau pour le projet
@@ -137,7 +137,7 @@ savoir plus</SPAN></FONT></A></P>
 <P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><FONT SIZE=3>**********************</FONT></P>
 <P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><FONT COLOR="#ff0000"><FONT FACE="Engravers MT, serif"><FONT SIZE=4 STYLE="font-size: 16pt"><B>JNI
 2017 <BR>Retrouvez toutes les infos dans le bulletin des JNI.</B></FONT></FONT></FONT></P>
-<P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><IMG SRC="Flash_info_N_1769a_html_e9a03e2c.jpg" NAME="Image 27" ALIGN=BOTTOM WIDTH=200 HEIGHT=100 BORDER=0></P>
+<P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><IMG SRC="/media/Flash_info_N_1769a_html_e9a03e2c.jpg" NAME="Image 27" ALIGN=BOTTOM WIDTH=200 HEIGHT=100 BORDER=0></P>
 <P ALIGN=JUSTIFY STYLE="margin-bottom: 0.19in"><FONT SIZE=3>Les
 Journées Nationales de l'Ingénieur se dérouleront du 13 au 21
 octobre dans toute la France. Pour que vous suiviez la mise en place
@@ -149,7 +149,7 @@ savoir plus</SPAN></A></P>
 <P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><FONT SIZE=3>**********************</FONT></P>
 <P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><A NAME="_GoBack"></A><FONT COLOR="#ff0000"><FONT FACE="Engravers MT, serif"><FONT SIZE=4 STYLE="font-size: 16pt"><B>APPEL
 À BÉNÉVOLES <BR>Rejoignez nos équipes !</B></FONT></FONT></FONT></P>
-<P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><IMG SRC="Flash_info_N_1769a_html_98930f92.jpg" NAME="Image 26" ALIGN=BOTTOM WIDTH=200 HEIGHT=100 BORDER=0></P>
+<P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><IMG SRC="/media/Flash_info_N_1769a_html_98930f92.jpg" NAME="Image 26" ALIGN=BOTTOM WIDTH=200 HEIGHT=100 BORDER=0></P>
 <P ALIGN=JUSTIFY STYLE="margin-bottom: 0.19in"><FONT SIZE=3>Envie de
 consacrer du temps à des projets enthousiasmants ? Nous recherchons
 des bénévoles (H/F) pour nos événements et actions principales :
@@ -161,7 +161,7 @@ contacter</SPAN></A></P>
 <P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><FONT SIZE=3>**********************</FONT></P>
 <P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><FONT COLOR="#ff0000"><FONT FACE="Engravers MT, serif"><FONT SIZE=4 STYLE="font-size: 16pt"><B>Prix
 armées-jeunesse 2017.</B></FONT></FONT></FONT></P>
-<P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><IMG SRC="Flash_info_N_1769a_html_e34bc32e.png" NAME="Image 25" ALIGN=BOTTOM WIDTH=91 HEIGHT=86 BORDER=0></P>
+<P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><IMG SRC="/media/Flash_info_N_1769a_html_e34bc32e.png" NAME="Image 25" ALIGN=BOTTOM WIDTH=91 HEIGHT=86 BORDER=0></P>
 <P ALIGN=JUSTIFY STYLE="margin-bottom: 0.19in"><FONT SIZE=3>Pour son
 édition 2017, la cérémonie de remise des prix armées-jeunesse
 s'est déroulée dans l'amphithéâtre Foch de l'école militaire. Le
@@ -173,7 +173,7 @@ la suite</SPAN></FONT></A></P>
 <P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><FONT SIZE=3>**********************</FONT></P>
 <P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><FONT COLOR="#ff0000"><FONT FACE="Engravers MT, serif"><FONT SIZE=4 STYLE="font-size: 16pt"><B>Un
 nouveau logo pour symboliser le nouveau nom de l'ENSICAEN Alumni !</B></FONT></FONT></FONT></P>
-<P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><IMG SRC="Flash_info_N_1769a_html_7df4478d.png" NAME="Image 24" ALIGN=BOTTOM WIDTH=98 HEIGHT=47 BORDER=0></P>
+<P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><IMG SRC="/media/Flash_info_N_1769a_html_7df4478d.png" NAME="Image 24" ALIGN=BOTTOM WIDTH=98 HEIGHT=47 BORDER=0></P>
 <P ALIGN=JUSTIFY STYLE="margin-bottom: 0.19in"><FONT SIZE=3>Le
 concours de création du nouveau logo, sponsorisé par Assystem,
 s'est clos le 6 juin. Le choix fut difficile... L'équipe en charge a
@@ -183,7 +183,7 @@ avec l'ENSICAEN, clarté, et équilibre...!</FONT></P>
 <P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><FONT SIZE=3>**********************</FONT></P>
 <P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><FONT COLOR="#ff0000"><FONT FACE="Engravers MT, serif"><FONT SIZE=4 STYLE="font-size: 16pt"><B>Remise
 des prix du concours Science &amp; Humour.</B></FONT></FONT></FONT></P>
-<P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><IMG SRC="Flash_info_N_1769a_html_d7bb20e1.png" NAME="Image 23" ALIGN=BOTTOM WIDTH=65 HEIGHT=54 BORDER=0></P>
+<P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><IMG SRC="/media/Flash_info_N_1769a_html_d7bb20e1.png" NAME="Image 23" ALIGN=BOTTOM WIDTH=65 HEIGHT=54 BORDER=0></P>
 <P ALIGN=JUSTIFY STYLE="margin-bottom: 0.19in"><FONT SIZE=3>La
 Société Française de Physique (SFP) a le plaisir de dévoiler les
 lauréat(e)s du concours Science &amp; Humour, lancé dans le cadre
@@ -196,7 +196,7 @@ les lauréats</SPAN></A></P>
 <P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><FONT COLOR="#ff0000"><FONT FACE="Engravers MT, serif"><FONT SIZE=4 STYLE="font-size: 16pt"><B>Une
 élève ingénieure à Grenoble INP devient championne de France
 espoir en cyclisme !</B></FONT></FONT></FONT></P>
-<P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><IMG SRC="Flash_info_N_1769a_html_922738b9.png" NAME="Image 22" ALIGN=BOTTOM WIDTH=91 HEIGHT=60 BORDER=0></P>
+<P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><IMG SRC="/media/Flash_info_N_1769a_html_922738b9.png" NAME="Image 22" ALIGN=BOTTOM WIDTH=91 HEIGHT=60 BORDER=0></P>
 <P ALIGN=JUSTIFY STYLE="margin-bottom: 0.19in"><FONT SIZE=3>Fanny
 Zambon est en première année à Grenoble INP - Génie industriel et
 pratique le cyclisme à haut niveau. Samedi 24 juin dernier, elle est
@@ -207,7 +207,7 @@ l'article</SPAN></A></P>
 <P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><FONT SIZE=3>**********************</FONT></P>
 <P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><FONT COLOR="#ff0000"><FONT FACE="Engravers MT, serif"><FONT SIZE=4 STYLE="font-size: 16pt"><B>3
 jours consacrés à l'aéronautique.</B></FONT></FONT></FONT></P>
-<P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><IMG SRC="Flash_info_N_1769a_html_11d2266d.png" NAME="Image 21" ALIGN=BOTTOM WIDTH=98 HEIGHT=43 BORDER=0></P>
+<P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><IMG SRC="/media/Flash_info_N_1769a_html_11d2266d.png" NAME="Image 21" ALIGN=BOTTOM WIDTH=98 HEIGHT=43 BORDER=0></P>
 <P ALIGN=JUSTIFY STYLE="margin-bottom: 0.19in"><FONT SIZE=3>L'ESTACA
 organise du 15 au 17 septembre un événement dédié à
 l'aéronautique : Laval Virtual Day, Laval Aéro Show, rencontres
@@ -218,7 +218,7 @@ savoir plus</SPAN></A></P>
 <P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><FONT SIZE=3>**********************</FONT></P>
 <P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><FONT COLOR="#ff0000"><FONT FACE="Engravers MT, serif"><FONT SIZE=4 STYLE="font-size: 16pt"><B>Management
 et Transformation de l'Entreprise par le Numérique.</B></FONT></FONT></FONT></P>
-<P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><IMG SRC="Flash_info_N_1769a_html_eddf1ba9.jpg" NAME="Image 3" ALIGN=BOTTOM WIDTH=70 HEIGHT=54 BORDER=0></P>
+<P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><IMG SRC="/media/Flash_info_N_1769a_html_eddf1ba9.jpg" NAME="Image 3" ALIGN=BOTTOM WIDTH=70 HEIGHT=54 BORDER=0></P>
 <P ALIGN=JUSTIFY STYLE="margin-bottom: 0.19in"><FONT SIZE=3>Le 18
 septembre, le G9+ en partenariat avec X-Informatique et AIN7
 Numérique, organisent à Paris une conférence sur le thème
@@ -229,7 +229,7 @@ ex-PDG d'ATOS.</FONT></P>
 <P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><FONT SIZE=3>**********************</FONT></P>
 <P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><FONT COLOR="#ff0000"><FONT FACE="Engravers MT, serif"><FONT SIZE=4 STYLE="font-size: 16pt"><B>Congrès
 CGE 2017.</B></FONT></FONT></FONT></P>
-<P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><IMG SRC="Flash_info_N_1769a_html_4cf90dae.png" NAME="Image 19" ALIGN=BOTTOM WIDTH=98 HEIGHT=41 BORDER=0></P>
+<P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><IMG SRC="/media/Flash_info_N_1769a_html_4cf90dae.png" NAME="Image 19" ALIGN=BOTTOM WIDTH=98 HEIGHT=41 BORDER=0></P>
 <P ALIGN=JUSTIFY STYLE="margin-bottom: 0.19in"><FONT SIZE=3>Le
 Congrès 2017 de la Conférence des grandes écoles (CGE) sur le
 thème « Avenir de l'enseignement supérieur français : Financement
@@ -239,7 +239,7 @@ Rennes et Rennes School of Business.</FONT></P>
 <P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><FONT SIZE=3>**********************</FONT></P>
 <P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><FONT COLOR="#ff0000"><FONT FACE="Engravers MT, serif"><FONT SIZE=4 STYLE="font-size: 16pt"><B>Congrès
 Arts &amp; Métiers 2017 : les inscriptions sont ouvertes !</B></FONT></FONT></FONT></P>
-<P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><IMG SRC="Flash_info_N_1769a_html_cb654466.png" NAME="Image 18" ALIGN=BOTTOM WIDTH=98 HEIGHT=44 BORDER=0></P>
+<P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><IMG SRC="/media/Flash_info_N_1769a_html_cb654466.png" NAME="Image 18" ALIGN=BOTTOM WIDTH=98 HEIGHT=44 BORDER=0></P>
 <P ALIGN=JUSTIFY STYLE="margin-bottom: 0.19in"><FONT SIZE=3>Vous
 pouvez dès à présent vous inscrire en ligne pour le Congrès Arts
 et Métiers 2017, en partenariat avec CEA TECH, qui se tiendra du 13
