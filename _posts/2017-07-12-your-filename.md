@@ -8,28 +8,26 @@ title: Flash Info N°1769b
 
 
 
-<HEAD>
-	<META HTTP-EQUIV="CONTENT-TYPE" CONTENT="text/html; charset=utf-8">
-	<TITLE></TITLE>
-	<META NAME="GENERATOR" CONTENT="LibreOffice 4.1.6.2 (Linux)">
-	<META NAME="AUTHOR" CONTENT="J d V">
-	<META NAME="CREATED" CONTENT="20170711;123500000000000">
-	<META NAME="CHANGEDBY" CONTENT="Jacques de VILLELE">
-	<META NAME="CHANGED" CONTENT="20170712;124900000000000">
-	<META NAME="AppVersion" CONTENT="16.0000">
-	<META NAME="DocSecurity" CONTENT="0">
-	<META NAME="HyperlinksChanged" CONTENT="false">
-	<META NAME="LinksUpToDate" CONTENT="false">
-	<META NAME="ScaleCrop" CONTENT="false">
-	<META NAME="ShareDoc" CONTENT="false">
-	<STYLE TYPE="text/css">
-	<!--
-		@page { margin: 0.59in }
-		P { margin-bottom: 0.08in; direction: ltr; widows: 2; orphans: 2 }
-		A:link { color: #0000ff; so-language: zxx }
-	-->
-	</STYLE>
-</HEAD>
+![Flash_info_N_1769a_html_3e641037.jpg]({{site.baseurl}}/media/Flash_info_N_1769a_html_3e641037.jpg)
+![Flash_info_N_1769a_html_5b2c5b44.jpg]({{site.baseurl}}/media/Flash_info_N_1769a_html_5b2c5b44.jpg)
+![Flash_info_N_1769a_html_7df4478d.png]({{site.baseurl}}/media/Flash_info_N_1769a_html_7df4478d.png)
+![Flash_info_N_1769a_html_9c587f0f.jpg]({{site.baseurl}}/media/Flash_info_N_1769a_html_9c587f0f.jpg)
+![Flash_info_N_1769a_html_11d2266d.png]({{site.baseurl}}/media/Flash_info_N_1769a_html_11d2266d.png)
+![Flash_info_N_1769a_html_72a64c00.jpg]({{site.baseurl}}/media/Flash_info_N_1769a_html_72a64c00.jpg)
+![Flash_info_N_1769a_html_3411d752.jpg]({{site.baseurl}}/media/Flash_info_N_1769a_html_3411d752.jpg)
+![Flash_info_N_1769a_html_98930f92.jpg]({{site.baseurl}}/media/Flash_info_N_1769a_html_98930f92.jpg)
+![Flash_info_N_1769a_html_348088e.jpg]({{site.baseurl}}/media/Flash_info_N_1769a_html_348088e.jpg)
+![Flash_info_N_1769a_html_922738b9.png]({{site.baseurl}}/media/Flash_info_N_1769a_html_922738b9.png)
+![Flash_info_N_1769a_html_a093a68a.jpg]({{site.baseurl}}/media/Flash_info_N_1769a_html_a093a68a.jpg)
+![Flash_info_N_1769a_html_cb654466.png]({{site.baseurl}}/media/Flash_info_N_1769a_html_cb654466.png)
+![Flash_info_N_1769a_html_d7bb20e1.png]({{site.baseurl}}/media/Flash_info_N_1769a_html_d7bb20e1.png)
+![Flash_info_N_1769a_html_e9a03e2c.jpg]({{site.baseurl}}/media/Flash_info_N_1769a_html_e9a03e2c.jpg)
+![Flash_info_N_1769a_html_e19b72d5.jpg]({{site.baseurl}}/media/Flash_info_N_1769a_html_e19b72d5.jpg)
+![Flash_info_N_1769a_html_e34bc32e.png]({{site.baseurl}}/media/Flash_info_N_1769a_html_e34bc32e.png)
+![Flash_info_N_1769a_html_eddf1ba9.jpg]({{site.baseurl}}/media/Flash_info_N_1769a_html_eddf1ba9.jpg)
+
+
+
 <BODY LANG="fr-FR" LINK="#0000ff" DIR="LTR">
 <P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><IMG SRC="Flash_info_N_1769a_html_348088e.jpg" NAME="Image 20" ALIGN=BOTTOM WIDTH=680 HEIGHT=66 BORDER=0></P>
 <P ALIGN=RIGHT STYLE="margin-bottom: 0.19in"><FONT SIZE=3><I><B>Flash
@@ -253,4 +251,3 @@ entreprendre&quot;.</FONT></P>
 <P STYLE="margin-bottom: 0.19in"><BR><BR>
 </P>
 </BODY>
-</HTML>
