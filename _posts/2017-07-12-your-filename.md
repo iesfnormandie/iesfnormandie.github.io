@@ -1,7 +1,7 @@
 ---
 layout: default
 published: true
-title: Flash Info N°1769
+title: _post/2017-07-12-flash-info-n-1769.html
 ---
 ![Flash_info_N_1769a_html_4cf90dae.png]({{site.baseurl}}/media/Flash_info_N_1769a_html_4cf90dae.png)
 ![Flash_info_N_1769a_html_cb654466.png]({{site.baseurl}}/media/Flash_info_N_1769a_html_cb654466.png)
