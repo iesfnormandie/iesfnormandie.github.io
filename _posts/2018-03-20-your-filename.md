@@ -1,0 +1,191 @@
+---
+layout: default
+published: false
+title: ''
+---
+## A New Post
+
+
+![Flash_info_N_1876W_html_1aa7f503.png]({{site.baseurl}}/media/Flash_info_N_1876W_html_1aa7f503.png)
+![Flash_info_N_1876W_html_1e4cdb62.png]({{site.baseurl}}/media/Flash_info_N_1876W_html_1e4cdb62.png)
+![Flash_info_N_1876W_html_5e355737.png]({{site.baseurl}}/media/Flash_info_N_1876W_html_5e355737.png)
+![Flash_info_N_1876W_html_19f85a42.png]({{site.baseurl}}/media/Flash_info_N_1876W_html_19f85a42.png)
+![Flash_info_N_1876W_html_58afef43.png]({{site.baseurl}}/media/Flash_info_N_1876W_html_58afef43.png)
+![Flash_info_N_1876W_html_74ea28f8.jpg]({{site.baseurl}}/media/Flash_info_N_1876W_html_74ea28f8.jpg)
+![Flash_info_N_1876W_html_89dd665e.png]({{site.baseurl}}/media/Flash_info_N_1876W_html_89dd665e.png)
+![Flash_info_N_1876W_html_338d8561.png]({{site.baseurl}}/media/Flash_info_N_1876W_html_338d8561.png)
+![Flash_info_N_1876W_html_1547687.png]({{site.baseurl}}/media/Flash_info_N_1876W_html_1547687.png)
+![Flash_info_N_1876W_html_81155383.jpg]({{site.baseurl}}/media/Flash_info_N_1876W_html_81155383.jpg)
+![Flash_info_N_1876W_html_b00d17b4.png]({{site.baseurl}}/media/Flash_info_N_1876W_html_b00d17b4.png)
+![Flash_info_N_1876W_html_cb654466.png]({{site.baseurl}}/media/Flash_info_N_1876W_html_cb654466.png)
+![Flash_info_N_1876W_html_d8816132.png]({{site.baseurl}}/media/Flash_info_N_1876W_html_d8816132.png)
+
+
+
+
+
+
+
+
+<BODY LANG="fr-FR" LINK="#0000ff" DIR="LTR">
+<P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><IMG SRC="Flash_info_N_1876W_html_74ea28f8.jpg" NAME="Image 2" ALIGN=BOTTOM WIDTH=680 HEIGHT=66 BORDER=0></P>
+<P ALIGN=RIGHT STYLE="margin-bottom: 0.19in"><FONT SIZE=3><I><B>Flash
+info N°1876-mars 2018</B></I></FONT></P>
+<P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><BR><BR>
+</P>
+<P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><FONT COLOR="#ff0000"><FONT FACE="Engravers MT, serif"><FONT SIZE=4 STYLE="font-size: 16pt"><B>IESF
+a soufflé ses 170 bougies !</B></FONT></FONT></FONT></P>
+<P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><IMG SRC="Flash_info_N_1876W_html_1e4cdb62.png" NAME="Image 41" ALIGN=BOTTOM WIDTH=250 HEIGHT=150 BORDER=0></P>
+<P ALIGN=JUSTIFY STYLE="margin-bottom: 0.19in">La Société Centrale
+des Ingénieurs Civils a été crée le 4 mars 1848. Ingénieurs Et
+Scientifiques de France est maintenant la fédération des
+associations d'ingénieurs et de scientifiques qui représente la
+profession en France et auprès des instances internationales.
+Bientôt plus d'infos sur les<B> </B>festivités !</P>
+<P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><A HREF="https://www.iesf.fr/offres/gestion/actus_752_33553-2139/iesf-fete-ses-170-bougies.html"><FONT FACE="Calibri, serif"><FONT SIZE=3><B>En
+savoir plus</B></FONT></FONT></A></P>
+<P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><FONT COLOR="#000000"><FONT FACE="Calibri, serif"><FONT SIZE=3>**********************</FONT></FONT></FONT></P>
+<P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><FONT COLOR="#ff0000"><FONT FACE="Engravers MT, serif"><FONT SIZE=4 STYLE="font-size: 16pt"><B>ENQUÊTE
+IESF&nbsp; Ingénieurs et scientifiques, c'est à vous !</B></FONT></FONT></FONT></P>
+<P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><IMG SRC="Flash_info_N_1876W_html_81155383.jpg" NAME="Image 38" ALIGN=BOTTOM WIDTH=200 HEIGHT=100 BORDER=0></P>
+<P ALIGN=JUSTIFY STYLE="margin-bottom: 0.19in">Accessible via PC,
+tablette et smartphone, nous invitons tous les ingénieurs et les
+scientifiques à participer à notre enquête avant le 31 mars en
+contactant directement leur association d'Alumni&nbsp;pour disposer
+du lien d'accès.</P>
+<P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><A HREF="https://www.iesf.fr/offres/gestion/actus_752_32652-1766/lancement-enquete-2018.html"><FONT FACE="Calibri, serif"><FONT SIZE=3><B>En
+savoir plus</B></FONT></FONT></A></P>
+<P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><FONT COLOR="#000000"><FONT FACE="Calibri, serif"><FONT SIZE=3>**********************</FONT></FONT></FONT></P>
+<P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><FONT COLOR="#ff0000"><FONT FACE="Engravers MT, serif"><FONT SIZE=4 STYLE="font-size: 16pt"><B>PARTENARIAT
+</B></FONT></FONT></FONT>
+</P>
+<P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><FONT COLOR="#ff0000"><FONT FACE="Engravers MT, serif"><FONT SIZE=4 STYLE="font-size: 16pt"><B>Visite
+de la « China Association for Science and Technology »</B></FONT></FONT></FONT></P>
+<P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><IMG SRC="Flash_info_N_1876W_html_338d8561.png" NAME="Image 37" ALIGN=BOTTOM WIDTH=200 HEIGHT=100 BORDER=0></P>
+<P ALIGN=JUSTIFY STYLE="margin-bottom: 0.19in"><FONT COLOR="#000000"><FONT FACE="Calibri, serif"><FONT SIZE=3>Le
+5 mars,&nbsp;IESF&nbsp;a reçu la délégation de la China
+Association for Science and Technology. Cette visite a été
+l'occasion de faire vivre le partenariat signé depuis 1993 entre
+IESF et CAST.</FONT></FONT></FONT></P>
+<P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><A HREF="https://www.iesf.fr/offres/gestion/actus_752_33581-1766/visite-de-la-china-association-for-science-and-technology-a-iesf.html"><FONT FACE="Calibri, serif"><FONT SIZE=3><B>En
+savoir plus</B></FONT></FONT></A></P>
+<P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><FONT COLOR="#000000"><FONT FACE="Calibri, serif"><FONT SIZE=3>**********************</FONT></FONT></FONT></P>
+<P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><FONT COLOR="#ff0000"><FONT FACE="Engravers MT, serif"><FONT SIZE=4 STYLE="font-size: 16pt"><B>FORUM
+</B></FONT></FONT></FONT>
+</P>
+<P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><A NAME="_GoBack"></A><FONT COLOR="#ff0000"><FONT FACE="Engravers MT, serif"><FONT SIZE=4 STYLE="font-size: 16pt"><B>Formation
+des ingénieurs et des scientifiques en Auvergne.</B></FONT></FONT></FONT></P>
+<P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><IMG SRC="Flash_info_N_1876W_html_1aa7f503.png" NAME="Image 36" ALIGN=BOTTOM WIDTH=200 HEIGHT=100 BORDER=0></P>
+<P ALIGN=JUSTIFY STYLE="margin-bottom: 0.19in"><FONT FACE="Calibri, serif">Dans
+le cadre de la Semaine de l'Industrie, IESF-Auvergne vous invite le
+jeudi 29 mars à venir témoigner de votre support et de votre
+engagement pour &quot;muscler&quot; la formation des ingénieurs et
+des scientifiques en Auvergne.</FONT></P>
+<P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><A HREF="https://www.iesf.fr/offres/gestion/events_752_40927_non-1/forum-des-ingenieurs-et-scientifiques-d-auvergne.html"><FONT FACE="Calibri, serif"><FONT SIZE=3><B>S'inscrire</B></FONT></FONT></A></P>
+<P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><FONT COLOR="#000000"><FONT FACE="Calibri, serif"><FONT SIZE=3>**********************</FONT></FONT></FONT></P>
+<P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><FONT COLOR="#ff0000"><FONT FACE="Engravers MT, serif"><FONT SIZE=4 STYLE="font-size: 16pt"><B>PUBLICATION
+</B></FONT></FONT></FONT>
+</P>
+<P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><FONT COLOR="#ff0000"><FONT FACE="Engravers MT, serif"><FONT SIZE=4 STYLE="font-size: 16pt"><B>Comment
+mieux traiter les besoins de formation&nbsp;?</B></FONT></FONT></FONT></P>
+<P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><IMG SRC="Flash_info_N_1876W_html_5e355737.png" NAME="Image 35" ALIGN=BOTTOM WIDTH=200 HEIGHT=100 BORDER=0></P>
+<P ALIGN=JUSTIFY STYLE="margin-bottom: 0.19in"><FONT FACE="Calibri, serif">Une
+des clefs de la compétitivité des entreprises est certainement une
+formation appropriée de leurs collaborateurs. Partant de cette idée,
+le comité Mécanique d'IESF a cherché à définir une approche
+générale qui puisse ensuite être appliquée plus précisément à
+son domaine.</FONT></P>
+<P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><A HREF="https://www.iesf.fr/offres/gestion/actus_752_33471-1766/cahier-iesf-n-29.html"><FONT FACE="Calibri, serif"><FONT SIZE=3><B>Lire
+le cahier</B></FONT></FONT></A></P>
+<P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><FONT COLOR="#000000"><FONT FACE="Calibri, serif"><FONT SIZE=3>**********************</FONT></FONT></FONT></P>
+<P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><FONT COLOR="#ff0000"><FONT FACE="Engravers MT, serif"><FONT SIZE=4 STYLE="font-size: 16pt"><B>CONFÉRENCE
+</B></FONT></FONT></FONT>
+</P>
+<P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><FONT COLOR="#ff0000"><FONT FACE="Engravers MT, serif"><FONT SIZE=4 STYLE="font-size: 16pt"><B>L'influence
+des facteurs organisationnels et humains.</B></FONT></FONT></FONT></P>
+<P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><IMG SRC="Flash_info_N_1876W_html_89dd665e.png" NAME="Image 34" ALIGN=BOTTOM WIDTH=200 HEIGHT=100 BORDER=0></P>
+<P ALIGN=JUSTIFY STYLE="margin-bottom: 0.19in"><FONT FACE="Calibri, serif">IESF
+vous convie&nbsp;le lundi 9 avril à sa&nbsp;conférence sur
+l'influence des facteurs organisationnels et humains dans la maîtrise
+des risques.&nbsp;Le 28e&nbsp;cahier du&nbsp;Comité Maîtrise des
+risques opérationnels sera présenté à cette occasion.</FONT></P>
+<P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><A HREF="https://www.iesf.fr/offres/gestion/events_752_41247_non-1/conference-iesf.html"><FONT FACE="Calibri, serif"><FONT SIZE=3><B>S'inscrire</B></FONT></FONT></A></P>
+<P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><FONT COLOR="#000000"><FONT FACE="Calibri, serif"><FONT SIZE=3>**********************</FONT></FONT></FONT></P>
+<P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><FONT COLOR="#ff0000"><FONT FACE="Engravers MT, serif"><FONT SIZE=4 STYLE="font-size: 16pt"><B>François
+Good (X 92), VP Supply sales Optimisation pour le raffinage
+pétrochimie en Europe – Total.</B></FONT></FONT></FONT></P>
+<P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><IMG SRC="Flash_info_N_1876W_html_b00d17b4.png" NAME="Image 33" ALIGN=BOTTOM WIDTH=180 HEIGHT=180 BORDER=0></P>
+<P ALIGN=JUSTIFY STYLE="margin-bottom: 0.19in"><FONT COLOR="#000000"><FONT FACE="Calibri, serif"><FONT SIZE=3>Décidé
+à devenir « La major de l'énergie responsable », le quatrième
+pétrolier mondial s'est engagé dans une transformation profonde
+qui, « portée par le sens », crée au sein de ses équipes une
+émulation et une passion communicatives idéales pour innover et
+s'investir durablement. Rencontre avec François Good (X92), son
+jeune et passionné Vice-Président Supply Sales Optimisation pour le
+Raffinage Petrochimie en Europe.</FONT></FONT></FONT></P>
+<P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><A HREF="http://www.mondedesgrandesecoles.fr/total-prenez-transition-energetique-a-bras-corps/"><FONT FACE="Calibri, serif"><FONT SIZE=3><B>Lire
+l'interview sur mondedesgrandesecoles.fr</B></FONT></FONT></A></P>
+<P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><FONT COLOR="#000000"><FONT FACE="Calibri, serif"><FONT SIZE=3>**********************</FONT></FONT></FONT></P>
+<P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><FONT COLOR="#ff0000"><FONT FACE="Engravers MT, serif"><FONT SIZE=4 STYLE="font-size: 16pt"><B>50e
+anniversaire de la FMOI le 7 mars à la Maison de l'UNESCO.</B></FONT></FONT></FONT></P>
+<P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><IMG SRC="Flash_info_N_1876W_html_d8816132.png" NAME="Image 32" ALIGN=BOTTOM WIDTH=91 HEIGHT=91 BORDER=0></P>
+<P STYLE="margin-bottom: 0.19in"><FONT FACE="Calibri, serif">La
+Fédération Mondiale des Organisations d'Ingénieurs regroupe les
+sociétés d'ingénieurs nationales. C'est la seule organisation
+internationale d'ingénieurs reconnue et consultée par l'UNESCO. En
+tant que membre, IESF participe au sein des commissions sur les
+problématiques de la société civile concernant les sciences,
+l'ingénierie, les technologies et le business. Nos représentants
+sont : Patrick Commereuc, Olivier Appert, Daniel Bernard, Milène
+Guermont, et François Lureau.</FONT></P>
+<P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><A HREF="https://www.iesf.fr/offres/gestion/actus_752_33571-2139/iesf-sera-present-au-50eme-anniversaire-de-la-fmoi.html"><FONT FACE="Calibri, serif"><FONT SIZE=3><B>En
+savoir plus</B></FONT></FONT></A></P>
+<P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><FONT COLOR="#000000"><FONT FACE="Calibri, serif"><FONT SIZE=3>**********************</FONT></FONT></FONT></P>
+<P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><FONT COLOR="#ff0000"><FONT FACE="Engravers MT, serif"><FONT SIZE=4 STYLE="font-size: 16pt"><B>la
+démarche prévention pour protéger la santé des étudiants.</B></FONT></FONT></FONT></P>
+<P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><IMG SRC="Flash_info_N_1876W_html_58afef43.png" NAME="Image 28" ALIGN=BOTTOM WIDTH=91 HEIGHT=82 BORDER=0></P>
+<P STYLE="margin-bottom: 0.19in"><FONT FACE="Calibri, serif"><B>«
+Cpas1Option »&nbsp; : la démarche prévention pour protéger la
+santé des étudiants</B></FONT><FONT FACE="Calibri, serif"> <BR>Le
+BNEI, la CGE, la CDEFI&nbsp;et la MILDECA&nbsp;pilotent le programme
+de prévention des addictions et des comportements à risques en
+milieu étudiant, appelé « Cpas1Option ».</FONT></P>
+<P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><A HREF="https://www.iesf.fr/offres/gestion/events_752_41236_non-1/seminaire-cpas1option-2018.html"><FONT FACE="Calibri, serif"><FONT SIZE=3><B>En
+savoir plus</B></FONT></FONT></A></P>
+<P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><FONT COLOR="#000000"><FONT FACE="Calibri, serif"><FONT SIZE=3>**********************</FONT></FONT></FONT></P>
+<P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><FONT COLOR="#ff0000"><FONT FACE="Engravers MT, serif"><FONT SIZE=4 STYLE="font-size: 16pt"><B>La
+place des écoles d'ingénieurs dans les processus inclusifs de
+l'espace européen </B></FONT></FONT></FONT>
+</P>
+<P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><IMG SRC="Flash_info_N_1876W_html_1547687.png" NAME="Image 27" ALIGN=BOTTOM WIDTH=95 HEIGHT=95 BORDER=0></P>
+<P ALIGN=JUSTIFY STYLE="margin-bottom: 0.19in"><FONT FACE="Calibri, serif">Dans
+le cadre de l'organisation par la France de la conférence
+interministérielle Bologne 2018, la CDEFI et la CTI co-organisent un
+colloque européen les 5 &amp; 6 avril au Musée de l'Histoire de
+l'Immigration à Paris.</FONT></P>
+<P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><A HREF="https://www.iesf.fr/offres/gestion/events_752_41089_non-1/colloque-europeen-cti-cdefi.html"><FONT FACE="Calibri, serif"><FONT SIZE=3><B>S'inscrire</B></FONT></FONT></A></P>
+<P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><FONT COLOR="#000000"><FONT FACE="Calibri, serif"><FONT SIZE=3>**********************</FONT></FONT></FONT></P>
+<P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><FONT COLOR="#ff0000"><FONT FACE="Engravers MT, serif"><FONT SIZE=4 STYLE="font-size: 16pt"><B>L'énergie
+des possibles ou le gaz dans la transition énergétique.</B></FONT></FONT></FONT></P>
+<P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><IMG SRC="Flash_info_N_1876W_html_cb654466.png" NAME="Image 26" ALIGN=BOTTOM WIDTH=98 HEIGHT=44 BORDER=0></P>
+<P ALIGN=JUSTIFY STYLE="margin-bottom: 0.19in"><FONT FACE="Calibri, serif">Le
+Groupe Professionnel énergie des Arts &amp; Métiers organise le
+lundi 9 avril, une conférence &quot;L'énergie des possibles ou le
+gaz dans la transition énergétique&quot; avec comme invité Thierry
+TROUVé est Directeur Général de GRTgaz.</FONT></P>
+<P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><A HREF="https://www.iesf.fr/offres/gestion/events_752_41235_non-1/conference-a-m-alumni.html"><FONT FACE="Calibri, serif"><FONT SIZE=3><B>S'inscrire</B></FONT></FONT></A></P>
+<P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><FONT COLOR="#000000"><FONT FACE="Calibri, serif"><FONT SIZE=3>**********************</FONT></FONT></FONT></P>
+<P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><FONT COLOR="#ff0000"><FONT FACE="Engravers MT, serif"><FONT SIZE=4 STYLE="font-size: 16pt"><B>L'association
+Pasc@line devient Talents du Numérique.</B></FONT></FONT></FONT></P>
+<P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><IMG SRC="Flash_info_N_1876W_html_19f85a42.png" NAME="Image 25" ALIGN=BOTTOM WIDTH=96 HEIGHT=48 BORDER=0></P>
+<P ALIGN=JUSTIFY STYLE="margin-bottom: 0.19in"><FONT FACE="Calibri, serif">Concrètement,
+quels changements ? Un pilotage mixte qui associe établissements de
+formation supérieure et entreprises du numérique : idéal pour
+parler formations et métiers. Un site actualisé et plus clair d'ici
+le printemps, et d'autres découvertes à venir..!</FONT></P>
+<P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><A HREF="http://www.assopascaline.fr/offres/gestion/actus_650_32900-1565/pasc-line-adopte-le-nom-de-talents-du-numerique.html"><FONT FACE="Calibri, serif"><FONT SIZE=3><B>En
+savoir plus</B></FONT></FONT></A></P>
+<P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><BR><BR>
+</P>
+</BODY>
+
