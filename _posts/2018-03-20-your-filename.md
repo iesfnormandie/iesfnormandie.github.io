@@ -1,6 +1,6 @@
 ---
 layout: default
-published: false
+published: true
 title: Flash Info N°1876
 ---
 ## A New Post
@@ -188,4 +188,3 @@ savoir plus</B></FONT></FONT></A></P>
 <P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><BR><BR>
 </P>
 </BODY>
-
