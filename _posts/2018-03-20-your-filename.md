@@ -1,7 +1,7 @@
 ---
 layout: default
 published: false
-title: ''
+title: Flash Info N°1876
 ---
 ## A New Post
 
