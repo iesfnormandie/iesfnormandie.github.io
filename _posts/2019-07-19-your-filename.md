@@ -1,7 +1,7 @@
 ---
 layout: default
 published: false
-title: ''
+title: Flash Info N°1991
 ---
 ![Flash_info_N_1991W_html_2a7760db.jpg]({{site.baseurl}}/media/Flash_info_N_1991W_html_2a7760db.jpg)
 
