@@ -1,7 +1,7 @@
 ---
 layout: default
 published: false
-title: ''
+title: Fladh Info N°1994
 ---
 ## A New Post
 
@@ -24,30 +24,8 @@ title: ''
 
 
 
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
-<HTML>
-<HEAD>
-	<META HTTP-EQUIV="CONTENT-TYPE" CONTENT="text/html; charset=utf-8">
-	<TITLE></TITLE>
-	<META NAME="GENERATOR" CONTENT="LibreOffice 4.1.6.2 (Linux)">
-	<META NAME="AUTHOR" CONTENT="J d V">
-	<META NAME="CREATED" CONTENT="20191112;134100000000000">
-	<META NAME="CHANGEDBY" CONTENT="Jacques de VILLELE">
-	<META NAME="CHANGED" CONTENT="20191112;153200000000000">
-	<META NAME="AppVersion" CONTENT="16.0000">
-	<META NAME="DocSecurity" CONTENT="0">
-	<META NAME="HyperlinksChanged" CONTENT="false">
-	<META NAME="LinksUpToDate" CONTENT="false">
-	<META NAME="ScaleCrop" CONTENT="false">
-	<META NAME="ShareDoc" CONTENT="false">
-	<STYLE TYPE="text/css">
-	<!--
-		@page { margin: 0.59in }
-		P { margin-bottom: 0.08in; direction: ltr; widows: 2; orphans: 2 }
-		A:link { color: #0000ff; so-language: zxx }
-	-->
-	</STYLE>
-</HEAD>
+
+
 <BODY LANG="fr-FR" LINK="#0000ff" DIR="LTR">
 <P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><IMG SRC="/media/c38fbee356f76d40ff77eec038883f76_html_74ea28f8.jpg" NAME="Image 2" ALIGN=BOTTOM WIDTH=680 HEIGHT=66 BORDER=0></P>
 <P ALIGN=RIGHT STYLE="margin-bottom: 0.19in"><FONT SIZE=3><I><B>Flash
@@ -68,7 +46,7 @@ rendu</FONT></FONT></A></P>
 <P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><FONT COLOR="#000000"><FONT FACE="Calibri, serif"><FONT SIZE=3>**********************</FONT></FONT></FONT></P>
 <P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><FONT COLOR="#ff0000"><FONT FACE="Engravers MT, serif"><FONT SIZE=4 STYLE="font-size: 16pt"><B>World
 Engineers Convention 2019.</B></FONT></FONT></FONT></P>
-<P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><IMG SRC="c38fbee356f76d40ff77eec038883f76_html_4759201.png" NAME="Image 37" ALIGN=BOTTOM WIDTH=300 HEIGHT=170 BORDER=0></P>
+<P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><IMG SRC="/media/c38fbee356f76d40ff77eec038883f76_html_4759201.png" NAME="Image 37" ALIGN=BOTTOM WIDTH=300 HEIGHT=170 BORDER=0></P>
 <P ALIGN=JUSTIFY STYLE="margin-bottom: 0.19in">IESF, membre officiel
 et unique représentant des ingénieurs français à la FMOI, sera
 présent à la Convention mondiale des ingénieurs organisée fin
@@ -80,7 +58,7 @@ d'informations</FONT></FONT></A></P>
 <P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><FONT COLOR="#000000"><FONT FACE="Calibri, serif"><FONT SIZE=3>**********************</FONT></FONT></FONT></P>
 <P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><FONT COLOR="#ff0000"><FONT FACE="Engravers MT, serif"><FONT SIZE=4 STYLE="font-size: 16pt"><B>JNI
 2020.</B></FONT></FONT></FONT></P>
-<P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><IMG SRC="c38fbee356f76d40ff77eec038883f76_html_5ebe7329.png" NAME="Image 34" ALIGN=BOTTOM WIDTH=200 HEIGHT=100 BORDER=0></P>
+<P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><IMG SRC="/media/c38fbee356f76d40ff77eec038883f76_html_5ebe7329.png" NAME="Image 34" ALIGN=BOTTOM WIDTH=200 HEIGHT=100 BORDER=0></P>
 <P ALIGN=JUSTIFY STYLE="margin-bottom: 0.19in">Pour cette 7ème
 édition des Journées Nationales de l'Ingénieur, sur le thème
 phare &quot;Agir pour le développement durable&quot;, IESF vous
@@ -91,7 +69,7 @@ entendre la voix des ingénieurs. Labellisez dès maintenant vos
 <P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><FONT COLOR="#000000"><FONT FACE="Calibri, serif"><FONT SIZE=3>**********************</FONT></FONT></FONT></P>
 <P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><FONT COLOR="#ff0000"><FONT FACE="Engravers MT, serif"><FONT SIZE=4 STYLE="font-size: 16pt"><B>Formation
 Expert Bâtiment.</B></FONT></FONT></FONT></P>
-<P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><IMG SRC="c38fbee356f76d40ff77eec038883f76_html_24f0b207.png" NAME="Image 33" ALIGN=BOTTOM WIDTH=200 HEIGHT=100 BORDER=0></P>
+<P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><IMG SRC="/media/c38fbee356f76d40ff77eec038883f76_html_24f0b207.png" NAME="Image 33" ALIGN=BOTTOM WIDTH=200 HEIGHT=100 BORDER=0></P>
 <P ALIGN=JUSTIFY STYLE="margin-bottom: 0.19in">Du 27 au 29 novembre,
 une formation sur les pathologies du second oeuvre technique est
 réalisée à l'INP Toulouse par IESF Occitanie Toulouse en
@@ -103,7 +81,7 @@ savoir plus sur la formation</FONT></FONT></A></P>
 <P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><FONT COLOR="#000000"><FONT FACE="Calibri, serif"><FONT SIZE=3>**********************</FONT></FONT></FONT></P>
 <P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><FONT COLOR="#ff0000"><FONT FACE="Engravers MT, serif"><FONT SIZE=4 STYLE="font-size: 16pt"><B>Les
 machines de Vinci.</B></FONT></FONT></FONT></P>
-<P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><IMG SRC="c38fbee356f76d40ff77eec038883f76_html_fd47c16c.png" NAME="Image 24" ALIGN=BOTTOM WIDTH=200 HEIGHT=100 BORDER=0></P>
+<P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><IMG SRC="/media/c38fbee356f76d40ff77eec038883f76_html_fd47c16c.png" NAME="Image 24" ALIGN=BOTTOM WIDTH=200 HEIGHT=100 BORDER=0></P>
 <P ALIGN=JUSTIFY STYLE="margin-bottom: 0.19in">IESF Centre Val de
 Loire a pris l'initiative de faire connaître l'ingénieur et le
 scientifique qu'était l'artiste Léonard de Vinci en organisant
@@ -115,7 +93,7 @@ de l'exposition</FONT></FONT></A></P>
 <P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><FONT COLOR="#000000"><FONT FACE="Calibri, serif"><FONT SIZE=3>**********************</FONT></FONT></FONT></P>
 <P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><FONT COLOR="#ff0000"><FONT FACE="Engravers MT, serif"><FONT SIZE=4 STYLE="font-size: 16pt"><B>Incendie
 LUBRIZOL.</B></FONT></FONT></FONT></P>
-<P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><IMG SRC="c38fbee356f76d40ff77eec038883f76_html_fb2d74e7.png" NAME="Image 23" ALIGN=BOTTOM WIDTH=200 HEIGHT=100 BORDER=0></P>
+<P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><IMG SRC="/media/c38fbee356f76d40ff77eec038883f76_html_fb2d74e7.png" NAME="Image 23" ALIGN=BOTTOM WIDTH=200 HEIGHT=100 BORDER=0></P>
 <P ALIGN=JUSTIFY STYLE="margin-bottom: 0.19in">Le 26 septembre, un
 incendie d'origine encore non déterminée s'est déclaré au sein de
 l'usine LUBRIZOL France de Rouen et de l'entreprise Normandie
@@ -126,7 +104,7 @@ du comité chimie d'IESF</FONT></FONT></A></P>
 <P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><FONT COLOR="#000000"><FONT FACE="Calibri, serif"><FONT SIZE=3>**********************</FONT></FONT></FONT></P>
 <P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><FONT COLOR="#ff0000"><FONT FACE="Engravers MT, serif"><FONT SIZE=4 STYLE="font-size: 16pt"><B>L’Ingénieur
 du mois.</B></FONT></FONT></FONT></P>
-<P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><IMG SRC="c38fbee356f76d40ff77eec038883f76_html_95c71345.jpg" NAME="Image 18" ALIGN=BOTTOM WIDTH=150 HEIGHT=150 BORDER=0></P>
+<P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><IMG SRC="/media/c38fbee356f76d40ff77eec038883f76_html_95c71345.jpg" NAME="Image 18" ALIGN=BOTTOM WIDTH=150 HEIGHT=150 BORDER=0></P>
 <P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><B>Manoelle Lepoutre
 <BR>(</B><I><B>ENSG 91, ENSPM 82</B></I><B>) <BR>Senior Vice
 President Civil Society Engagement de Total</B></P>
@@ -143,7 +121,7 @@ l'interview</FONT></A></P>
 <P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><FONT COLOR="#000000"><FONT FACE="Calibri, serif"><FONT SIZE=3>**********************</FONT></FONT></FONT></P>
 <P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><FONT COLOR="#ff0000"><FONT FACE="Engravers MT, serif"><FONT SIZE=4 STYLE="font-size: 16pt"><B>Participation
 de Femmes Ingénieurs à EVIDENCES 2019.</B></FONT></FONT></FONT></P>
-<P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><IMG SRC="c38fbee356f76d40ff77eec038883f76_html_3b95baba.png" NAME="Image 17" ALIGN=BOTTOM WIDTH=69 HEIGHT=70 BORDER=0></P>
+<P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><IMG SRC="/media/c38fbee356f76d40ff77eec038883f76_html_3b95baba.png" NAME="Image 17" ALIGN=BOTTOM WIDTH=69 HEIGHT=70 BORDER=0></P>
 <P ALIGN=JUSTIFY STYLE="margin-bottom: 0.19in">À l'occasion de
 l'ouverture du Festival Lyon gagne avec ses femmes le mardi 12
 novembre, l'association Femmes Ingénieurs tiendra un stand lors de
@@ -155,7 +133,7 @@ de participation</FONT></FONT></A></P>
 <P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><FONT COLOR="#000000"><FONT FACE="Calibri, serif"><FONT SIZE=3>**********************</FONT></FONT></FONT></P>
 <P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><FONT COLOR="#ff0000"><FONT FACE="Engravers MT, serif"><FONT SIZE=4 STYLE="font-size: 16pt"><B>Salon
 des Arts CentraleSupélec 2019.</B></FONT></FONT></FONT></P>
-<P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><IMG SRC="c38fbee356f76d40ff77eec038883f76_html_146fe9a.png" NAME="Image 15" ALIGN=BOTTOM WIDTH=110 HEIGHT=73 BORDER=0></P>
+<P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><IMG SRC="/media/c38fbee356f76d40ff77eec038883f76_html_146fe9a.png" NAME="Image 15" ALIGN=BOTTOM WIDTH=110 HEIGHT=73 BORDER=0></P>
 <P ALIGN=JUSTIFY STYLE="margin-bottom: 0.19in">Artistes, visiteurs,
 vous êtes invités à participer au premier Salon des Arts
 CentraleSupélec qui se tiendra du 18 novembre au 13 décembre 2019.
@@ -165,7 +143,7 @@ Entrée libre du lundi au vendredi de 9h30 à 12h00 et de 13h30 à
 <P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><FONT COLOR="#000000"><FONT FACE="Calibri, serif"><FONT SIZE=3>**********************</FONT></FONT></FONT></P>
 <P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><FONT COLOR="#ff0000"><FONT FACE="Engravers MT, serif"><FONT SIZE=4 STYLE="font-size: 16pt"><B>Assemblée
 Générale des Élèves Ingénieurs.</B></FONT></FONT></FONT></P>
-<P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><IMG SRC="c38fbee356f76d40ff77eec038883f76_html_828e4c6c.png" NAME="Image 13" ALIGN=BOTTOM WIDTH=94 HEIGHT=53 BORDER=0></P>
+<P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><IMG SRC="/media/c38fbee356f76d40ff77eec038883f76_html_828e4c6c.png" NAME="Image 13" ALIGN=BOTTOM WIDTH=94 HEIGHT=53 BORDER=0></P>
 <P ALIGN=JUSTIFY STYLE="margin-bottom: 0.19in">Le BNEI est l'unique
 association représentant l'ensemble des 143 000 élèves-ingénieurs
 en fédérant les 201 écoles d'ingénieurs en France. Cette année,
@@ -178,7 +156,7 @@ des places</FONT></FONT></A></P>
 <P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><FONT COLOR="#000000"><FONT FACE="Calibri, serif"><FONT SIZE=3>**********************</FONT></FONT></FONT></P>
 <P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><FONT COLOR="#ff0000"><FONT FACE="Engravers MT, serif"><FONT SIZE=4 STYLE="font-size: 16pt"><B>CONVENTION
 &amp; GRANDS PRIX DE L’ACADÉMIE DES TECHNOLOGIES.</B></FONT></FONT></FONT></P>
-<P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><IMG SRC="c38fbee356f76d40ff77eec038883f76_html_a9da3a21.png" NAME="Image 11" ALIGN=BOTTOM WIDTH=118 HEIGHT=30 BORDER=0></P>
+<P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><IMG SRC="/media/c38fbee356f76d40ff77eec038883f76_html_a9da3a21.png" NAME="Image 11" ALIGN=BOTTOM WIDTH=118 HEIGHT=30 BORDER=0></P>
 <P ALIGN=JUSTIFY STYLE="margin-bottom: 0.19in">L'Académie des
 technologies vous convie à la 3ème édition de ses Convention &amp;
 Grands Prix qui se tiendra le 18 novembre prochain à la Maison de la
@@ -191,7 +169,7 @@ et inscription</FONT></FONT></A></P>
 <P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><FONT COLOR="#000000"><FONT FACE="Calibri, serif"><FONT SIZE=3>**********************</FONT></FONT></FONT></P>
 <P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><FONT COLOR="#ff0000"><FONT FACE="Engravers MT, serif"><FONT SIZE=4 STYLE="font-size: 16pt"><B>CO2
 : de ses productions fatales vers son utilisation optimale.</B></FONT></FONT></FONT></P>
-<P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><IMG SRC="c38fbee356f76d40ff77eec038883f76_html_5b34aa56.png" NAME="Image 9" ALIGN=BOTTOM WIDTH=100 HEIGHT=101 BORDER=0></P>
+<P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><IMG SRC="/media/c38fbee356f76d40ff77eec038883f76_html_5b34aa56.png" NAME="Image 9" ALIGN=BOTTOM WIDTH=100 HEIGHT=101 BORDER=0></P>
 <P ALIGN=JUSTIFY STYLE="margin-bottom: 0.19in">L'Union Nationale des
 Associations Françaises d'Ingénieurs Chimistes (UNAFIC) et la
 Fondation de la Maison de la Chimie organisent un dîner-débat le 26
@@ -205,7 +183,7 @@ d'inscription</FONT></FONT></A></P>
 <P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><FONT COLOR="#000000"><FONT FACE="Calibri, serif"><FONT SIZE=3>**********************</FONT></FONT></FONT></P>
 <P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><FONT COLOR="#ff0000"><FONT FACE="Engravers MT, serif"><FONT SIZE=4 STYLE="font-size: 16pt"><B>remise
 du Grand Prix Charles-Henri Besnard 2019.</B></FONT></FONT></FONT></P>
-<P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><IMG SRC="c38fbee356f76d40ff77eec038883f76_html_d55ac14e.png" NAME="Image 7" ALIGN=BOTTOM WIDTH=100 HEIGHT=61 BORDER=0></P>
+<P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><IMG SRC="/media/c38fbee356f76d40ff77eec038883f76_html_d55ac14e.png" NAME="Image 7" ALIGN=BOTTOM WIDTH=100 HEIGHT=61 BORDER=0></P>
 <P ALIGN=JUSTIFY STYLE="margin-bottom: 0.19in">La cérémonie de
 remise du Grand Prix Charles-Henri Besnard de la Fondation du CNAM,
 dont IESF est partenaire, se déroulera le mercredi 4 décembre à
@@ -217,7 +195,7 @@ d'une douzaine de personnalités qualifiées.</P>
 <P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><FONT COLOR="#000000"><FONT FACE="Calibri, serif"><FONT SIZE=3>**********************</FONT></FONT></FONT></P>
 <P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><FONT COLOR="#ff0000"><FONT FACE="Engravers MT, serif"><FONT SIZE=4 STYLE="font-size: 16pt"><B>50
 alumni de l'ENAC à l'Assemblée nationale.</B></FONT></FONT></FONT></P>
-<P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><IMG SRC="c38fbee356f76d40ff77eec038883f76_html_612422f0.png" NAME="Image 5" ALIGN=BOTTOM WIDTH=96 HEIGHT=94 BORDER=0></P>
+<P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><IMG SRC="/media/c38fbee356f76d40ff77eec038883f76_html_612422f0.png" NAME="Image 5" ALIGN=BOTTOM WIDTH=96 HEIGHT=94 BORDER=0></P>
 <P ALIGN=JUSTIFY STYLE="margin-bottom: 0.19in">La stigmatisation du
 transport aérien est très peu compréhensible pour les 24.000
 anciens élèves diplômés de l'ENAC. C'est la raison pour laquelle
@@ -230,4 +208,3 @@ Nationale.</P>
 d'information</FONT></FONT></A></P>
 <P ALIGN=CENTER STYLE="margin-bottom: 0.19in"><A NAME="_GoBack"></A><FONT COLOR="#000000"><FONT FACE="Calibri, serif"><FONT SIZE=3>**********************</FONT></FONT></FONT></P>
 </BODY>
-</HTML>
